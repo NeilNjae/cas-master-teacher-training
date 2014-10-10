@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hangman</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+      /* Slideshow styles */
+      body {
+        font-size: 20px;
+      }
+      h1, h2, h3 {
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      h1 { font-size: 3em; }
+      h2 { font-size: 2em; }
+      h3 { font-size: 1.6em; }
+      a, a > code {
+        text-decoration: none;
+      }
+      code {
+        -moz-border-radius: 5px;
+        -web-border-radius: 5px;
+        background: #e7e8e2;
+        border-radius: 5px;
+        font-size: 16px;
+      }
+      .plaintext {
+        background: #272822;
+        color: #80ff80;
+        text-shadow: 0 0 20px #333;
+        padding: 2px 5px;
+      }
+      .ciphertext {
+        background: #272822;
+        color: #ff6666;
+        text-shadow: 0 0 20px #333;
+        padding: 2px 5px;
+      }
+      .indexlink {
+        position: absolute;
+        bottom: 1em;
+        left: 1em;
+      }
+       .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+# Hangman
+
+1. Set a puzzle
+2. Guess a word
+3. Automatic player
+4. Better strategies
+
+---
+
+layout: true
+
+.indexlink[[Index](index.html)]
+
+---
+# Hangman setter
+
+A fairly traditional hangman game. The computer chooses a word, the (human) player has to guess it without making too many wrong guesses. You'll need to find a list of words to chose from and develop a simple UI for the game (e.g. text only: display the target word with underscores and letters, lives left, and maybe incorrect guesses). 
+
+## Data structures
+
+* What do we need to track?
+* What operations do we need to perform on it?
+* How to store it?
+
+---
+# Data for Hangman
+
+## Creating a game
+* 'List' of words to choose from
+    * Pick one at random
+
+## Game state
+
+<table>
+<tr valign="top">
+<th>Data</th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th>Operations</th>
+</tr>
+<tr valign="top">
+<td>
+
+* Target word
+* Discovered letters
+    * In order in the word
+* Lives left
+* Wrong letters?
+
+</td>
+<td></td>
+<td>
+
+* Get a guess
+* Update discovered letters
+* Update lives
+* Show discovered word
+* Detect game end, report
+* Detect game win or loss, report
+
+</td>
+</tr>
+</table>
+
+---
+# Hangman guesser
+
+The other side of the game. The human choses a word, the computer has to guess it. Again, go for a very simple UI. Perhaps the human just responds with a list of letter positions for a correct guess, or zero for an incorrect guess. 
+
+## Data structures
+
+* What do we need to track?
+* What operations do we need to perform on it?
+* How to store it?
+
+## Need to think about the algorithm first
+
+How will we solve the game?
+
+---
+
+# Guessing strategies
+
+Guess words in order of frequency in English
+
+What is the frequency of letters in English?
+
+Pick a novel, count the letters, list them in frequency order
+
+Hint: four lines of code, two of them are 
+```python
+import collections
+import string```
+
+---
+
+# Building a guesser
+
+Given:
+
+* the discovered word
+* the wrong guesses so far
+* the order of letters to guess
+
+Find:
+
+* The most common unguessed letter
+
+Build one
+
+---
+# Autoplayer
+
+Put step 1 and step 2 together so the computer can play both sides of hangman on its own. You'll need to fix the interface between the two sides: perhaps define a fixed format for the "state" of a hangman game. Get them to play several thousand games together and log the results (how many games can they play overnight?). Do a bit of data analysis: how many games were won, how does the word length affect the win rate and the number of guesses needed to get the word, is the number of guesses per target letter constant, and so on.
+
+---
+# Autoplayer
+
+Tidy things up: encapsulate in objects
+
+Define a class for a game, a class for a player
+
+Run a game by instantiating a game object, passing in a player object
+
+Interface: the `player` must respond to a `guess` method
+
+Make the `game` generate output only if it's not passed a `player` 
+
+---
+# Different player strategies
+
+Develop different strategies for playing hangman and see which is best. Can you order guesses by letter occurrence frequency (in either normal English or the dictionary)? Does a stochastic or deterministic approach work better?
+What counts as a "better" strategy?
+
+* Think of some better players
+* Implement them
+* Test their performance
+* Write records of game to CSV files (look at the standard `csv` library)
+
+    </textarea>
+    <script src="http://gnab.github.io/remark/downloads/remark-0.6.0.min.js" type="text/javascript">
+    </script>
+
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntil=configured"></script>
+
+    <script type="text/javascript">
+      var slideshow = remark.create({ ratio: "16:9" });
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        }
+      });
+      MathJax.Hub.Queue(function() {
+        $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+            return(elem.SourceElement());
+        }).parent().addClass('has-jax');
+      });
+      MathJax.Hub.Configured();
+    </script>
+  </body>
+</html>
