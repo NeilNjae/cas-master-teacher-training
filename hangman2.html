@@ -52,10 +52,14 @@
 
 # Hangman
 
-1. **Set a puzzle** &lt;== here
+1. **Set a puzzle** ← here
 2. Guess a word
 3. Automatic player
 4. Better strategies
+
+## Filtering the dictionary
+
+What's the best way to filter the dictionary of invalid words?
 
 ---
 
@@ -117,7 +121,7 @@ We've got a list of valid words.
 
 # Representing the game state
 
-Three data items:
+Five data items:
 
 * `target`, the target word: a `string`
 * `discovered`, what's been found so far: a `list` of letters (each a length-one `string`)
@@ -125,7 +129,7 @@ Three data items:
 * `guess`, the letter that's just been guessed: a length-one `string`
 * `lives`, the lives remaining: an `int`
 * `wrong_letters`, the incorrect guesses: a `list` (optional)
-    * (but it makes the automated players easier if they don't have to track wrong guesses and therefore be made stateless)
+    * (but it makes the automated players easier if they don't have to track wrong guesses)
 
 ---
 
@@ -140,9 +144,12 @@ Three data items:
 ## Hints
 
 1. Remember `<string>.join(<list>)` ?
-2. `input('prompt')` (or `input('prompt').strip().lower()[0]` )
-3. Walk over `target`, looking for `guess`. Explicit iteration (`for letter in target:`) or with a comprehension (`enumerate(target)`)
-4. `target[n] = guess`. Note that you need the numerical position, and you need all the positions for repeated words.
+2. `input('prompt')` (or `guess = input('prompt').strip().lower()[0]` )
+3. Walk over `target`, looking for `guess`. 
+    * Explicit iteration (`for i in range(len(target)):`) 
+    * With a comprehension (`[... for i, l in enumerate(target) if... ]`)
+4. `target[n] = guess`. 
+    * Note that you need the numerical position, and you need *all* the positions for repeated letters.
 5. How do you know the guess is wrong?
 
 
