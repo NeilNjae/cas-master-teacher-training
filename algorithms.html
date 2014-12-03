@@ -54,6 +54,318 @@
 
 ## What's all the fuss about?
 
+---
+
+layout: true
+
+.indexlink[[Index](index.html)]
+
+---
+
+# What is an algorithm? What is a computer?
+
+Back when computers were human...
+
+* Instructions
+* (Small) working memory
+* As much notepaper as you wanted
+* Input → output
+
+## Turing machines
+
+Simplified human computer.
+
+* (Instructions + memory) → Finite number of states
+    * (States similar to places on a flowchart)
+* Notepaper → tape (with limited symbols)
+
+Algorithm is the instructions
+
+(See TU100 Block 2 Part 1, M269 Unit 2)
+
+---
+
+# Sequence, selection, repetition
+
+Repetition == iteration or recursion
+
+---
+
+# Growth rates
+
+![left-aligned Growth rates ](big-o-chart-smaller.png) .float-right[![right-aligned Growth rates ](big-o-chart-2-smaller.png)]
+
+`\(f(n) \text{ is } O(g(n)) \quad\text{ if }\quad |f(n)| \le \; M |g(n)|\text{ for all }n \ge N\)`
+
+---
+# Complexity classes we care about
+
+* Exponential or bigger (2<sup>*n*</sup>, *e*<sup>*n*</sup>, or *n*!)
+* Polynomial (*n*<sup>*k*</sup>)
+* Linear (*n*)
+* Sub-linear (log *n*)
+
+Generally:
+
+* polynomial or smaller is considered tractable 
+* anything exponential or larger is intractable
+
+(Exceptions exist in practice.)
+
+---
+
+# Anagrams version 1: checking off
+
+```
+Given word1, word2
+
+anagram? = True
+for character in word1:
+    for pointer in range(len(word2)):
+        if character == word2[pointer]:
+            word2[pointer] = None
+        else:
+            anagram? = False
+return anagram?
+```
+
+Nested loops: complexity is *O*(*n*₁ × *n*₂), or *O*(*n*²).
+
+--
+
+Can anyone see the bug?
+
+--
+
+word1 = "cat", word2 = "catty"
+
+---
+
+# Anagrams version 1a: checking off (fixed)
+
+```
+Given word1, word2
+
+anagram? = True
+for character in word1:
+    for pointer in range(len(word2)):
+        if character == word2[pointer]:
+            word2[pointer] = None
+        else:
+            anagram? = False
+for pointer in range(len(word2)):
+    if word2[pointer] != None:
+        anagram? = False
+return anagram?
+```
+
+---
+
+# Anagrams version 2: sort and comapre
+
+```
+Given word1, word2
+
+return sorted(word1) == sorted(word2)
+```
+
+What's the complexity of `sorted`? What's the complexity of `==`?
+
+---
+
+# Anagrams version 2a: sort and comapre
+
+```
+Given word1, word2
+
+sorted_word1 = sorted(word1)
+sorted_word2 = sorted(word2)
+
+anagram? = True
+for i in range(len(sorted_word1)):
+    if sorted_word1[i] != sorted_word2[i]:
+        anagram? = False
+return anagram?
+```
+
+One `for` in the comparison, so its complexity is *O*(*n*).
+
+(`len` is also *O*(*n*))
+
+What's the complexity of `sorted`? 
+
+---
+
+# Anagrams version 2a': sort and comapre, idiomatic
+
+```
+Given word1, word2
+
+sorted_word1 = sorted(word1)
+sorted_word2 = sorted(word2)
+
+anagram? = True
+for l1, l2 in zip_longest(sorted_word1, sorted_word2):
+    if l1 != l2:
+        anagram? = False
+return anagram?
+```
+
+`zip_longest` is lazy, so still *O*(*n*).
+
+(Can't use `zip` as it truncates the longest iterable, giving the same bug as number 1)
+
+Still dominated by the *O*(*n* log *n*) of `sorted`.
+
+---
+
+# Anagrams version 3: permutations
+
+```
+Given word1, word2
+
+anagram? = False
+for w in permutations(word1):
+    w == word2:
+        anagram? = True
+return anagram?
+```
+
+(Code for `permutations` is complex.)
+
+How many permutations are there?
+
+---
+
+# Anagrams version 4: counters
+
+```
+Given word1, word2
+
+counts1 = [0] * 26
+counts2 = [0] * 26
+
+for c in word1:
+    counts1[num_of(c)] += 1
+
+for c in word2:
+    counts2[num_of(c)] += 1
+
+anagram? = True
+for i in range(26):
+    if counts1[i] != counts2[1]:
+        anagram = False
+return anagram?
+```
+
+Three `for`s, but they're not nested. Complexity is *O*(*n*₁ + *n*₂ + 26) or *O*(*n*).
+
+`dict`s seem a natural way of representing the count. What do you need to be careful of?
+
+(Alternative: maintain a single list of differences in letter counts. Initialise to all zero, should be all zero when you've finished.)
+
+Notice: trading space for time.
+
+---
+
+# Finding all anagrams
+
+Given a `wordlist` and a `word`, find all anagrams of `word` in `wordlist`.
+
+* How does your answer change if you know you need to do this just once, or millions of times?
+
+# Anagrams of phrases
+
+Given a wordlist and a phrase, find another phrase that's an anagram.
+
+---
+
+# Dealing with complex problems: some terms to know
+
+(M269 Unit 5)
+
+## Divide and Conquer
+
+* Split a problem into smaller parts
+* Solve them
+* Combine the sub-solutions
+* Often leads to logarithmic growth
+
+"Guess the number" game
+    * What if I don't tell you the upper limit?
+
+## Dynamic programming
+
+Build a soluion bottom-up from subparts
+
+## Heuristics
+
+* Posh word for "guess"
+* Greedy algorithms
+* Backtracking
+---
+
+# Sorting with cards
+
+Classroom activity?
+
+---
+
+# Algorithmic games
+
+## Travelling Salesman Problem
+
+Online: http://www.math.uwaterloo.ca/tsp/games/tspOnePlayer.html
+
+* But many implementations are Java applets, now a problem with security settings
+
+Try Android/iOS apps?
+
+## Change-finding problem
+
+Same as the Knapsack problem: M269 Unit 5 Section 3.2, especially Activity 5.9
+
+Dynamic programming to find solution
+
+## Ticket to Ride boardgame
+
+---
+
+# Turing and computability
+
+(Following [Craig Kaplan's description of the Halting Problem](http://www.cgl.uwaterloo.ca/~csk/halt/))
+
+## The Entscheidungsproblem (Decision problem)
+
+Given some axioms, rules of deduction, and a statement (input), can you prove whether the statement follows from the axioms?
+
+The rules could be described to a human computer.
+
+The computer would either answer "Yes," "No," or never stop working.
+
+This is the Halting problem.
+
+---
+
+# Universal Turing machine
+
+.float-right[![A computer](human-computer-worksheet.png)]
+
+A Turing machine does one particular job
+
+But you can describe how to do that job to another person
+
+In other words, you can treat the instructions as the input to another machine
+
+A *universal* Turing machine can take the description of any Turing machine and produce the same output
+
+* Instruction = input
+* Program = data
+
+*This* shows that computing as we know it is possible.
+
+
+
 
     </textarea>
     <script src="http://gnab.github.io/remark/downloads/remark-0.6.0.min.js" type="text/javascript">
