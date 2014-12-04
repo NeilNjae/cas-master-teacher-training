@@ -1,0 +1,36 @@
+digraph G {
+	ten [label="10\n0, 0, 0"];
+	nine [label="9\n1, 0, 0"];
+	eight [label="8\n 0, 1, 0"];
+	eighta [label="8\n2, 0, 0"];
+	five [label="5\n0, 0, 1"];
+	seven [label="7\n1, 1, 0"];
+	four [label="4\n1, 0, 5"];
+	six [label="6\n0, 2, 0"];
+	three [label="3\n0, 1, 1"];
+	five [label="5\n0, 0, 1"];
+	zero [label="0\n0, 0, 2"];
+	sixa [label="6\n2, 1, 0"];
+	fivea [label="5\n1, 2, 0"];
+	two [label="2\n1, 1, 1"];
+
+	ten -> nine;
+	ten -> eight;
+	ten -> five;
+
+	nine -> eighta;
+	nine -> seven;
+	nine -> four;
+
+	seven -> sixa;
+	seven -> fivea;
+	seven -> two;
+
+	eight -> seven;
+	eight -> six;
+	eight -> three;
+
+	five -> four;
+	five -> three;
+	five -> zero;
+}
