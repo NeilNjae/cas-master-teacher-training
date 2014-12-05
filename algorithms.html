@@ -54,6 +54,8 @@
 
 ## What's all the fuss about?
 
+![Alan Turing](alan-turing.jpg)
+
 ---
 
 layout: true
@@ -71,6 +73,7 @@ Back when computers were human...
 * As much notepaper as you wanted
 * Input → output
 
+.float-right[![right-aligned Growth rates ](turing-machine.jpg)]
 ## Turing machines
 
 Simplified human computer.
@@ -88,6 +91,14 @@ Algorithm is the instructions
 # Sequence, selection, repetition
 
 Repetition == iteration or recursion
+
+What questions can we ask about algorithms?
+
+* Is it correct?
+* Does it terminate?
+* How long does it take?
+
+Different hardware works at different rates, so ask about how the run time changes with input size.
 
 ---
 
@@ -143,6 +154,9 @@ word1 = "cat", word2 = "catty"
 
 # Anagrams version 1a: checking off (fixed)
 
+<table width="100%">
+<tr>
+<td>
 ```
 Given word1, word2
 
@@ -158,6 +172,26 @@ for pointer in range(len(word2)):
         anagram? = False
 return anagram?
 ```
+</td>
+<td>
+```
+Given word1, word2
+
+if len(word1) == len(word2):
+    anagram? = True
+    for character in word1:
+        for pointer in range(len(word2)):
+            if character == word2[pointer]:
+                word2[pointer] = None
+            else:
+                anagram? = False
+    return anagram?
+else:
+    return False
+```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -300,7 +334,8 @@ Don't forget bogosort!
 * Often leads to logarithmic growth
 
 "Guess the number" game
-    * What if I don't tell you the upper limit?
+
+* What if I don't tell you the upper limit?
 
 ## Dynamic programming
 
@@ -313,6 +348,13 @@ Build a soluion bottom-up from subparts
 * Posh word for "guess"
 * Greedy algorithms
 * Backtracking
+
+# Parallelism vs concurrency
+
+* Parallelism is implementation
+    * spread the load
+* Concurrency is domain
+    * new task arrives before you've finished this one
 
 ---
 
@@ -421,6 +463,14 @@ The computer would either answer "Yes," "No," or never stop working.
 
 This is the Halting problem.
 
+```python
+while i > 0:
+    print(i)
+    i -= 1
+```
+
+Will this halt? When will it not?
+
 ---
 
 # Universal Turing machine
@@ -445,7 +495,141 @@ A *universal* Turing machine can take the description of any Turing machine and 
 * Virtual machines
 * ...
 
+---
 
+# Back to halting
+
+* Universal Turing machine can do any possible computation
+* Has the same halting behaviour of the emulated machine
+
+Can we build another machine that detects if a machine halts when given some input?
+
+Assume we can...
+
+```python
+def does_it_stop(program, input):
+    if very_clever_decision:
+        return True
+    else:
+        return False
+```
+
+But I can use the program listing as an input:
+
+```python
+def stops_on_self(program):
+    return does_it_stop(program, program)
+```
+
+---
+
+# Halting: the clever bit
+
+<table width="100%">
+<tr>
+<td>
+```python
+def does_it_stop(program, input):
+    if very_clever_decision:
+        return True
+    else:
+        return False
+```
+</td>
+<td>
+```python
+def stops_on_self(program):
+    return does_it_stop(program, program)
+```
+</td>
+</tr>
+</table>
+
+Let's put an infinite loop in a program that detects infinite loops!
+
+```python
+def bobs_yer_uncle(program):
+    if stops_on_self(program):
+        while True:
+            pass
+    else:
+        return True
+```
+
+If a `program` halts on on itself, `bobs_yer_uncle` doesn't halt. If `program` doesn't halt, `bobs_yer_uncle` returns `True`.
+
+--
+
+What does this do?
+```python
+bobs_yer_uncle(bobs_yer_uncle)
+```
+
+---
+
+<table width="100%">
+<tr>
+<td>
+```python
+def does_it_stop(program, input):
+    if very_clever_decision:
+        return True
+    else:
+        return False
+```
+</td>
+<td>
+```python
+def stops_on_self(program):
+    return does_it_stop(program, program)
+```
+</td>
+<td>
+```python
+def bobs_yer_uncle(program):
+    if stops_on_self(program):
+        while True:
+            pass
+    else:
+        return True
+```
+</td>
+</tr>
+</table>
+
+What does this do?
+```python
+bobs_yer_uncle(bobs_yer_uncle)
+```
+
+<table>
+<tr>
+<th>If it halts...</th>
+<th>If doesn't halt...</th>
+</td>
+<tr>
+<td>
+<ul>
+<li>`stops_on_self(bobs_yer_uncle)` returns `False`</li>
+<li>`does_it_stop(bobs_yer_uncle, bobs_yer_uncle)` returns `False`</li>
+<li>`bobs_yer_uncle(bobs_yer_uncle)` must loop forever</li>
+</ul>
+<b>Contradiction!</b>
+</td>
+<td>
+<ul>
+<li>`stops_on_self(bobs_yer_uncle)` returns `True`</li>
+<li>`does_it_stop(bobs_yer_uncle, bobs_yer_uncle)` returns `True`</li>
+<li>`bobs_yer_uncle(bobs_yer_uncle)` must halt</li>
+</ul>
+<b>Contradiction!</b>
+</td>
+</tr>
+</table>
+
+No flaw in the logic. The only place there could be a mistake is our assumption that `does_it_stop` is possible.
+
+(M269 has a different proof based on different sizes of infinity, and showing that there are infinitely more problems than there are Turing machines to solve them.)
 
 
     </textarea>
