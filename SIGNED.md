@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJUhfjeAAoJEJPB2e07PgbqPOgP/2oJ4tpJt9v1mwPMKbo1l0j2
-Wd687ZtdUcZkv1V9ZrgX/LRfDk08Yf2lWlj00U7uIXp7uhrAfepdQLCy6pWqBQs/
-mTHY6RvG+OB8xdtsOexxgQAzukg/U8d812MtUgbA8RS8yxrlmjaYTcWTXBgqSnQp
-xXsSzuNkFsHx9iop9GRAP+v8uQttmQCwLQ/XXgvGTjgvykYPGuI3WEY6RFEXOTEb
-BCY4V1vsqzkZeCnAdBeDI0Ap07fKh9OvFQ4PCDM+4KdQbIi3BFOYvHsrfBWhEcpB
-XSIKr0hIuBmVi2NydIBtvXfWJz4Sx0V5sKVBrnuGOvO5Y2EjrLrSnxBU122eF6vM
-NP70+Zdo+FqolDBfJy3Oz1tIjDCahfmk7WWhrR/tmy6urzCE/NMXHv61qGKFNe/o
-ofWdPmPVgzWjwUYdyoA6sunwIVErqJUkSMtRw4p4eGy96JRTEm2xBFF7J0XnjcLS
-Qvf/47AQjxFmSWfrCb32iGVN6BF62kv/aRersc2EA9FjitQs5t91Bn+COI+esjdZ
-mTvV/TIaYELN8cbjom19TbJPeE7H3o9jfMliT0GvzO+o5mZPpu0a7lwKtzpdT2AQ
-EZ9o60XPFTHoiQSnEv9zuazrdCrKgDfpHiKGAAQNrHbyUlPbRf1aJwS4RKE9HN+a
-iDwqL1j+k3ZBe/TcUxmU
-=96hQ
+iQIcBAABAgAGBQJUiMHVAAoJEJPB2e07PgbqehIQAIYcN88VfTE/mU6xUWbXuRys
+d4w7Tt1CQlIZKJRBKVkf1USAnSPZaVRHpV7MK2b/+9G18C2udS4x433+Oc5h4gIl
+NMAWciQ96pMdu5cRCPH+JQoKnX21abTPhpwl07iDxSUdS6jfJweV835z1aeAdHGc
+TY7ouTcmEONxRkpJAYFYGGaFiIlSMubILR8HzG2dJj/fk52icl+6B8KNQvt/w8dG
+s379+aKvVNUC/nxW+8fOWqQtA/6UrZG0yC+XqWBldg5NR5afd9IOquxmmOSsqijB
+yWn40ZQZ/yteQey5V3UmvllcdBoJ3OEAnf7CT7Y31y42dmXOtpkfmUypp1CUPeaU
+MDwJzZ6OAC+4xpcFEu43ssGSLYVu5k7PoXOX+xWZXCCe8de5/sY1zrY77HZcV61O
+YmsByC665tV/JUjunq7W7w73i9VX1zsTgA3EpzSQqRyyigMRaEr7idcKvi4G0zGE
+QC0PEUwLD9gH0xHexJ9zPo1WfLbD6khT8LGE6KQwRtMH2FCZpzhJiYEdK4REEpIs
+0GDR38PKwE5JJeiVGEFDQ2KrLQMcBV32PSSX2H53SeB3YopLDWLXlsOELW8CRcNw
+Ij4L3ur31KssI/PAynfMBmHrDTGGgCHFXmkkkv7VEDaWQ+uHY+cx1CXGoULgHZ1Y
+LLFHYTBd/X3/cLXvp+sK
+=P8mZ
 -----END PGP SIGNATURE-----
 
 ```
@@ -38,6 +38,8 @@ size    exec  file                                 contents
 27510           big-o-chart-2.png                  a9f40d4499bd43d07bad2b9674b3055a9a3f319349a1256d88a9419f206287d7|56acfe8154f080f9d3186170980a44efd640d4c1748c37c7031f1f20d2f3342e
 11222           big-o-chart-smaller.png            5b453ac13c187ea797dbdcf03c2f1941c730a952e285d2afbfde83cf231f0bc3|ba81f54c5daae7c199d9eb66f58db952e52e6b15cf9c69ed34245c4400ffc318
 31971           big-o-chart.png                    82cea33b61f5af16f928d7037877b31526e532ea62a7cf99ca3761bc4313e4f1|0c43ead93dc010d2fee9724cfda23f2d922cf58931d6258f1da9977fd5bb8cd1
+                controlled-assessment/                                                                                                                                              
+15775             keightley-1.ipynb                60f9c5b8b8d2339d25f27254450dd114d1f48d688e7d9b4efccb57d66d62bc86                                                                 
 21947           euler-11.ipynb                     81780dca17496751894f582e8691935ee6f94949017fb3135087056489f8ad88                                                                 
 24903           euler-14.ipynb                     3652a2be86ec270420431814efa453f8679ad054ae28c015d34232c48dac16bd                                                                 
                 hangman/                                                                                                                                                            
@@ -77,9 +79,7 @@ size    exec  file                                 contents
 #### Presets
 
 ```
-git      # ignore .git and anything as described by .gitignore files
-dropbox  # ignore .dropbox-cache and other Dropbox-related files    
-kb       # ignore anything as described by .kbignore files          
+git  # ignore .git and anything as described by .gitignore files
 ```
 
 <!-- summarize version = 0.0.9 -->
