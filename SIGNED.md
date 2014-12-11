@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJUiMHVAAoJEJPB2e07PgbqehIQAIYcN88VfTE/mU6xUWbXuRys
-d4w7Tt1CQlIZKJRBKVkf1USAnSPZaVRHpV7MK2b/+9G18C2udS4x433+Oc5h4gIl
-NMAWciQ96pMdu5cRCPH+JQoKnX21abTPhpwl07iDxSUdS6jfJweV835z1aeAdHGc
-TY7ouTcmEONxRkpJAYFYGGaFiIlSMubILR8HzG2dJj/fk52icl+6B8KNQvt/w8dG
-s379+aKvVNUC/nxW+8fOWqQtA/6UrZG0yC+XqWBldg5NR5afd9IOquxmmOSsqijB
-yWn40ZQZ/yteQey5V3UmvllcdBoJ3OEAnf7CT7Y31y42dmXOtpkfmUypp1CUPeaU
-MDwJzZ6OAC+4xpcFEu43ssGSLYVu5k7PoXOX+xWZXCCe8de5/sY1zrY77HZcV61O
-YmsByC665tV/JUjunq7W7w73i9VX1zsTgA3EpzSQqRyyigMRaEr7idcKvi4G0zGE
-QC0PEUwLD9gH0xHexJ9zPo1WfLbD6khT8LGE6KQwRtMH2FCZpzhJiYEdK4REEpIs
-0GDR38PKwE5JJeiVGEFDQ2KrLQMcBV32PSSX2H53SeB3YopLDWLXlsOELW8CRcNw
-Ij4L3ur31KssI/PAynfMBmHrDTGGgCHFXmkkkv7VEDaWQ+uHY+cx1CXGoULgHZ1Y
-LLFHYTBd/X3/cLXvp+sK
-=P8mZ
+iQIcBAABAgAGBQJUiWeoAAoJEJPB2e07PgbqdTAP/2fEwGPFEET3p2JrItEQ/tCN
+tw8Ajpm1A14KIIii9gwsxzDYcy6HnlGs2LXQ42SlNAkXAai+DNuHWB7qJbnjkKwP
+xPreAKNlTpeakiZN4GQCKuAnAo9sQOM1pdqe0TOTmiZArisqYxZlAOKEwBP0wIhT
+WKPzHASo2uEeDBWldvIp1qAAcTJV1h+P5jK+0ob1pOZE8LMI/x+EkHxtrIxjaPPf
+ugt9yuT+NSzzO5PxVEFioSyP1Qtna1DecGyflwma443Uyx0zNg8ztxBuaUjWJwsF
+3nf/jrVm7Cy20ZQNzYhXlAcY/ZuS2rDOWgNgkWhOe75VzT0Q750aqJFPLltNGYPj
+g1fwGtVNSF6BgwiZwEgG1XSa6O9z9gygn7oQqCbjhkzq01aVwEip11h7jmGBf/Bz
+brhggEUQLW0XW0FSD18vN736PZEvqYGyA5c3yeSS1wse38csqMGrLO2WOOY470Pc
+Z50gBWkmObcut2bylyCbWOkonV2HVtFWBUuIZQd7imd9zvTwCtIHotI5MPQC9yhy
+chGZYua6xUs1WxRETO7MNMJ20mQ5hVarOGZQilmt/kKSvQXtKFgEbdDtmHmBvRyh
+pe8Sd0qC0uR3cIafNL4lIiCt8soqfA/AetM8eRWtUxFC/8b7Ej2N/TmwXihyOhY4
+jaYoOisSoLvJ1a3YRSP9
+=Fu7j
 -----END PGP SIGNATURE-----
 
 ```
@@ -39,7 +39,7 @@ size    exec  file                                 contents
 11222           big-o-chart-smaller.png            5b453ac13c187ea797dbdcf03c2f1941c730a952e285d2afbfde83cf231f0bc3|ba81f54c5daae7c199d9eb66f58db952e52e6b15cf9c69ed34245c4400ffc318
 31971           big-o-chart.png                    82cea33b61f5af16f928d7037877b31526e532ea62a7cf99ca3761bc4313e4f1|0c43ead93dc010d2fee9724cfda23f2d922cf58931d6258f1da9977fd5bb8cd1
                 controlled-assessment/                                                                                                                                              
-15775             keightley-1.ipynb                60f9c5b8b8d2339d25f27254450dd114d1f48d688e7d9b4efccb57d66d62bc86                                                                 
+20696             keightley-1.ipynb                0c7f650327e0068b80e34d483cae4a87a92dc28ef5d05b2127a378731f40e68a                                                                 
 21947           euler-11.ipynb                     81780dca17496751894f582e8691935ee6f94949017fb3135087056489f8ad88                                                                 
 24903           euler-14.ipynb                     3652a2be86ec270420431814efa453f8679ad054ae28c015d34232c48dac16bd                                                                 
                 hangman/                                                                                                                                                            
