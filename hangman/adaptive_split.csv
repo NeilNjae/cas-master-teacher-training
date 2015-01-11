@@ -1,0 +1,1001 @@
+target,discovered,wrong letters,number of hits,lives remaining,game won
+punned,"['p', 'u', 'n', 'n', 'e', 'd']","['s', 'r', 'l', 'a', 'i']",6,5,True
+anode,"['a', 'n', 'o', 'd', 'e']","['s', 'l', 'b']",5,7,True
+passes,"['p', 'a', 's', 's', 'e', 's']","['l', 'b']",6,8,True
+maxing,"['m', 'a', 'x', 'i', 'n', 'g']","['s', 'r', 'd', 't', 'w', 'l', 'p', 'k', 'c']",6,1,True
+quadrant,"['q', 'u', 'a', 'd', 'r', 'a', 'n', 't']",[],8,10,True
+polygamy,"['p', 'o', 'l', 'y', 'g', 'a', 'm', 'y']","['r', 'i', 's', 'd']",8,6,True
+technologists,"['t', 'e', 'c', 'h', 'n', 'o', 'l', 'o', 'g', 'i', 's', 't', 's']",['r'],13,9,True
+tussle,"['t', 'u', 's', 's', 'l', 'e']",['a'],6,9,True
+explicitly,"['e', 'x', 'p', 'l', 'i', 'c', 'i', 't', 'l', 'y']","['o', 'a', 'b', 's', 'm']",10,5,True
+moderators,"['m', 'o', 'd', 'e', 'r', 'a', 't', 'o', 'r', 's']",['u'],10,9,True
+error,"['e', 'r', 'r', 'o', 'r']","['s', 't', 'n', 'l', 'y']",5,5,True
+stamped,"['s', 't', 'a', 'm', 'p', 'e', 'd']","['r', 'i', 'l', 'b', 'c']",7,5,True
+dress,"['d', 'r', 'e', 's', 's']",[],5,10,True
+truckled,"['t', 'r', 'u', 'c', 'k', 'l', 'e', 'd']","['s', 'i', 'a', 'b', 'p']",8,5,True
+accommodation,"['a', 'c', 'c', 'o', 'm', 'm', 'o', 'd', 'a', 't', 'i', 'o', 'n']","['s', 'g']",13,8,True
+reload,"['r', 'e', 'l', 'o', 'a', 'd']","['s', 'i']",6,8,True
+confounded,"['c', 'o', 'n', 'f', 'o', 'u', 'n', 'd', 'e', 'd']",['p'],10,9,True
+racketeers,"['r', 'a', 'c', 'k', 'e', 't', 'e', 'e', 'r', 's']","['o', 'l']",10,8,True
+ignoramuses,"['i', 'g', 'n', 'o', 'r', 'a', 'm', 'u', 's', 'e', 's']",['l'],11,9,True
+party,"['p', 'a', 'r', 't', 'y']","['s', 'e', 'n', 'd']",5,6,True
+rill,"['r', 'i', 'l', 'l']","['e', 's', 'a', 'o', 'u', 'n']",4,4,True
+player,"['p', 'l', 'a', 'y', 'e', 'r']","['s', 'm']",6,8,True
+protester,"['p', 'r', 'o', 't', 'e', 's', 't', 'e', 'r']","['i', 'd', 'l']",9,7,True
+asphalted,"['a', 's', 'p', 'h', 'a', 'l', 't', 'e', 'd']","['r', 'i']",9,8,True
+uniforms,"['u', 'n', 'i', 'f', 'o', 'r', 'm', 's']","['a', 't', 'p']",8,7,True
+coniferous,"['c', 'o', 'n', 'i', 'f', 'e', 'r', 'o', 'u', 's']",[],10,10,True
+dishearten,"['d', 'i', 's', 'h', 'e', 'a', 'r', 't', 'e', 'n']","['o', 'l', 'g']",10,7,True
+scull,"['s', 'c', 'u', 'l', 'l']","['e', 'a', 'o', 'i', 'n']",5,5,True
+virgin,"['v', 'i', 'r', 'g', 'i', 'n']","['s', 'a', 'd']",6,7,True
+licentiously,"['l', 'i', 'c', 'e', 'n', 't', 'i', 'o', 'u', 's', 'l', 'y']",[],12,10,True
+tightest,"['t', 'i', 'g', 'h', 't', 'e', 's', 't']","['r', 'a']",8,8,True
+awaked,"['a', 'w', 'a', 'k', 'e', 'd']","['s', 'r', 'l', 'n', 'o', 'b']",6,4,True
+tweeters,"['t', 'w', 'e', 'e', 't', 'e', 'r', 's']","['a', 'o', 'l', 'p']",8,6,True
+gardens,"['g', 'a', 'r', 'd', 'e', 'n', 's']","['h', 'w']",7,8,True
+anxious,"['a', 'n', 'x', 'i', 'o', 'u', 's']","['r', 'e', 't', 'l', 'w']",7,5,True
+ideologists,"['i', 'd', 'e', 'o', 'l', 'o', 'g', 'i', 's', 't', 's']",['a'],11,9,True
+revamps,"['r', 'e', 'v', 'a', 'm', 'p', 's']",['t'],7,9,True
+surmising,"['s', 'u', 'r', 'm', 'i', 's', 'i', 'n', 'g']","['t', 'a', 'o', 'l', 'd']",9,5,True
+sonatas,"['s', 'o', 'n', 'a', 't', 'a', 's']","['r', 'l', 'e']",7,7,True
+isms,"['i', 's', 'm', 's']","['e', 'a']",4,8,True
+rippers,"['r', 'i', 'p', 'p', 'e', 'r', 's']","['a', 'o', 'n', 'u']",7,6,True
+benefiting,"['b', 'e', 'n', 'e', 'f', 'i', 't', 'i', 'n', 'g']","['o', 'l', 'a', 's', 'p', 'r']",10,4,True
+heed,"['h', 'e', 'e', 'd']","['s', 'r', 'p', 'f']",4,6,True
+sprinkler,"['s', 'p', 'r', 'i', 'n', 'k', 'l', 'e', 'r']","['t', 'a', 'o', 'b']",9,6,True
+harness,"['h', 'a', 'r', 'n', 'e', 's', 's']",[],7,10,True
+paginates,"['p', 'a', 'g', 'i', 'n', 'a', 't', 'e', 's']","['d', 'r']",9,8,True
+paediatrician,"['p', 'a', 'e', 'd', 'i', 'a', 't', 'r', 'i', 'c', 'i', 'a', 'n']",[],13,10,True
+partakers,"['p', 'a', 'r', 't', 'a', 'k', 'e', 'r', 's']",[],9,10,True
+maltreats,"['m', 'a', 'l', 't', 'r', 'e', 'a', 't', 's']",[],9,10,True
+suspenders,"['s', 'u', 's', 'p', 'e', 'n', 'd', 'e', 'r', 's']","['o', 'l', 'a', 't']",10,6,True
+bedazzled,"['b', 'e', 'd', 'a', 'z', 'z', 'l', 'e', 'd']","['t', 'r', 's']",9,7,True
+gunshots,"['g', 'u', 'n', 's', 'h', 'o', 't', 's']","['r', 'a', 'b', 'p', 'q']",8,5,True
+inconspicuousness,"['i', 'n', 'c', 'o', 'n', 's', 'p', 'i', 'c', 'u', 'o', 'u', 's', 'n', 'e', 's', 's']",[],17,10,True
+impracticable,"['i', 'm', 'p', 'r', 'a', 'c', 't', 'i', 'c', 'a', 'b', 'l', 'e']",['y'],13,9,True
+mutual,"['m', 'u', 't', 'u', 'a', 'l']","['s', 'r', 'd', 'n', 'c', 'i', 'f']",6,3,True
+fists,"['f', 'i', 's', 't', 's']","['e', 'u', 'a', 'l']",5,6,True
+protrusions,"['p', 'r', 'o', 't', 'r', 'u', 's', 'i', 'o', 'n', 's']","['c', 'a', 'f']",11,7,True
+conciliatory,"['c', 'o', 'n', 'c', 'i', 'l', 'i', 'a', 't', 'o', 'r', 'y']","['u', 's']",12,8,True
+simmers,"['s', 'i', 'm', 'm', 'e', 'r', 's']",['n'],7,9,True
+pressed,"['p', 'r', 'e', 's', 's', 'e', 'd']","['o', 'a']",7,8,True
+angry,"['a', 'n', 'g', 'r', 'y']","['s', 'e', 'o', 'i', 'l']",5,5,True
+prettifies,"['p', 'r', 'e', 't', 't', 'i', 'f', 'i', 'e', 's']","['o', 'l', 'a']",10,7,True
+staves,"['s', 't', 'a', 'v', 'e', 's']","['l', 'r', 'k', 'g']",6,6,True
+trashes,"['t', 'r', 'a', 's', 'h', 'e', 's']","['l', 'c']",7,8,True
+blusters,"['b', 'l', 'u', 's', 't', 'e', 'r', 's']","['a', 'o', 'y']",8,7,True
+beavering,"['b', 'e', 'a', 'v', 'e', 'r', 'i', 'n', 'g']","['t', 's', 'd']",9,7,True
+interrupted,"['i', 'n', 't', 'e', 'r', 'r', 'u', 'p', 't', 'e', 'd']","['o', 'l', 's', 'c', 'a']",11,5,True
+cilia,"['c', 'i', 'l', 'i', 'a']","['s', 'e', 'o']",5,7,True
+enlightens,"['e', 'n', 'l', 'i', 'g', 'h', 't', 'e', 'n', 's']","['o', 'r']",10,8,True
+plaque,"['p', 'l', 'a', 'q', 'u', 'e']","['s', 'r', 'd', 'n', 't', 'y', 'i']",6,3,True
+captures,"['c', 'a', 'p', 't', 'u', 'r', 'e', 's']",['l'],8,9,True
+pivots,"['p', 'i', 'v', 'o', 't', 's']","['e', 'a', 'l']",6,7,True
+compellingly,"['c', 'o', 'm', 'p', 'e', 'l', 'l', 'i', 'n', 'g', 'l', 'y']",[],12,10,True
+immersion,"['i', 'm', 'm', 'e', 'r', 's', 'i', 'o', 'n']","['t', 'a', 'u']",9,7,True
+depose,"['d', 'e', 'p', 'o', 's', 'e']","['t', 'i', 'r', 'l']",6,6,True
+lockups,"['l', 'o', 'c', 'k', 'u', 'p', 's']","['r', 'i', 'a', 'n']",7,6,True
+phonics,"['p', 'h', 'o', 'n', 'i', 'c', 's']",['r'],7,9,True
+reassembles,"['r', 'e', 'a', 's', 's', 'e', 'm', 'b', 'l', 'e', 's']","['o', 't', 'n', 'd']",11,6,True
+swing,"['s', 'w', 'i', 'n', 'g']","['e', 'a', 'o', 'l', 't', 'k', 'y']",5,3,True
+siren,"['s', 'i', 'r', 'e', 'n']","['w', 'd', 'p']",5,7,True
+individually,"['i', 'n', 'd', 'i', 'v', 'i', 'd', 'u', 'a', 'l', 'l', 'y']","['c', 'r', 'f']",12,7,True
+dissembling,"['d', 'i', 's', 's', 'e', 'm', 'b', 'l', 'i', 'n', 'g']","['o', 'r']",11,8,True
+workaday,"['w', 'o', 'r', 'k', 'a', 'd', 'a', 'y']",['i'],8,9,True
+ampules,"['a', 'm', 'p', 'u', 'l', 'e', 's']","['r', 'i', 'd']",7,7,True
+soccer,"['s', 'o', 'c', 'c', 'e', 'r']","['d', 'i', 'a', 'l', 'f']",6,5,True
+ergonomics,"['e', 'r', 'g', 'o', 'n', 'o', 'm', 'i', 'c', 's']",['t'],10,9,True
+midshipman,"['m', 'i', 'd', 's', 'h', 'i', 'p', 'm', 'a', 'n']","['o', 'l', 'r']",10,7,True
+commissioned,"['c', 'o', 'm', 'm', 'i', 's', 's', 'i', 'o', 'n', 'e', 'd']","['l', 'r']",12,8,True
+global,"['g', 'l', 'o', 'b', 'a', 'l']","['s', 'r', 'd', 'n']",6,6,True
+button,"['b', 'u', 't', 't', 'o', 'n']","['s', 'r', 'd', 'e', 'i', 'a', 'p', 'm']",6,2,True
+slags,"['s', 'l', 'a', 'g', 's']","['t', 'p', 'b', 'y']",5,6,True
+adapt,"['a', 'd', 'a', 'p', 't']","['s', 'e', 'i', 'r']",5,6,True
+graphologist,"['g', 'r', 'a', 'p', 'h', 'o', 'l', 'o', 'g', 'i', 's', 't']","['c', 'd']",12,8,True
+issue,"['i', 's', 's', 'u', 'e']","['y', 'a']",5,8,True
+underwrites,"['u', 'n', 'd', 'e', 'r', 'w', 'r', 'i', 't', 'e', 's']","['o', 'l', 'a']",11,7,True
+romper,"['r', 'o', 'm', 'p', 'e', 'r']","['s', 'a', 'l', 'b']",6,6,True
+funniest,"['f', 'u', 'n', 'n', 'i', 'e', 's', 't']","['r', 'a', 'm', 'l', 'h']",8,5,True
+anaesthetized,"['a', 'n', 'a', 'e', 's', 't', 'h', 'e', 't', 'i', 'z', 'e', 'd']","['c', 'l', 'g', 'm', 'r']",13,5,True
+butchery,"['b', 'u', 't', 'c', 'h', 'e', 'r', 'y']","['a', 'o', 'l', 's']",8,6,True
+proportion,"['p', 'r', 'o', 'p', 'o', 'r', 't', 'i', 'o', 'n']",[],10,10,True
+ditty,"['d', 'i', 't', 't', 'y']","['s', 'e', 'a', 'o', 'u', 'l', 'k']",5,3,True
+untangle,"['u', 'n', 't', 'a', 'n', 'g', 'l', 'e']","['r', 's']",8,8,True
+haddock,"['h', 'a', 'd', 'd', 'o', 'c', 'k']","['s', 'r', 'l', 'g', 'n', 'e', 'p']",7,3,True
+prepared,"['p', 'r', 'e', 'p', 'a', 'r', 'e', 'd']","['o', 's', 'i']",8,7,True
+topography,"['t', 'o', 'p', 'o', 'g', 'r', 'a', 'p', 'h', 'y']","['l', 's']",10,8,True
+drip,"['d', 'r', 'i', 'p']","['e', 's', 'a', 'o', 'u', 'n', 'l', 'g']",4,2,True
+commingled,"['c', 'o', 'm', 'm', 'i', 'n', 'g', 'l', 'e', 'd']","['a', 'r', 's']",10,7,True
+swishing,"['s', 'w', 'i', 's', 'h', 'i', 'n', 'g']","['r', 'a', 't', 'l', 'o']",8,5,True
+argumentation,"['a', 'r', 'g', 'u', 'm', 'e', 'n', 't', 'a', 't', 'i', 'o', 'n']","['c', 'l', 'd', 'v']",13,6,True
+bomber,"['b', 'o', 'm', 'b', 'e', 'r']","['s', 'a', 'i', 'l', 'd', 'c', 'h', 'g']",6,2,True
+inpatients,"['i', 'n', 'p', 'a', 't', 'i', 'e', 'n', 't', 's']","['o', 'l', 'r', 'm', 'h', 'u']",10,4,True
+divest,"['d', 'i', 'v', 'e', 's', 't']","['r', 'g']",6,8,True
+nix,"['n', 'i', 'x']","['a', 'o', 'e', 'p', 'l', 't', 'b']",3,3,True
+resurrecting,"['r', 'e', 's', 'u', 'r', 'r', 'e', 'c', 't', 'i', 'n', 'g']",[],12,10,True
+raped,"['r', 'a', 'p', 'e', 'd']",['s'],5,9,True
+backbitten,"['b', 'a', 'c', 'k', 'b', 'i', 't', 't', 'e', 'n']","['o', 'l', 'r', 'd']",10,6,True
+bikers,"['b', 'i', 'k', 'e', 'r', 's']","['o', 'a', 'l', 'p', 'd', 'm']",6,4,True
+granulating,"['g', 'r', 'a', 'n', 'u', 'l', 'a', 't', 'i', 'n', 'g']","['o', 's', 'k']",11,7,True
+bitch,"['b', 'i', 't', 'c', 'h']","['s', 'e', 'a', 'o', 'u', 'y', 'd']",5,3,True
+cleaned,"['c', 'l', 'e', 'a', 'n', 'e', 'd']","['s', 'r']",7,8,True
+scubaed,"['s', 'c', 'u', 'b', 'a', 'e', 'd']","['r', 'i', 'l']",7,7,True
+memento,"['m', 'e', 'm', 'e', 'n', 't', 'o']","['s', 'r', 'l', 'g', 'a', 'c', 'y']",7,3,True
+subleased,"['s', 'u', 'b', 'l', 'e', 'a', 's', 'e', 'd']","['t', 'r']",9,8,True
+topped,"['t', 'o', 'p', 'p', 'e', 'd']","['s', 'r', 'l', 'n', 'b', 'c', 'm', 'h']",6,2,True
+temptresses,"['t', 'e', 'm', 'p', 't', 'r', 'e', 's', 's', 'e', 's']","['o', 'l', 'd', 'c', 'g', 'n', 'y']",11,3,True
+scion,"['s', 'c', 'i', 'o', 'n']","['e', 'a', 'r', 'd']",5,6,True
+fathom,"['f', 'a', 't', 'h', 'o', 'm']","['s', 'r', 'd', 'n', 'e', 'w', 'l']",6,3,True
+jollied,"['j', 'o', 'l', 'l', 'i', 'e', 'd']","['s', 'r', 'g', 'b', 'a']",7,5,True
+indentured,"['i', 'n', 'd', 'e', 'n', 't', 'u', 'r', 'e', 'd']","['o', 'l', 'a']",10,7,True
+thinks,"['t', 'h', 'i', 'n', 'k', 's']","['e', 'a', 'r', 'l', 'c']",6,5,True
+edition,"['e', 'd', 'i', 't', 'i', 'o', 'n']","['s', 'r', 'l', 'g', 'a', 'm']",7,4,True
+cuffs,"['c', 'u', 'f', 'f', 's']","['e', 'a', 'o', 'l', 'n', 'p', 'r']",5,3,True
+reported,"['r', 'e', 'p', 'o', 'r', 't', 'e', 'd']",['s'],8,9,True
+skinless,"['s', 'k', 'i', 'n', 'l', 'e', 's', 's']","['r', 'a', 't', 'd']",8,6,True
+chequering,"['c', 'h', 'e', 'q', 'u', 'e', 'r', 'i', 'n', 'g']","['o', 'l', 'a', 't', 'd', 'p', 's']",10,3,True
+wardroom,"['w', 'a', 'r', 'd', 'r', 'o', 'o', 'm']","['i', 's', 'b', 'k']",8,6,True
+screaming,"['s', 'c', 'r', 'e', 'a', 'm', 'i', 'n', 'g']","['t', 'l', 'k']",9,7,True
+skyjacker,"['s', 'k', 'y', 'j', 'a', 'c', 'k', 'e', 'r']","['t', 'l']",9,8,True
+rotisserie,"['r', 'o', 't', 'i', 's', 's', 'e', 'r', 'i', 'e']",['a'],10,9,True
+costuming,"['c', 'o', 's', 't', 'u', 'm', 'i', 'n', 'g']","['a', 'r', 'l']",9,7,True
+staplers,"['s', 't', 'a', 'p', 'l', 'e', 'r', 's']",[],8,10,True
+vendors,"['v', 'e', 'n', 'd', 'o', 'r', 's']","['a', 'i']",7,8,True
+worries,"['w', 'o', 'r', 'r', 'i', 'e', 's']",['l'],7,9,True
+merchandise,"['m', 'e', 'r', 'c', 'h', 'a', 'n', 'd', 'i', 's', 'e']","['o', 'l']",11,8,True
+triumphs,"['t', 'r', 'i', 'u', 'm', 'p', 'h', 's']","['l', 'a', 'c']",8,7,True
+lodged,"['l', 'o', 'd', 'g', 'e', 'd']","['s', 'r', 'u']",6,7,True
+renegade,"['r', 'e', 'n', 'e', 'g', 'a', 'd', 'e']",['s'],8,9,True
+shortchange,"['s', 'h', 'o', 'r', 't', 'c', 'h', 'a', 'n', 'g', 'e']",['i'],11,9,True
+oozing,"['o', 'o', 'z', 'i', 'n', 'g']","['s', 'r', 'd', 'a']",6,6,True
+bobbins,"['b', 'o', 'b', 'b', 'i', 'n', 's']","['r', 'l', 'd', 'e']",7,6,True
+implore,"['i', 'm', 'p', 'l', 'o', 'r', 'e']","['s', 'a']",7,8,True
+gruelling,"['g', 'r', 'u', 'e', 'l', 'l', 'i', 'n', 'g']","['t', 'a', 'o']",9,7,True
+sandblaster,"['s', 'a', 'n', 'd', 'b', 'l', 'a', 's', 't', 'e', 'r']",['o'],11,9,True
+honoured,"['h', 'o', 'n', 'o', 'u', 'r', 'e', 'd']","['s', 'a', 't', 'l']",8,6,True
+compliant,"['c', 'o', 'm', 'p', 'l', 'i', 'a', 'n', 't']",[],9,10,True
+jangle,"['j', 'a', 'n', 'g', 'l', 'e']","['s', 'r', 'd', 'i', 'm', 'b', 'y']",6,3,True
+embalmed,"['e', 'm', 'b', 'a', 'l', 'm', 'e', 'd']","['r', 't', 'c']",8,7,True
+imprisons,"['i', 'm', 'p', 'r', 'i', 's', 'o', 'n', 's']","['t', 'a', 'l']",9,7,True
+inset,"['i', 'n', 's', 'e', 't']","['d', 'r', 'o', 'p']",5,6,True
+chaffing,"['c', 'h', 'a', 'f', 'f', 'i', 'n', 'g']","['r', 'e', 'l', 't', 'p']",8,5,True
+potatoes,"['p', 'o', 't', 'a', 't', 'o', 'e', 's']","['r', 'u']",8,8,True
+succeeding,"['s', 'u', 'c', 'c', 'e', 'e', 'd', 'i', 'n', 'g']","['o', 'l', 'a', 't', 'r']",10,5,True
+subletting,"['s', 'u', 'b', 'l', 'e', 't', 't', 'i', 'n', 'g']",['o'],10,9,True
+osier,"['o', 's', 'i', 'e', 'r']","['a', 'h']",5,8,True
+embezzlement,"['e', 'm', 'b', 'e', 'z', 'z', 'l', 'e', 'm', 'e', 'n', 't']","['c', 'r']",12,8,True
+woolie,"['w', 'o', 'o', 'l', 'i', 'e']","['s', 'r', 'd', 'n', 'a', 'c', 't', 'b']",6,2,True
+livened,"['l', 'i', 'v', 'e', 'n', 'e', 'd']","['s', 'r', 'k']",7,7,True
+appends,"['a', 'p', 'p', 'e', 'n', 'd', 's']","['r', 'i', 'u', 't', 'l']",7,5,True
+moistness,"['m', 'o', 'i', 's', 't', 'n', 'e', 's', 's']","['r', 'q', 'f']",9,7,True
+pharynx,"['p', 'h', 'a', 'r', 'y', 'n', 'x']","['s', 'i', 'o', 'd', 't']",7,5,True
+foreign,"['f', 'o', 'r', 'e', 'i', 'g', 'n']","['s', 'a', 'c']",7,7,True
+thanking,"['t', 'h', 'a', 'n', 'k', 'i', 'n', 'g']","['r', 'e', 'l', 'd']",8,6,True
+rose,"['r', 'o', 's', 'e']","['a', 'l']",4,8,True
+inure,"['i', 'n', 'u', 'r', 'e']","['s', 'a']",5,8,True
+drowse,"['d', 'r', 'o', 'w', 's', 'e']","['t', 'i', 'y', 'b']",6,6,True
+undersecretaries,"['u', 'n', 'd', 'e', 'r', 's', 'e', 'c', 'r', 'e', 't', 'a', 'r', 'i', 'e', 's']",[],16,10,True
+costumes,"['c', 'o', 's', 't', 'u', 'm', 'e', 's']","['r', 'a', 'n', 'l', 'd']",8,5,True
+replace,"['r', 'e', 'p', 'l', 'a', 'c', 'e']","['s', 'n']",7,8,True
+linchpins,"['l', 'i', 'n', 'c', 'h', 'p', 'i', 'n', 's']","['t', 'a', 'o', 'u', 'r', 'e', 'y']",9,3,True
+stimulus,"['s', 't', 'i', 'm', 'u', 'l', 'u', 's']","['r', 'a', 'e']",8,7,True
+diskette,"['d', 'i', 's', 'k', 'e', 't', 't', 'e']","['r', 'a', 'c', 'l']",8,6,True
+request,"['r', 'e', 'q', 'u', 'e', 's', 't']","['i', 'a', 'o', 'l']",7,6,True
+colored,"['c', 'o', 'l', 'o', 'r', 'e', 'd']",['s'],7,9,True
+hatchbacks,"['h', 'a', 't', 'c', 'h', 'b', 'a', 'c', 'k', 's']","['o', 'l', 'i', 'd', 'r']",10,5,True
+umbilicus,"['u', 'm', 'b', 'i', 'l', 'i', 'c', 'u', 's']","['t', 'a', 'o', 'n', 'p', 'r', 'd']",9,3,True
+sobs,"['s', 'o', 'b', 's']","['e', 'a', 'l', 'd']",4,6,True
+disguising,"['d', 'i', 's', 'g', 'u', 'i', 's', 'i', 'n', 'g']","['o', 'l', 'a', 't']",10,6,True
+potpourri,"['p', 'o', 't', 'p', 'o', 'u', 'r', 'r', 'i']","['n', 'a']",9,8,True
+procrastinates,"['p', 'r', 'o', 'c', 'r', 'a', 's', 't', 'i', 'n', 'a', 't', 'e', 's']","['l', 'd']",14,8,True
+gored,"['g', 'o', 'r', 'e', 'd']","['s', 'a', 'b', 'p', 'c']",5,5,True
+oils,"['o', 'i', 'l', 's']","['e', 'a', 'u']",4,7,True
+concurs,"['c', 'o', 'n', 'c', 'u', 'r', 's']","['a', 'l']",7,8,True
+palimpsests,"['p', 'a', 'l', 'i', 'm', 'p', 's', 'e', 's', 't', 's']","['o', 'r', 'd', 'c', 'f']",11,5,True
+mouths,"['m', 'o', 'u', 't', 'h', 's']","['e', 'a', 'i', 'r', 'l', 'n']",6,4,True
+pipelines,"['p', 'i', 'p', 'e', 'l', 'i', 'n', 'e', 's']","['t', 'a', 'o', 'd']",9,6,True
+substantiated,"['s', 'u', 'b', 's', 't', 'a', 'n', 't', 'i', 'a', 't', 'e', 'd']","['c', 'l', 'g', 'm', 'h']",13,5,True
+intimately,"['i', 'n', 't', 'i', 'm', 'a', 't', 'e', 'l', 'y']","['o', 'r', 's', 'h']",10,6,True
+reproductive,"['r', 'e', 'p', 'r', 'o', 'd', 'u', 'c', 't', 'i', 'v', 'e']","['s', 'y', 'a', 'n', 'l']",12,5,True
+memorising,"['m', 'e', 'm', 'o', 'r', 'i', 's', 'i', 'n', 'g']","['a', 't', 'c', 'l', 'u', 'd', 'p']",10,3,True
+fiftieths,"['f', 'i', 'f', 't', 'i', 'e', 't', 'h', 's']",[],9,10,True
+squabs,"['s', 'q', 'u', 'a', 'b', 's']","['e', 'r', 'd']",6,7,True
+syntheses,"['s', 'y', 'n', 't', 'h', 'e', 's', 'e', 's']","['a', 'o', 'r', 'i']",9,6,True
+plebiscites,"['p', 'l', 'e', 'b', 'i', 's', 'c', 'i', 't', 'e', 's']","['o', 'n']",11,8,True
+prospers,"['p', 'r', 'o', 's', 'p', 'e', 'r', 's']",['t'],8,9,True
+romancing,"['r', 'o', 'm', 'a', 'n', 'c', 'i', 'n', 'g']","['t', 'l', 's', 'd']",9,6,True
+command,"['c', 'o', 'm', 'm', 'a', 'n', 'd']","['s', 'r', 'l', 'g', 'f']",7,5,True
+namesake,"['n', 'a', 'm', 'e', 's', 'a', 'k', 'e']",['r'],8,9,True
+spanks,"['s', 'p', 'a', 'n', 'k', 's']","['e', 't', 'c', 'r']",6,6,True
+nightclubs,"['n', 'i', 'g', 'h', 't', 'c', 'l', 'u', 'b', 's']","['o', 'r']",10,8,True
+does,"['d', 'o', 'e', 's']",['r'],4,9,True
+castigate,"['c', 'a', 's', 't', 'i', 'g', 'a', 't', 'e']","['r', 'n', 'l', 'y', 'p', 'm']",9,4,True
+clamor,"['c', 'l', 'a', 'm', 'o', 'r']","['s', 'b']",6,8,True
+caviled,"['c', 'a', 'v', 'i', 'l', 'e', 'd']","['s', 'r', 'n', 'b', 'w']",7,5,True
+incites,"['i', 'n', 'c', 'i', 't', 'e', 's']",['r'],7,9,True
+sluggards,"['s', 'l', 'u', 'g', 'g', 'a', 'r', 'd', 's']","['t', 'b']",9,8,True
+prequels,"['p', 'r', 'e', 'q', 'u', 'e', 'l', 's']","['t', 'a', 'i', 'o']",8,6,True
+jetted,"['_', '_', 't', 't', '_', 'd']","['s', 'r', 'l', 'n', 'o', 'a', 'u', 'i', 'p', 'b']",3,0,False
+tapering,"['t', 'a', 'p', 'e', 'r', 'i', 'n', 'g']",['c'],8,9,True
+snowshoes,"['s', 'n', 'o', 'w', 's', 'h', 'o', 'e', 's']","['t', 'a', 'r', 'd']",9,6,True
+remodelled,"['r', 'e', 'm', 'o', 'd', 'e', 'l', 'l', 'e', 'd']","['a', 't', 'c']",10,7,True
+peanut,"['p', 'e', 'a', 'n', 'u', 't']","['s', 'r', 'd', 'l']",6,6,True
+copycat,"['c', 'o', 'p', 'y', 'c', 'a', 't']","['s', 'r', 'l', 'g']",7,6,True
+amorous,"['a', 'm', 'o', 'r', 'o', 'u', 's']",[],7,10,True
+swims,"['s', 'w', 'i', 'm', 's']","['a', 't', 'p', 'k', 'l', 'h']",5,4,True
+butches,"['b', 'u', 't', 'c', 'h', 'e', 's']","['r', 'i', 'a', 'l', 'n', 'o']",7,4,True
+articulately,"['a', 'r', 't', 'i', 'c', 'u', 'l', 'a', 't', 'e', 'l', 'y']",[],12,10,True
+demoing,"['d', 'e', 'm', 'o', 'i', 'n', 'g']","['s', 'r', 'l', 'a']",7,6,True
+amalgamation,"['a', 'm', 'a', 'l', 'g', 'a', 'm', 'a', 't', 'i', 'o', 'n']","['c', 'p']",12,8,True
+murder,"['m', 'u', 'r', 'd', 'e', 'r']","['s', 'a', 'o', 'l', 'b']",6,5,True
+plutocrats,"['p', 'l', 'u', 't', 'o', 'c', 'r', 'a', 't', 's']",[],10,10,True
+configuration,"['c', 'o', 'n', 'f', 'i', 'g', 'u', 'r', 'a', 't', 'i', 'o', 'n']","['m', 'l']",13,8,True
+harmoniousness,"['h', 'a', 'r', 'm', 'o', 'n', 'i', 'o', 'u', 's', 'n', 'e', 's', 's']","['l', 'c', 'p', 'd', 'g']",14,5,True
+scamps,"['s', 'c', 'a', 'm', 'p', 's']","['e', 't', 'k', 'w', 'l', 'r']",6,4,True
+enriching,"['e', 'n', 'r', 'i', 'c', 'h', 'i', 'n', 'g']","['t', 'a', 'o', 'l', 'd', 'u', 's', 'p']",9,2,True
+redeveloping,"['r', 'e', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'i', 'n', 'g']",['c'],12,9,True
+cravings,"['c', 'r', 'a', 'v', 'i', 'n', 'g', 's']","['t', 'l', 'm', 'e']",8,6,True
+hobnail,"['h', 'o', 'b', 'n', 'a', 'i', 'l']","['s', 'r', 'e', 't', 'c', 'u', 'm']",7,3,True
+deflects,"['d', 'e', 'f', 'l', 'e', 'c', 't', 's']","['r', 'a', 'o', 'n', 'u']",8,5,True
+bootleggers,"['b', 'o', 'o', 't', 'l', 'e', 'g', 'g', 'e', 'r', 's']",['d'],11,9,True
+classified,"['c', 'l', 'a', 's', 's', 'i', 'f', 'i', 'e', 'd']","['o', 'r', 'n']",10,7,True
+invitationals,"['i', 'n', 'v', 'i', 't', 'a', 't', 'i', 'o', 'n', 'a', 'l', 's']","['c', 'u', 'p', 'r']",13,6,True
+every,"['e', 'v', 'e', 'r', 'y']","['s', 't', 'n', 'l']",5,6,True
+auditoria,"['a', 'u', 'd', 'i', 't', 'o', 'r', 'i', 'a']","['n', 'l']",9,8,True
+lazybones,"['l', 'a', 'z', 'y', 'b', 'o', 'n', 'e', 's']","['t', 'u', 'i', 'd', 'r']",9,5,True
+unutterable,"['u', 'n', 'u', 't', 't', 'e', 'r', 'a', 'b', 'l', 'e']","['o', 'y']",11,8,True
+striven,"['s', 't', 'r', 'i', 'v', 'e', 'n']","['d', 'l', 'h']",7,7,True
+mohair,"['m', 'o', 'h', 'a', 'i', 'r']","['s', 'd', 'p', 'f']",6,6,True
+boudoir,"['b', 'o', 'u', 'd', 'o', 'i', 'r']",['s'],7,9,True
+cower,"['c', 'o', 'w', 'e', 'r']","['s', 'd', 'a', 'l', 'b', 'p']",5,4,True
+imbeds,"['i', 'm', 'b', 'e', 'd', 's']","['r', 'l', 'o', 'a', 'p']",6,5,True
+iced,"['i', 'c', 'e', 'd']","['s', 'a']",4,8,True
+omega,"['o', 'm', 'e', 'g', 'a']","['s', 'h', 'r']",5,7,True
+cassock,"['c', 'a', 's', 's', 'o', 'c', 'k']","['e', 'g', 'h']",7,7,True
+meditate,"['m', 'e', 'd', 'i', 't', 'a', 't', 'e']","['r', 'l', 'c']",8,7,True
+commemorating,"['c', 'o', 'm', 'm', 'e', 'm', 'o', 'r', 'a', 't', 'i', 'n', 'g']",[],13,10,True
+predisposes,"['p', 'r', 'e', 'd', 'i', 's', 'p', 'o', 's', 'e', 's']",['t'],11,9,True
+trenchant,"['t', 'r', 'e', 'n', 'c', 'h', 'a', 'n', 't']",[],9,10,True
+lushest,"['l', 'u', 's', 'h', 'e', 's', 't']","['a', 'o', 'd']",7,7,True
+sufferance,"['s', 'u', 'f', 'f', 'e', 'r', 'a', 'n', 'c', 'e']","['o', 'l', 'd']",10,7,True
+dwindling,"['d', 'w', 'i', 'n', 'd', 'l', 'i', 'n', 'g']","['t', 'a', 'o', 's', 'e', 'c']",9,4,True
+undersigns,"['u', 'n', 'd', 'e', 'r', 's', 'i', 'g', 'n', 's']","['o', 'l', 'a', 't']",10,6,True
+duty,"['_', 'u', '_', '_']","['e', 's', 'a', 'o', 'r', 'l', 'n', 'f', 'm', 'c']",1,0,False
+guessable,"['g', 'u', 'e', 's', 's', 'a', 'b', 'l', 'e']","['t', 'i', 'o', 'n']",9,6,True
+undercharges,"['u', 'n', 'd', 'e', 'r', 'c', 'h', 'a', 'r', 'g', 'e', 's']",['o'],12,9,True
+concentrating,"['c', 'o', 'n', 'c', 'e', 'n', 't', 'r', 'a', 't', 'i', 'n', 'g']",['u'],13,9,True
+repellants,"['r', 'e', 'p', 'e', 'l', 'l', 'a', 'n', 't', 's']",['o'],10,9,True
+basked,"['b', 'a', 's', 'k', 'e', 'd']","['t', 'i', 'u', 'h', 'r']",6,5,True
+banknotes,"['b', 'a', 'n', 'k', 'n', 'o', 't', 'e', 's']","['d', 'i']",9,8,True
+accelerate,"['a', 'c', 'c', 'e', 'l', 'e', 'r', 'a', 't', 'e']","['o', 's']",10,8,True
+tense,"['t', 'e', 'n', 's', 'e']","['a', 'r', 'd']",5,7,True
+sorrowing,"['s', 'o', 'r', 'r', 'o', 'w', 'i', 'n', 'g']","['t', 'a', 'l']",9,7,True
+supervising,"['s', 'u', 'p', 'e', 'r', 'v', 'i', 's', 'i', 'n', 'g']","['o', 'l', 'd', 'c', 'a']",11,5,True
+acclimate,"['a', 'c', 'c', 'l', 'i', 'm', 'a', 't', 'e']","['r', 'n', 'o', 's', 'u']",9,5,True
+disproportionate,"['d', 'i', 's', 'p', 'r', 'o', 'p', 'o', 'r', 't', 'i', 'o', 'n', 'a', 't', 'e']","['c', 'm']",16,8,True
+retread,"['r', 'e', 't', 'r', 'e', 'a', 'd']","['s', 'i']",7,8,True
+huge,"['_', '_', '_', 'e']","['a', 'o', 'i', 'r', 't', 'l', 'd', 'f', 'b', 'p']",1,0,False
+holidays,"['h', 'o', 'l', 'i', 'd', 'a', 'y', 's']",['r'],8,9,True
+formulas,"['f', 'o', 'r', 'm', 'u', 'l', 'a', 's']",['i'],8,9,True
+typewrites,"['t', 'y', 'p', 'e', 'w', 'r', 'i', 't', 'e', 's']","['o', 'l', 'a']",10,7,True
+raised,"['r', 'a', 'i', 's', 'e', 'd']",[],6,10,True
+champs,"['c', 'h', 'a', 'm', 'p', 's']","['e', 'r', 'n', 'l']",6,6,True
+racecourse,"['r', 'a', 'c', 'e', 'c', 'o', 'u', 'r', 's', 'e']","['n', 'i', 'l', 'd', 'm']",10,5,True
+shockers,"['s', 'h', 'o', 'c', 'k', 'e', 'r', 's']","['a', 'p', 'l']",8,7,True
+funnel,"['f', 'u', 'n', 'n', 'e', 'l']","['s', 'r', 'd']",6,7,True
+televising,"['t', 'e', 'l', 'e', 'v', 'i', 's', 'i', 'n', 'g']","['o', 'r', 'd']",10,7,True
+evil,"['e', 'v', 'i', 'l']","['s', 'r', 't']",4,7,True
+guesses,"['g', 'u', 'e', 's', 's', 'e', 's']","['r', 'l', 'a', 'm']",7,6,True
+node,"['n', 'o', 'd', 'e']","['a', 'r', 'l', 's']",4,6,True
+alabaster,"['a', 'l', 'a', 'b', 'a', 's', 't', 'e', 'r']","['d', 'i', 'o', 'n', 'u', 'm']",9,4,True
+twang,"['t', 'w', 'a', 'n', 'g']","['s', 'e', 'r', 'l', 'i', 'h']",5,4,True
+abscond,"['a', 'b', 's', 'c', 'o', 'n', 'd']","['t', 'h']",7,8,True
+readjusting,"['r', 'e', 'a', 'd', 'j', 'u', 's', 't', 'i', 'n', 'g']","['o', 'l']",11,8,True
+pushups,"['p', 'u', 's', 'h', 'u', 'p', 's']","['t', 'i', 'r', 'a', 'l', 'm', 'b']",7,3,True
+bailiwicks,"['b', 'a', 'i', 'l', 'i', 'w', 'i', 'c', 'k', 's']","['o', 'n']",10,8,True
+spasmodically,"['s', 'p', 'a', 's', 'm', 'o', 'd', 'i', 'c', 'a', 'l', 'l', 'y']",[],13,10,True
+digitising,"['d', 'i', 'g', 'i', 't', 'i', 's', 'i', 'n', 'g']","['o', 'l', 'a', 'r']",10,6,True
+fattening,"['f', 'a', 't', 't', 'e', 'n', 'i', 'n', 'g']","['b', 'r']",9,8,True
+superpowers,"['s', 'u', 'p', 'e', 'r', 'p', 'o', 'w', 'e', 'r', 's']","['n', 't', 'y', 'l', 'a', 'i']",11,4,True
+mozzarella,"['m', 'o', 'z', 'z', 'a', 'r', 'e', 'l', 'l', 'a']",[],10,10,True
+combing,"['c', 'o', 'm', 'b', 'i', 'n', 'g']","['s', 'r', 'l', 'a', 'p', 'd']",7,4,True
+morocco,"['m', 'o', 'r', 'o', 'c', 'c', 'o']","['s', 'i']",7,8,True
+bundling,"['b', 'u', 'n', 'd', 'l', 'i', 'n', 'g']","['r', 'a', 't', 'e', 'c']",8,5,True
+interposed,"['i', 'n', 't', 'e', 'r', 'p', 'o', 's', 'e', 'd']",['l'],10,9,True
+hotheaded,"['h', 'o', 't', 'h', 'e', 'a', 'd', 'e', 'd']","['n', 'i', 's', 'l', 'c']",9,5,True
+breaststrokes,"['b', 'r', 'e', 'a', 's', 't', 's', 't', 'r', 'o', 'k', 'e', 's']","['c', 'l', 'g', 'm', 'd', 'p', 'v', 'u']",13,2,True
+sparse,"['s', 'p', 'a', 'r', 's', 'e']",[],6,10,True
+decry,"['d', 'e', 'c', 'r', 'y']","['s', 'a', 't']",5,7,True
+reunifies,"['r', 'e', 'u', 'n', 'i', 'f', 'i', 'e', 's']","['t', 'a', 'o', 'l', 'd', 'g']",9,4,True
+opaqueness,"['o', 'p', 'a', 'q', 'u', 'e', 'n', 'e', 's', 's']","['l', 'b']",10,8,True
+billing,"['b', 'i', 'l', 'l', 'i', 'n', 'g']","['s', 'r', 'u', 'e', 'a', 'o']",7,4,True
+tailored,"['t', 'a', 'i', 'l', 'o', 'r', 'e', 'd']",['s'],8,9,True
+streptomycin,"['s', 't', 'r', 'e', 'p', 't', 'o', 'm', 'y', 'c', 'i', 'n']",['l'],12,9,True
+overtaking,"['o', 'v', 'e', 'r', 't', 'a', 'k', 'i', 'n', 'g']",[],10,10,True
+botching,"['b', 'o', 't', 'c', 'h', 'i', 'n', 'g']","['r', 'a', 's', 'd']",8,6,True
+yodelling,"['y', 'o', 'd', 'e', 'l', 'l', 'i', 'n', 'g']","['t', 'a', 'r']",9,7,True
+heartland,"['h', 'e', 'a', 'r', 't', 'l', 'a', 'n', 'd']",[],9,10,True
+epicurean,"['e', 'p', 'i', 'c', 'u', 'r', 'e', 'a', 'n']","['t', 's', 'l']",9,7,True
+authoritative,"['a', 'u', 't', 'h', 'o', 'r', 'i', 't', 'a', 't', 'i', 'v', 'e']","['c', 'l', 'g', 'm', 'd', 'p']",13,4,True
+oversimplifying,"['o', 'v', 'e', 'r', 's', 'i', 'm', 'p', 'l', 'i', 'f', 'y', 'i', 'n', 'g']",[],15,10,True
+chosen,"['c', 'h', 'o', 's', 'e', 'n']","['r', 'a', 'i', 'd', 'l', 't', 'y']",6,3,True
+imitative,"['i', 'm', 'i', 't', 'a', 't', 'i', 'v', 'e']","['r', 'l']",9,8,True
+cheesy,"['c', 'h', 'e', 'e', 's', 'y']","['t', 'i', 'o', 'u', 'r', 'l', 'a']",6,3,True
+ennoblement,"['e', 'n', 'n', 'o', 'b', 'l', 'e', 'm', 'e', 'n', 't']",['s'],11,9,True
+louvred,"['l', 'o', 'u', 'v', 'r', 'e', 'd']","['s', 'w', 'c']",7,7,True
+abrasives,"['a', 'b', 'r', 'a', 's', 'i', 'v', 'e', 's']",['t'],9,9,True
+howled,"['h', 'o', 'w', 'l', 'e', 'd']","['s', 'r', 'a', 'i', 'f', 'b', 'y']",6,3,True
+commutes,"['c', 'o', 'm', 'm', 'u', 't', 'e', 's']","['r', 'a', 'i', 'p', 'f']",8,5,True
+grazing,"['g', 'r', 'a', 'z', 'i', 'n', 'g']","['s', 'd', 'y', 'c', 'v', 't']",7,4,True
+squalling,"['s', 'q', 'u', 'a', 'l', 'l', 'i', 'n', 'g']","['t', 'd', 'r']",9,7,True
+motif,"['m', 'o', 't', 'i', 'f']","['s', 'e', 'a', 'y', 'u', 'c', 'n', 'r', 'b']",5,1,True
+requisitioning,"['r', 'e', 'q', 'u', 'i', 's', 'i', 't', 'i', 'o', 'n', 'i', 'n', 'g']","['l', 'c', 'p', 'd', 'm']",14,5,True
+firmness,"['f', 'i', 'r', 'm', 'n', 'e', 's', 's']",['l'],8,9,True
+hallucination,"['h', 'a', 'l', 'l', 'u', 'c', 'i', 'n', 'a', 't', 'i', 'o', 'n']","['g', 'r']",13,8,True
+smouldered,"['s', 'm', 'o', 'u', 'l', 'd', 'e', 'r', 'e', 'd']",['t'],10,9,True
+paralleled,"['p', 'a', 'r', 'a', 'l', 'l', 'e', 'l', 'e', 'd']",['o'],10,9,True
+scouting,"['s', 'c', 'o', 'u', 't', 'i', 'n', 'g']","['r', 'a', 'h', 'e']",8,6,True
+scout,"['s', 'c', 'o', 'u', 't']","['e', 'a', 'r', 'p']",5,6,True
+arsehole,"['a', 'r', 's', 'e', 'h', 'o', 'l', 'e']",[],8,10,True
+greyed,"['g', 'r', 'e', 'y', 'e', 'd']","['s', 'p']",6,8,True
+misstates,"['m', 'i', 's', 's', 't', 'a', 't', 'e', 's']","['d', 'p', 'l']",9,7,True
+miserly,"['m', 'i', 's', 'e', 'r', 'l', 'y']","['t', 'n', 'd']",7,7,True
+menopause,"['m', 'e', 'n', 'o', 'p', 'a', 'u', 's', 'e']","['t', 'l', 'c', 'd', 'q', 'h']",9,4,True
+brusquer,"['b', 'r', 'u', 's', 'q', 'u', 'e', 'r']","['a', 'o']",8,8,True
+cashed,"['c', 'a', 's', 'h', 'e', 'd']","['t', 'i', 'u', 'l', 'b']",6,5,True
+aborts,"['a', 'b', 'o', 'r', 't', 's']","['e', 'd']",6,8,True
+northwards,"['n', 'o', 'r', 't', 'h', 'w', 'a', 'r', 'd', 's']",['l'],10,9,True
+stoops,"['s', 't', 'o', 'o', 'p', 's']","['e', 'a', 'l', 'c', 'w', 'n']",6,4,True
+moseyed,"['m', 'o', 's', 'e', 'y', 'e', 'd']","['t', 'n', 'r', 'a', 'l']",7,5,True
+unseal,"['u', 'n', 's', 'e', 'a', 'l']","['t', 'i']",6,8,True
+rhapsodise,"['r', 'h', 'a', 'p', 's', 'o', 'd', 'i', 's', 'e']","['n', 'l']",10,8,True
+sized,"['s', 'i', 'z', 'e', 'd']","['r', 't']",5,8,True
+vociferous,"['v', 'o', 'c', 'i', 'f', 'e', 'r', 'o', 'u', 's']",[],10,10,True
+scrappiest,"['s', 'c', 'r', 'a', 'p', 'p', 'i', 'e', 's', 't']","['o', 'l', 'g', 'd']",10,6,True
+clacked,"['c', 'l', 'a', 'c', 'k', 'e', 'd']","['s', 'r', 'n', 'p']",7,6,True
+upstairs,"['u', 'p', 's', 't', 'a', 'i', 'r', 's']",['d'],8,9,True
+yeshivahs,"['y', 'e', 's', 'h', 'i', 'v', 'a', 'h', 's']","['t', 'r', 'p', 'l']",9,6,True
+vindications,"['v', 'i', 'n', 'd', 'i', 'c', 'a', 't', 'i', 'o', 'n', 's']","['l', 'r']",12,8,True
+apportions,"['a', 'p', 'p', 'o', 'r', 't', 'i', 'o', 'n', 's']","['e', 'd']",10,8,True
+appearing,"['a', 'p', 'p', 'e', 'a', 'r', 'i', 'n', 'g']","['t', 'l']",9,8,True
+endemic,"['e', 'n', 'd', 'e', 'm', 'i', 'c']","['s', 'r', 'l', 'g', 'a', 't', 'o']",7,3,True
+hobbies,"['h', 'o', 'b', 'b', 'i', 'e', 's']","['r', 'l', 'd']",7,7,True
+playbills,"['p', 'l', 'a', 'y', 'b', 'i', 'l', 'l', 's']","['t', 'r', 'e']",9,7,True
+outs,"['o', 'u', 't', 's']","['e', 'a', 'r']",4,7,True
+alarming,"['a', 'l', 'a', 'r', 'm', 'i', 'n', 'g']",['s'],8,9,True
+nippier,"['n', 'i', 'p', 'p', 'i', 'e', 'r']",['s'],7,9,True
+whipped,"['_', '_', '_', '_', '_', '_', '_']","['s', 'r', 'l', 'g', 'a', 't', 'c', 'o', 'n', 'm']",0,0,False
+prism,"['p', 'r', 'i', 's', 'm']","['e', 't', 'a']",5,7,True
+formalised,"['f', 'o', 'r', 'm', 'a', 'l', 'i', 's', 'e', 'd']",['g'],10,9,True
+groaning,"['g', 'r', 'o', 'a', 'n', 'i', 'n', 'g']","['s', 'e', 'b', 'k']",8,6,True
+empathy,"['e', 'm', 'p', 'a', 't', 'h', 'y']","['s', 'r', 'l', 'g', 'd', 'i', 'c']",7,3,True
+yielding,"['y', 'i', 'e', 'l', 'd', 'i', 'n', 'g']","['r', 'a', 't', 'o']",8,6,True
+remounting,"['r', 'e', 'm', 'o', 'u', 'n', 't', 'i', 'n', 'g']","['a', 'l', 'p', 's', 'c']",10,5,True
+obscenity,"['o', 'b', 's', 'c', 'e', 'n', 'i', 't', 'y']","['r', 'd']",9,8,True
+lowly,"['l', 'o', 'w', 'l', 'y']","['s', 'e', 'a', 'd']",5,6,True
+snowstorm,"['s', 'n', 'o', 'w', 's', 't', 'o', 'r', 'm']","['a', 'c']",9,8,True
+bonitoes,"['b', 'o', 'n', 'i', 't', 'o', 'e', 's']","['r', 'a']",8,8,True
+classing,"['c', 'l', 'a', 's', 's', 'i', 'n', 'g']","['r', 'e', 'y']",8,7,True
+unkindness,"['u', 'n', 'k', 'i', 'n', 'd', 'n', 'e', 's', 's']","['o', 'l', 'a', 't', 'p', 'r', 'b']",10,3,True
+thru,"['t', 'h', 'r', 'u']","['e', 's', 'a', 'o']",4,6,True
+monomaniacs,"['m', 'o', 'n', 'o', 'm', 'a', 'n', 'i', 'a', 'c', 's']","['l', 'r']",11,8,True
+barbecued,"['b', 'a', 'r', 'b', 'e', 'c', 'u', 'e', 'd']","['t', 'l', 'g', 'i', 'q']",9,5,True
+upsides,"['u', 'p', 's', 'i', 'd', 'e', 's']","['t', 'g', 'r', 'b']",7,6,True
+calcining,"['c', 'a', 'l', 'c', 'i', 'n', 'i', 'n', 'g']","['t', 'f']",9,8,True
+validating,"['v', 'a', 'l', 'i', 'd', 'a', 't', 'i', 'n', 'g']","['o', 'r', 's', 'm', 'c']",10,5,True
+monastery,"['m', 'o', 'n', 'a', 's', 't', 'e', 'r', 'y']",['b'],9,9,True
+wholesale,"['w', 'h', 'o', 'l', 'e', 's', 'a', 'l', 'e']","['t', 'i']",9,8,True
+losing,"['l', 'o', 's', 'i', 'n', 'g']","['t', 'e']",6,8,True
+communions,"['c', 'o', 'm', 'm', 'u', 'n', 'i', 'o', 'n', 's']",['r'],10,9,True
+cite,"['_', 'i', 't', 'e']","['a', 'o', 'l', 'r', 'n', 'd', 'v', 's', 'b', 'k']",3,0,False
+thirtieths,"['t', 'h', 'i', 'r', 't', 'i', 'e', 't', 'h', 's']","['o', 'l', 'a']",10,7,True
+championships,"['c', 'h', 'a', 'm', 'p', 'i', 'o', 'n', 's', 'h', 'i', 'p', 's']",[],13,10,True
+fulfilled,"['f', 'u', 'l', 'f', 'i', 'l', 'l', 'e', 'd']","['t', 'a', 'o']",9,7,True
+blab,"['b', 'l', 'a', 'b']","['e', 's', 'r', 'f', 'c']",4,5,True
+incite,"['i', 'n', 'c', 'i', 't', 'e']","['s', 'r', 'd']",6,7,True
+addressing,"['a', 'd', 'd', 'r', 'e', 's', 's', 'i', 'n', 'g']","['o', 'l']",10,8,True
+peered,"['p', 'e', 'e', 'r', 'e', 'd']","['s', 'a', 'o', 'i', 'l']",6,5,True
+mercies,"['m', 'e', 'r', 'c', 'i', 'e', 's']","['a', 'o']",7,8,True
+harridans,"['h', 'a', 'r', 'r', 'i', 'd', 'a', 'n', 's']","['t', 'l', 'e']",9,7,True
+bulletining,"['b', 'u', 'l', 'l', 'e', 't', 'i', 'n', 'i', 'n', 'g']",['o'],11,9,True
+curie,"['c', 'u', 'r', 'i', 'e']","['s', 'a', 'd', 'm']",5,6,True
+lords,"['l', 'o', 'r', 'd', 's']","['e', 'a', 'u', 'n']",5,6,True
+limpness,"['l', 'i', 'm', 'p', 'n', 'e', 's', 's']","['r', 'a', 't', 'o', 'c', 'g', 'd', 'k']",8,2,True
+dandelions,"['d', 'a', 'n', 'd', 'e', 'l', 'i', 'o', 'n', 's']",['t'],10,9,True
+consecrated,"['c', 'o', 'n', 's', 'e', 'c', 'r', 'a', 't', 'e', 'd']",[],11,10,True
+strum,"['s', 't', 'r', 'u', 'm']","['e', 'a', 'o', 'i', 'n', 'l']",5,4,True
+tinfoil,"['t', 'i', 'n', 'f', 'o', 'i', 'l']","['s', 'r', 'e', 'p', 'a']",7,5,True
+grassland,"['g', 'r', 'a', 's', 's', 'l', 'a', 'n', 'd']",['t'],9,9,True
+indivisibility,"['i', 'n', 'd', 'i', 'v', 'i', 's', 'i', 'b', 'i', 'l', 'i', 't', 'y']","['r', 'u', 'm']",14,7,True
+derogates,"['d', 'e', 'r', 'o', 'g', 'a', 't', 'e', 's']",[],9,10,True
+surety,"['s', 'u', 'r', 'e', 't', 'y']","['a', 'w', 'l']",6,7,True
+corruptible,"['c', 'o', 'r', 'r', 'u', 'p', 't', 'i', 'b', 'l', 'e']",['a'],11,9,True
+bogs,"['b', 'o', 'g', 's']","['e', 'a', 't', 'p', 'y']",4,5,True
+eventual,"['e', 'v', 'e', 'n', 't', 'u', 'a', 'l']","['r', 'o']",8,8,True
+monument,"['m', 'o', 'n', 'u', 'm', 'e', 'n', 't']","['r', 'a', 'd', 'l']",8,6,True
+fifty,"['f', 'i', 'f', 't', 'y']","['s', 'e', 'a', 'o', 'u', 'd', 'p']",5,3,True
+anathema,"['a', 'n', 'a', 't', 'h', 'e', 'm', 'a']","['r', 'd']",8,8,True
+lisping,"['l', 'i', 's', 'p', 'i', 'n', 'g']","['t', 'h', 'a', 'd']",7,6,True
+ushering,"['u', 's', 'h', 'e', 'r', 'i', 'n', 'g']","['a', 'o', 'd']",8,7,True
+simply,"['s', 'i', 'm', 'p', 'l', 'y']",['e'],6,9,True
+squiggliest,"['s', 'q', 'u', 'i', 'g', 'g', 'l', 'i', 'e', 's', 't']","['o', 'r', 'c', 'a']",11,6,True
+delinquencies,"['d', 'e', 'l', 'i', 'n', 'q', 'u', 'e', 'n', 'c', 'i', 'e', 's']",[],13,10,True
+relevant,"['r', 'e', 'l', 'e', 'v', 'a', 'n', 't']","['s', 'd', 'g', 'i', 'c']",8,5,True
+yodel,"['y', 'o', 'd', 'e', 'l']","['s', 'r']",5,8,True
+pilfering,"['p', 'i', 'l', 'f', 'e', 'r', 'i', 'n', 'g']","['t', 'a', 'o', 's']",9,6,True
+homosexuals,"['h', 'o', 'm', 'o', 's', 'e', 'x', 'u', 'a', 'l', 's']",[],11,10,True
+justifying,"['j', 'u', 's', 't', 'i', 'f', 'y', 'i', 'n', 'g']","['o', 'l', 'a', 'r']",10,6,True
+gazetting,"['g', 'a', 'z', 'e', 't', 't', 'i', 'n', 'g']","['s', 'r', 'f']",9,7,True
+toreadors,"['t', 'o', 'r', 'e', 'a', 'd', 'o', 'r', 's']",['n'],9,9,True
+capon,"['c', 'a', 'p', 'o', 'n']","['s', 'e', 'y', 'r', 'b']",5,5,True
+lankest,"['l', 'a', 'n', 'k', 'e', 's', 't']","['i', 'r']",7,8,True
+informant,"['i', 'n', 'f', 'o', 'r', 'm', 'a', 'n', 't']",[],9,10,True
+bricked,"['b', 'r', 'i', 'c', 'k', 'e', 'd']","['s', 't', 'a', 'o']",7,6,True
+remitted,"['r', 'e', 'm', 'i', 't', 't', 'e', 'd']","['s', 'a', 'l', 'f']",8,6,True
+snacked,"['s', 'n', 'a', 'c', 'k', 'e', 'd']","['r', 'i', 'l', 't', 'p', 'm']",7,4,True
+chammies,"['c', 'h', 'a', 'm', 'm', 'i', 'e', 's']","['r', 'l']",8,8,True
+tic,"['t', 'i', 'c']","['a', 'o', 'e', 'p', 'n', 'd']",3,4,True
+unwieldy,"['u', 'n', 'w', 'i', 'e', 'l', 'd', 'y']","['r', 'a', 't', 'v', 's']",8,5,True
+underhand,"['u', 'n', 'd', 'e', 'r', 'h', 'a', 'n', 'd']","['t', 'i', 'l']",9,7,True
+junkyards,"['j', 'u', 'n', 'k', 'y', 'a', 'r', 'd', 's']","['t', 'l', 'c', 'p']",9,6,True
+quintupling,"['q', 'u', 'i', 'n', 't', 'u', 'p', 'l', 'i', 'n', 'g']",['o'],11,9,True
+bracelets,"['b', 'r', 'a', 'c', 'e', 'l', 'e', 't', 's']","['o', 'g']",9,8,True
+whipcord,"['w', 'h', 'i', 'p', 'c', 'o', 'r', 'd']","['a', 'l', 's', 'b']",8,6,True
+snifter,"['s', 'n', 'i', 'f', 't', 'e', 'r']",['w'],7,9,True
+tonic,"['t', 'o', 'n', 'i', 'c']","['s', 'e', 'a', 'y', 'u', 'l', 'p']",5,3,True
+storefront,"['s', 't', 'o', 'r', 'e', 'f', 'r', 'o', 'n', 't']","['p', 'i', 'b', 'd']",10,6,True
+repeats,"['r', 'e', 'p', 'e', 'a', 't', 's']",['l'],7,9,True
+dissatisfying,"['d', 'i', 's', 's', 'a', 't', 'i', 's', 'f', 'y', 'i', 'n', 'g']","['c', 'l', 'r']",13,7,True
+pregnant,"['p', 'r', 'e', 'g', 'n', 'a', 'n', 't']",['s'],8,9,True
+interrelationships,"['i', 'n', 't', 'e', 'r', 'r', 'e', 'l', 'a', 't', 'i', 'o', 'n', 's', 'h', 'i', 'p', 's']",['d'],18,9,True
+bromine,"['b', 'r', 'o', 'm', 'i', 'n', 'e']","['s', 'd', 'a', 'p', 'c', 'y']",7,4,True
+fewest,"['f', 'e', 'w', 'e', 's', 't']","['i', 'a', 'o', 'r', 'u']",6,5,True
+sex,"['_', 'e', '_']","['a', 'o', 'w', 't', 'r', 'g', 'n', 'd', 'y', 'h']",1,0,False
+lacrimal,"['l', 'a', 'c', 'r', 'i', 'm', 'a', 'l']","['t', 'd']",8,8,True
+fudged,"['f', 'u', 'd', 'g', 'e', 'd']","['s', 'r', 'b']",6,7,True
+intendeds,"['i', 'n', 't', 'e', 'n', 'd', 'e', 'd', 's']","['a', 'y']",9,8,True
+face,"['_', 'a', '_', 'e']","['l', 'r', 'm', 'p', 's', 'd', 'k', 'g', 'v', 'b']",2,0,False
+embarks,"['e', 'm', 'b', 'a', 'r', 'k', 's']","['w', 'p', 'd']",7,7,True
+burnishing,"['b', 'u', 'r', 'n', 'i', 's', 'h', 'i', 'n', 'g']","['o', 'l', 'a', 't', 'd', 'p', 'c', 'f']",10,2,True
+guzzle,"['g', 'u', '_', '_', '_', '_']","['s', 'r', 'd', 'n', 'a', 'i', 'o', 'b', 't', 'y']",2,0,False
+clunky,"['c', 'l', 'u', 'n', 'k', 'y']","['s', 'r', 'd', 'e']",6,6,True
+zoning,"['z', 'o', 'n', 'i', 'n', 'g']","['s', 'r', 'd', 'a', 'b', 'h', 't']",6,3,True
+tetrahedrons,"['t', 'e', 't', 'r', 'a', 'h', 'e', 'd', 'r', 'o', 'n', 's']","['c', 'l', 'u']",12,7,True
+squeegees,"['s', 'q', 'u', 'e', 'e', 'g', 'e', 'e', 's']","['t', 'a', 'o', 'l', 'd', 'n', 'r']",9,3,True
+shocks,"['s', 'h', 'o', 'c', 'k', 's']","['e', 'a', 'm']",6,7,True
+sentimentalism,"['s', 'e', 'n', 't', 'i', 'm', 'e', 'n', 't', 'a', 'l', 'i', 's', 'm']","['r', 'u']",14,8,True
+fatten,"['f', 'a', 't', 't', 'e', 'n']","['s', 'r', 'd', 'l', 'i', 'b']",6,4,True
+sharpen,"['s', 'h', 'a', 'r', 'p', 'e', 'n']","['t', 'd']",7,8,True
+kabobs,"['k', 'a', 'b', 'o', 'b', 's']","['e', 'r', 'n']",6,7,True
+informally,"['i', 'n', 'f', 'o', 'r', 'm', 'a', 'l', 'l', 'y']",['s'],10,9,True
+smudgy,"['s', 'm', 'u', 'd', 'g', 'y']","['e', 'i', 'r', 'l']",6,6,True
+envies,"['e', 'n', 'v', 'i', 'e', 's']","['l', 'd', 'o', 'r', 'c']",6,5,True
+conjugations,"['c', 'o', 'n', 'j', 'u', 'g', 'a', 't', 'i', 'o', 'n', 's']","['l', 'm', 'r']",12,7,True
+bate,"['b', 'a', '_', 'e']","['l', 'r', 'm', 'p', 's', 'd', 'k', 'g', 'v', 'n']",3,0,False
+beloved,"['b', 'e', 'l', 'o', 'v', 'e', 'd']","['s', 'r', 'a', 'g', 'c']",7,5,True
+teen,"['t', 'e', 'e', 'n']","['s', 'd', 'r', 'p', 'k', 'm']",4,4,True
+equivalent,"['e', 'q', 'u', 'i', 'v', 'a', 'l', 'e', 'n', 't']","['o', 'r', 's', 'b']",10,6,True
+potassium,"['p', 'o', 't', 'a', 's', 's', 'i', 'u', 'm']",['n'],9,9,True
+banded,"['b', 'a', 'n', 'd', 'e', 'd']","['s', 'r', 'l']",6,7,True
+broadswords,"['b', 'r', 'o', 'a', 'd', 's', 'w', 'o', 'r', 'd', 's']",[],11,10,True
+censor,"['c', 'e', 'n', 's', 'o', 'r']",['a'],6,9,True
+tumbledown,"['t', 'u', 'm', 'b', 'l', 'e', 'd', 'o', 'w', 'n']","['a', 'r']",10,8,True
+heckler,"['h', 'e', 'c', 'k', 'l', 'e', 'r']","['s', 'i', 'a', 'u', 'o']",7,5,True
+pinched,"['p', 'i', 'n', 'c', 'h', 'e', 'd']","['s', 'r', 'l', 'g', 'a', 't', 'u']",7,3,True
+mainstreamed,"['m', 'a', 'i', 'n', 's', 't', 'r', 'e', 'a', 'm', 'e', 'd']","['c', 'l', 'o', 'g']",12,6,True
+backlogs,"['b', 'a', 'c', 'k', 'l', 'o', 'g', 's']","['r', 't', 'e']",8,7,True
+complaisant,"['c', 'o', 'm', 'p', 'l', 'a', 'i', 's', 'a', 'n', 't']",['r'],11,9,True
+rubbery,"['r', 'u', 'b', 'b', 'e', 'r', 'y']","['s', 'o', 'l']",7,7,True
+halon,"['h', 'a', 'l', 'o', 'n']","['s', 'e', 'y', 'r', 'b', 'c']",5,4,True
+indemnifies,"['i', 'n', 'd', 'e', 'm', 'n', 'i', 'f', 'i', 'e', 's']","['o', 'l', 'a', 'u', 'r']",11,5,True
+maharaja,"['m', 'a', 'h', 'a', 'r', 'a', 'j', 'a']",[],8,10,True
+alive,"['a', 'l', 'i', 'v', 'e']","['s', 'n', 'k']",5,7,True
+bobtail,"['b', 'o', 'b', 't', 'a', 'i', 'l']","['s', 'r', 'e', 'u']",7,6,True
+impulsed,"['i', 'm', 'p', 'u', 'l', 's', 'e', 'd']","['r', 'a', 't', 'o']",8,6,True
+pontificating,"['p', 'o', 'n', 't', 'i', 'f', 'i', 'c', 'a', 't', 'i', 'n', 'g']","['s', 'l', 'r', 'm', 'b']",13,5,True
+spunkier,"['s', 'p', 'u', 'n', 'k', 'i', 'e', 'r']","['t', 'l']",8,8,True
+spurning,"['s', 'p', 'u', 'r', 'n', 'i', 'n', 'g']","['a', 'l', 't']",8,7,True
+blurry,"['b', 'l', 'u', 'r', 'r', 'y']",['s'],6,9,True
+swore,"['s', 'w', 'o', 'r', 'e']","['a', 'i', 'p', 'c', 'h']",5,5,True
+discerns,"['d', 'i', 's', 'c', 'e', 'r', 'n', 's']",[],8,10,True
+speedways,"['s', 'p', 'e', 'e', 'd', 'w', 'a', 'y', 's']","['t', 'i', 'l', 'n', 'r']",9,5,True
+wooded,"['w', 'o', 'o', 'd', 'e', 'd']","['s', 'r', 'n', 'l', 'a', 'i', 'h']",6,3,True
+fibres,"['f', 'i', 'b', 'r', 'e', 's']","['a', 'n', 'l']",6,7,True
+terrorising,"['t', 'e', 'r', 'r', 'o', 'r', 'i', 's', 'i', 'n', 'g']",['a'],11,9,True
+shuddered,"['s', 'h', 'u', 'd', 'd', 'e', 'r', 'e', 'd']","['t', 'a', 'o', 'l']",9,6,True
+jersey,"['j', 'e', 'r', 's', 'e', 'y']","['o', 'd', 'a']",6,7,True
+crucifixes,"['c', 'r', 'u', 'c', 'i', 'f', 'i', 'x', 'e', 's']","['o', 'l', 'a', 't', 'd', 'g']",10,4,True
+broadside,"['b', 'r', 'o', 'a', 'd', 's', 'i', 'd', 'e']","['t', 'l']",9,8,True
+debilitates,"['d', 'e', 'b', 'i', 'l', 'i', 't', 'a', 't', 'e', 's']","['o', 'n', 'c', 'r']",11,6,True
+copula,"['c', 'o', 'p', 'u', 'l', 'a']","['s', 'r', 'd', 'n', 'i']",6,5,True
+befits,"['b', 'e', 'f', 'i', 't', 's']","['r', 'd', 'n', 'l']",6,6,True
+ambitions,"['a', 'm', 'b', 'i', 't', 'i', 'o', 'n', 's']","['e', 'r', 'l', 'd']",9,6,True
+orals,"['o', 'r', 'a', 'l', 's']","['e', 'd', 'b', 'p', 'y', 'c', 'm']",5,3,True
+hockey,"['h', 'o', 'c', 'k', 'e', 'y']","['s', 'r', 'd', 'n', 'a', 'i', 'l']",6,3,True
+airport,"['a', 'i', 'r', 'p', 'o', 'r', 't']",['s'],7,9,True
+routinised,"['r', 'o', 'u', 't', 'i', 'n', 'i', 's', 'e', 'd']",['a'],10,9,True
+cocktail,"['c', 'o', 'c', 'k', 't', 'a', 'i', 'l']","['r', 'd', 'p']",8,7,True
+jitneys,"['j', 'i', 't', 'n', 'e', 'y', 's']","['r', 'l', 'd']",7,7,True
+delinquently,"['d', 'e', 'l', 'i', 'n', 'q', 'u', 'e', 'n', 't', 'l', 'y']","['c', 'r']",12,8,True
+monopolising,"['m', 'o', 'n', 'o', 'p', 'o', 'l', 'i', 's', 'i', 'n', 'g']","['c', 'r', 'b']",12,7,True
+cruxes,"['c', 'r', 'u', 'x', 'e', 's']","['a', 'i', 'p', 'b', 't']",6,5,True
+dogtrotting,"['d', 'o', 'g', 't', 'r', 'o', 't', 't', 'i', 'n', 'g']",[],11,10,True
+roomy,"['r', 'o', 'o', 'm', 'y']","['s', 'e', 'a', 'h', 'l', 'd', 'b', 'k']",5,2,True
+pasteurises,"['p', 'a', 's', 't', 'e', 'u', 'r', 'i', 's', 'e', 's']","['o', 'l', 'd', 'c', 'g', 'n']",11,4,True
+interluding,"['i', 'n', 't', 'e', 'r', 'l', 'u', 'd', 'i', 'n', 'g']",['o'],11,9,True
+beleaguering,"['b', 'e', 'l', 'e', 'a', 'g', 'u', 'e', 'r', 'i', 'n', 'g']","['c', 'o', 'm', 's']",12,6,True
+conjunctive,"['c', 'o', 'n', 'j', 'u', 'n', 'c', 't', 'i', 'v', 'e']","['r', 'a', 'l', 'm', 's']",11,5,True
+tambourine,"['t', 'a', 'm', 'b', 'o', 'u', 'r', 'i', 'n', 'e']","['p', 's']",10,8,True
+stables,"['s', 't', 'a', 'b', 'l', 'e', 's']","['r', 'i']",7,8,True
+overcoat,"['o', 'v', 'e', 'r', 'c', 'o', 'a', 't']","['i', 's']",8,8,True
+drum,"['d', 'r', 'u', 'm']","['e', 's', 'a', 'o', 'l', 'b', 'g']",4,3,True
+ginger,"['g', 'i', 'n', 'g', 'e', 'r']","['s', 'a', 'd']",6,7,True
+haling,"['h', 'a', 'l', 'i', 'n', 'g']","['s', 'r', 'd', 't', 'w', 'b', 'p']",6,3,True
+swim,"['s', 'w', 'i', 'm']","['e', 'a', 'o', 't', 'p', 'l', 'k', 'h']",4,2,True
+jailbreaks,"['j', 'a', 'i', 'l', 'b', 'r', 'e', 'a', 'k', 's']","['o', 'n', 'c', 'd']",10,6,True
+irradiated,"['i', 'r', 'r', 'a', 'd', 'i', 'a', 't', 'e', 'd']","['o', 'l', 's']",10,7,True
+scone,"['s', 'c', 'o', 'n', 'e']","['a', 'i', 'r', 't', 'p', 'h', 'l', 'k']",5,2,True
+salvoes,"['s', 'a', 'l', 'v', 'o', 'e', 's']","['r', 'i']",7,8,True
+toting,"['t', 'o', 't', 'i', 'n', 'g']","['s', 'r', 'd', 'a']",6,6,True
+recasts,"['r', 'e', 'c', 'a', 's', 't', 's']","['i', 'p']",7,8,True
+mimosas,"['m', 'i', 'm', 'o', 's', 'a', 's']","['d', 'r']",7,8,True
+dignities,"['d', 'i', 'g', 'n', 'i', 't', 'i', 'e', 's']","['a', 'o', 'r', 'l']",9,6,True
+wineglass,"['w', 'i', 'n', 'e', 'g', 'l', 'a', 's', 's']","['t', 'c', 'r']",9,7,True
+divisions,"['d', 'i', 'v', 'i', 's', 'i', 'o', 'n', 's']","['t', 'a', 'l', 'r', 'c']",9,5,True
+federally,"['f', 'e', 'd', 'e', 'r', 'a', 'l', 'l', 'y']","['t', 'n', 's']",9,7,True
+bathing,"['b', 'a', 't', 'h', 'i', 'n', 'g']","['s', 'r', 'l']",7,7,True
+jackhammer,"['j', 'a', 'c', 'k', 'h', 'a', 'm', 'm', 'e', 'r']","['o', 'l', 'b', 's']",10,6,True
+pheasants,"['p', 'h', 'e', 'a', 's', 'a', 'n', 't', 's']",['r'],9,9,True
+punctures,"['p', 'u', 'n', 'c', 't', 'u', 'r', 'e', 's']","['i', 'a', 'o']",9,7,True
+curlers,"['c', 'u', 'r', 'l', 'e', 'r', 's']",['a'],7,9,True
+jests,"['j', 'e', 's', 't', 's']","['r', 'b', 'p', 'f']",5,6,True
+bopped,"['b', 'o', 'p', 'p', 'e', 'd']","['s', 'r', 'l', 'n', 'g', 'a']",6,4,True
+novel,"['n', 'o', 'v', 'e', 'l']","['s', 'd', 'r', 'y', 'w', 'h', 'm']",5,3,True
+hallmarks,"['h', 'a', 'l', 'l', 'm', 'a', 'r', 'k', 's']","['t', 'n', 'b', 'c']",9,6,True
+fanaticism,"['f', 'a', 'n', 'a', 't', 'i', 'c', 'i', 's', 'm']","['o', 'l']",10,8,True
+phloxes,"['p', 'h', 'l', 'o', 'x', 'e', 's']","['r', 'i', 'a', 'b']",7,6,True
+passel,"['p', 'a', 's', 's', 'e', 'l']",[],6,10,True
+senseless,"['s', 'e', 'n', 's', 'e', 'l', 'e', 's', 's']","['t', 'a', 'o']",9,7,True
+runner,"['r', 'u', 'n', 'n', 'e', 'r']","['s', 'a', 'o', 'b', 'd', 'm']",6,4,True
+rhododendrons,"['r', 'h', 'o', 'd', 'o', 'd', 'e', 'n', 'd', 'r', 'o', 'n', 's']","['c', 'l', 'g', 'm']",13,6,True
+cozened,"['c', 'o', 'z', 'e', 'n', 'e', 'd']","['s', 'r', 'l', 'g', 'a', 't', 'i']",7,3,True
+sour,"['s', 'o', 'u', 'r']","['e', 'a', 'l']",4,7,True
+magnitudes,"['m', 'a', 'g', 'n', 'i', 't', 'u', 'd', 'e', 's']","['o', 'l', 'r']",10,7,True
+narrate,"['n', 'a', 'r', 'r', 'a', 't', 'e']","['s', 'b']",7,8,True
+hicks,"['_', '_', '_', 'k', 's']","['e', 'a', 'o', 'u', 'n', 'l', 'r', 't', 'd', 'p']",2,0,False
+bureaucracies,"['b', 'u', 'r', 'e', 'a', 'u', 'c', 'r', 'a', 'c', 'i', 'e', 's']",[],13,10,True
+softener,"['s', 'o', 'f', 't', 'e', 'n', 'e', 'r']",[],8,10,True
+scooters,"['s', 'c', 'o', 'o', 't', 'e', 'r', 's']","['a', 'l', 'p']",8,7,True
+snoot,"['s', 'n', 'o', 'o', 't']","['e', 'a', 'p', 'h']",5,6,True
+restraints,"['r', 'e', 's', 't', 'r', 'a', 'i', 'n', 't', 's']","['o', 'l', 'g', 'd']",10,6,True
+disregards,"['d', 'i', 's', 'r', 'e', 'g', 'a', 'r', 'd', 's']","['o', 'l']",10,8,True
+afterwards,"['a', 'f', 't', 'e', 'r', 'w', 'a', 'r', 'd', 's']","['o', 'l']",10,8,True
+refiling,"['r', 'e', 'f', 'i', 'l', 'i', 'n', 'g']","['s', 'd', 'a']",8,7,True
+idealisation,"['i', 'd', 'e', 'a', 'l', 'i', 's', 'a', 't', 'i', 'o', 'n']","['c', 'r']",12,8,True
+plowshare,"['p', 'l', 'o', 'w', 's', 'h', 'a', 'r', 'e']","['t', 'i', 'b']",9,7,True
+derangement,"['d', 'e', 'r', 'a', 'n', 'g', 'e', 'm', 'e', 'n', 't']","['o', 'l', 's']",11,7,True
+outsources,"['o', 'u', 't', 's', 'o', 'u', 'r', 'c', 'e', 's']",[],10,10,True
+peroxided,"['p', 'e', 'r', 'o', 'x', 'i', 'd', 'e', 'd']","['t', 'a', 's']",9,7,True
+backspaces,"['b', 'a', 'c', 'k', 's', 'p', 'a', 'c', 'e', 's']","['o', 'l', 'i', 'd', 'r']",10,5,True
+sapping,"['s', 'a', 'p', 'p', 'i', 'n', 'g']","['r', 'l', 'd', 'c']",7,6,True
+protectors,"['p', 'r', 'o', 't', 'e', 'c', 't', 'o', 'r', 's']",['j'],10,9,True
+nipped,"['n', 'i', 'p', 'p', 'e', 'd']","['s', 'r', 'l', 'a', 'k', 't', 'b']",6,3,True
+cultural,"['c', 'u', 'l', 't', 'u', 'r', 'a', 'l']","['s', 'm', 'i']",8,7,True
+groves,"['g', 'r', 'o', 'v', 'e', 's']","['a', 'i', 'u', 'p', 'd', 'c']",6,4,True
+grapple,"['g', 'r', 'a', 'p', 'p', 'l', 'e']","['s', 'd']",7,8,True
+occidental,"['o', 'c', 'c', 'i', 'd', 'e', 'n', 't', 'a', 'l']",[],10,10,True
+scrod,"['s', 'c', 'r', 'o', 'd']","['e', 'a']",5,8,True
+deaf,"['d', 'e', 'a', 'f']","['s', 'r', 'l', 't']",4,6,True
+aperitif,"['a', 'p', 'e', 'r', 'i', 't', 'i', 'f']","['s', 'd']",8,8,True
+flailed,"['f', 'l', 'a', 'i', 'l', 'e', 'd']","['s', 'r']",7,8,True
+concern,"['c', 'o', 'n', 'c', 'e', 'r', 'n']","['s', 'a', 'y', 'v', 't']",7,5,True
+stadia,"['s', 't', 'a', 'd', 'i', 'a']","['e', 'u', 'r', 'l']",6,6,True
+snivel,"['s', 'n', 'i', 'v', 'e', 'l']","['d', 'r', 't', 'h', 'w']",6,5,True
+predatory,"['p', 'r', 'e', 'd', 'a', 't', 'o', 'r', 'y']",['s'],9,9,True
+cartographers,"['c', 'a', 'r', 't', 'o', 'g', 'r', 'a', 'p', 'h', 'e', 'r', 's']","['m', 'l', 'b']",13,7,True
+exist,"['e', 'x', 'i', 's', 't']",[],5,10,True
+conserving,"['c', 'o', 'n', 's', 'e', 'r', 'v', 'i', 'n', 'g']",['a'],10,9,True
+weather,"['w', 'e', 'a', 't', 'h', 'e', 'r']","['s', 'i', 'l', 'c', 'f']",7,5,True
+jaundices,"['j', 'a', 'u', 'n', 'd', 'i', 'c', 'e', 's']","['t', 'l', 'g']",9,7,True
+shorted,"['s', 'h', 'o', 'r', 't', 'e', 'd']","['a', 'n', 'p', 'm']",7,6,True
+fleece,"['_', '_', '_', '_', '_', '_']","['s', 'r', 'd', 'n', 'a', 'i', 'o', 'u', 't', 'y']",0,0,False
+weird,"['w', 'e', 'i', 'r', 'd']","['s', 'a', 't', 'y']",5,6,True
+producers,"['p', 'r', 'o', 'd', 'u', 'c', 'e', 'r', 's']","['t', 'a', 'n']",9,7,True
+sorcery,"['s', 'o', 'r', 'c', 'e', 'r', 'y']",[],7,10,True
+pantie,"['p', 'a', 'n', 't', 'i', 'e']","['s', 'r', 'd', 'l']",6,6,True
+deadens,"['d', 'e', 'a', 'd', 'e', 'n', 's']","['r', 'i', 'l', 'c', 'o']",7,5,True
+theirs,"['t', 'h', 'e', 'i', 'r', 's']",['l'],6,9,True
+ringed,"['r', 'i', 'n', 'g', 'e', 'd']","['s', 'f', 'b']",6,7,True
+sultry,"['s', 'u', 'l', 't', 'r', 'y']","['e', 'i']",6,8,True
+damping,"['d', 'a', 'm', 'p', 'i', 'n', 'g']","['s', 'r', 'l', 't']",7,6,True
+barbed,"['b', 'a', 'r', 'b', 'e', 'd']","['s', 'k']",6,8,True
+tranquiller,"['t', 'r', 'a', 'n', 'q', 'u', 'i', 'l', 'l', 'e', 'r']",['o'],11,9,True
+deteriorate,"['d', 'e', 't', 'e', 'r', 'i', 'o', 'r', 'a', 't', 'e']","['n', 'l']",11,8,True
+extols,"['e', 'x', 't', 'o', 'l', 's']",[],6,10,True
+expatriate,"['e', 'x', 'p', 'a', 't', 'r', 'i', 'a', 't', 'e']","['o', 'l', 's']",10,7,True
+middy,"['m', 'i', 'd', 'd', 'y']","['s', 'e', 'a', 'o', 'u', 'b', 'k', 'g']",5,2,True
+scintillated,"['s', 'c', 'i', 'n', 't', 'i', 'l', 'l', 'a', 't', 'e', 'd']",[],12,10,True
+consultations,"['c', 'o', 'n', 's', 'u', 'l', 't', 'a', 't', 'i', 'o', 'n', 's']","['m', 'r', 'd']",13,7,True
+motionless,"['m', 'o', 't', 'i', 'o', 'n', 'l', 'e', 's', 's']",[],10,10,True
+fur,"['_', '_', '_']","['a', 'o', 'e', 'i', 'y', 'b', 'g', 'n', 'p', 'm']",0,0,False
+misadventure,"['m', 'i', 's', 'a', 'd', 'v', 'e', 'n', 't', 'u', 'r', 'e']","['c', 'l', 'o', 'g']",12,6,True
+forenames,"['f', 'o', 'r', 'e', 'n', 'a', 'm', 'e', 's']","['t', 'l', 'c', 'd', 'p']",9,5,True
+indent,"['i', 'n', 'd', 'e', 'n', 't']","['s', 'r']",6,8,True
+attributively,"['a', 't', 't', 'r', 'i', 'b', 'u', 't', 'i', 'v', 'e', 'l', 'y']",['c'],13,9,True
+retake,"['r', 'e', 't', 'a', 'k', 'e']","['s', 'd', 'l']",6,7,True
+lettuces,"['l', 'e', 't', 't', 'u', 'c', 'e', 's']","['r', 'a']",8,8,True
+sops,"['s', 'o', 'p', 's']","['e', 'a', 'l', 'd', 'b']",4,5,True
+drunkard,"['d', 'r', 'u', 'n', 'k', 'a', 'r', 'd']","['t', 'o']",8,8,True
+harpsichord,"['h', 'a', 'r', 'p', 's', 'i', 'c', 'h', 'o', 'r', 'd']",['u'],11,9,True
+scourges,"['s', 'c', 'o', 'u', 'r', 'g', 'e', 's']","['a', 'd']",8,8,True
+nationalisations,"['n', 'a', 't', 'i', 'o', 'n', 'a', 'l', 'i', 's', 'a', 't', 'i', 'o', 'n', 's']","['c', 'm', 'p', 'b', 'g', 'r', 'e']",16,3,True
+teaspoonsful,"['t', 'e', 'a', 's', 'p', 'o', 'o', 'n', 's', 'f', 'u', 'l']",['c'],12,9,True
+elders,"['e', 'l', 'd', 'e', 'r', 's']",[],6,10,True
+doling,"['d', 'o', 'l', 'i', 'n', 'g']","['s', 'r', 'e']",6,7,True
+incriminated,"['i', 'n', 'c', 'r', 'i', 'm', 'i', 'n', 'a', 't', 'e', 'd']","['l', 's', 'p']",12,7,True
+backslide,"['b', 'a', 'c', 'k', 's', 'l', 'i', 'd', 'e']","['t', 'r']",9,8,True
+cervical,"['c', 'e', 'r', 'v', 'i', 'c', 'a', 'l']","['t', 'n', 's']",8,7,True
+rollback,"['r', 'o', 'l', 'l', 'b', 'a', 'c', 'k']","['s', 'd']",8,8,True
+impecuniousness,"['i', 'm', 'p', 'e', 'c', 'u', 'n', 'i', 'o', 'u', 's', 'n', 'e', 's', 's']","['l', 'd', 'r']",15,7,True
+whirlpools,"['w', 'h', 'i', 'r', 'l', 'p', 'o', 'o', 'l', 's']",['a'],10,9,True
+romps,"['r', 'o', 'm', 'p', 's']","['e', 'a', 'l']",5,7,True
+typically,"['t', 'y', 'p', 'i', 'c', 'a', 'l', 'l', 'y']","['n', 'o', 'e', 'r']",9,6,True
+desisting,"['d', 'e', 's', 'i', 's', 't', 'i', 'n', 'g']","['a', 'o', 'r']",9,7,True
+cathode,"['c', 'a', 't', 'h', 'o', 'd', 'e']","['s', 'r', 'l', 'g', 'n']",7,5,True
+orthographic,"['o', 'r', 't', 'h', 'o', 'g', 'r', 'a', 'p', 'h', 'i', 'c']","['s', 'e', 'l']",12,7,True
+outstaying,"['o', 'u', 't', 's', 't', 'a', 'y', 'i', 'n', 'g']","['r', 'l']",10,8,True
+grated,"['g', 'r', 'a', 't', 'e', 'd']","['s', 'c', 'v', 'y']",6,6,True
+pedicure,"['p', 'e', 'd', 'i', 'c', 'u', 'r', 'e']","['a', 'o', 'l', 't', 'n', 's']",8,4,True
+adversarial,"['a', 'd', 'v', 'e', 'r', 's', 'a', 'r', 'i', 'a', 'l']",['o'],11,9,True
+searing,"['s', 'e', 'a', 'r', 'i', 'n', 'g']",[],7,10,True
+stepchild,"['s', 't', 'e', 'p', 'c', 'h', 'i', 'l', 'd']","['n', 'o', 'r']",9,7,True
+phallic,"['p', 'h', 'a', 'l', 'l', 'i', 'c']","['s', 'r']",7,8,True
+stickler,"['s', 't', 'i', 'c', 'k', 'l', 'e', 'r']",['u'],8,9,True
+mantras,"['m', 'a', 'n', 't', 'r', 'a', 's']",['c'],7,9,True
+cusps,"['c', 'u', 's', 'p', 's']","['e', 't', 'a', 'k']",5,6,True
+tweediest,"['t', 'w', 'e', 'e', 'd', 'i', 'e', 's', 't']","['a', 'n', 'r']",9,7,True
+copies,"['c', 'o', 'p', 'i', 'e', 's']","['a', 'd', 'm']",6,7,True
+comparatively,"['c', 'o', 'm', 'p', 'a', 'r', 'a', 't', 'i', 'v', 'e', 'l', 'y']",[],13,10,True
+brusquely,"['b', 'r', 'u', 's', 'q', 'u', 'e', 'l', 'y']","['t', 'a', 'o', 'n', 'd', 'i', 'p']",9,3,True
+ingredient,"['i', 'n', 'g', 'r', 'e', 'd', 'i', 'e', 'n', 't']","['o', 'l', 'a', 'u', 's', 'p', 'f']",10,3,True
+loganberry,"['l', 'o', 'g', 'a', 'n', 'b', 'e', 'r', 'r', 'y']",[],10,10,True
+pelt,"['p', 'e', 'l', 't']","['s', 'a', 'n', 'b']",4,6,True
+laces,"['l', 'a', 'c', 'e', 's']","['r', 'd', 'k']",5,7,True
+reminiscences,"['r', 'e', 'm', 'i', 'n', 'i', 's', 'c', 'e', 'n', 'c', 'e', 's']",[],13,10,True
+month,"['m', 'o', 'n', 't', 'h']","['s', 'e', 'a', 'y', 'u', 'c']",5,4,True
+porcelain,"['p', 'o', 'r', 'c', 'e', 'l', 'a', 'i', 'n']","['t', 'd']",9,8,True
+depends,"['d', 'e', 'p', 'e', 'n', 'd', 's']","['r', 'i', 'a', 'l', 't', 'b', 'x']",7,3,True
+underexposed,"['u', 'n', 'd', 'e', 'r', 'e', 'x', 'p', 'o', 's', 'e', 'd']","['c', 'l', 'a', 'm']",12,6,True
+contending,"['c', 'o', 'n', 't', 'e', 'n', 'd', 'i', 'n', 'g']","['a', 'r', 'l', 's', 'm']",10,5,True
+suds,"['s', 'u', 'd', 's']","['e', 'a', 'o', 'i']",4,6,True
+zinc,"['_', '_', 'n', '_']","['e', 's', 'a', 'o', 'u', 'd', 'k', 't', 'g', 'm']",1,0,False
+climax,"['c', 'l', 'i', 'm', 'a', 'x']","['s', 'r', 'd', 'n']",6,6,True
+disengages,"['d', 'i', 's', 'e', 'n', 'g', 'a', 'g', 'e', 's']","['o', 'l', 'r', 'p', 'c', 't']",10,4,True
+exempts,"['e', 'x', 'e', 'm', 'p', 't', 's']","['r', 'i', 'a', 'l', 'n', 'c', 'u', 'o']",7,2,True
+phobias,"['p', 'h', 'o', 'b', 'i', 'a', 's']","['r', 'n']",7,8,True
+underachieved,"['u', 'n', 'd', 'e', 'r', 'a', 'c', 'h', 'i', 'e', 'v', 'e', 'd']",['s'],13,9,True
+subsidy,"['s', 'u', 'b', 's', 'i', 'd', 'y']",[],7,10,True
+hallucination,"['h', 'a', 'l', 'l', 'u', 'c', 'i', 'n', 'a', 't', 'i', 'o', 'n']","['g', 'r']",13,8,True
+paleface,"['p', 'a', 'l', 'e', 'f', 'a', 'c', 'e']","['r', 'n', 's', 'd', 'b']",8,5,True
+excitements,"['e', 'x', 'c', 'i', 't', 'e', 'm', 'e', 'n', 't', 's']","['o', 'l', 'd', 'r']",11,6,True
+slipshod,"['s', 'l', 'i', 'p', 's', 'h', 'o', 'd']","['r', 'a', 't']",8,7,True
+workingman,"['w', 'o', 'r', 'k', 'i', 'n', 'g', 'm', 'a', 'n']",[],10,10,True
+jounces,"['j', 'o', 'u', 'n', 'c', 'e', 's']","['r', 'i', 'a', 'l', 'b', 'p']",7,4,True
+buys,"['b', 'u', 'y', 's']","['e', 'a', 'o', 'i', 'g', 'r', 'd']",4,3,True
+commonplaces,"['c', 'o', 'm', 'm', 'o', 'n', 'p', 'l', 'a', 'c', 'e', 's']",['i'],12,9,True
+fortieths,"['f', 'o', 'r', 't', 'i', 'e', 't', 'h', 's']","['d', 'b']",9,8,True
+hotshot,"['h', 'o', 't', 's', 'h', 'o', 't']","['i', 'p']",7,8,True
+middles,"['m', 'i', 'd', 'd', 'l', 'e', 's']","['r', 'n', 'p', 'f']",7,6,True
+commercialism,"['c', 'o', 'm', 'm', 'e', 'r', 'c', 'i', 'a', 'l', 'i', 's', 'm']",[],13,10,True
+unsubstantial,"['u', 'n', 's', 'u', 'b', 's', 't', 'a', 'n', 't', 'i', 'a', 'l']","['c', 'e']",13,8,True
+urbaner,"['u', 'r', 'b', 'a', 'n', 'e', 'r']",['s'],7,9,True
+disregarding,"['d', 'i', 's', 'r', 'e', 'g', 'a', 'r', 'd', 'i', 'n', 'g']","['c', 'l', 'o']",12,7,True
+hampers,"['h', 'a', 'm', 'p', 'e', 'r', 's']","['t', 'n', 'l', 'c', 'd']",7,5,True
+workmen,"['w', 'o', 'r', 'k', 'm', 'e', 'n']","['s', 'i', 'a', 'f']",7,6,True
+cursing,"['c', 'u', 'r', 's', 'i', 'n', 'g']","['a', 'p']",7,8,True
+walkway,"['w', 'a', 'l', 'k', 'w', 'a', 'y']","['s', 'r', 'f']",7,7,True
+genitalia,"['g', 'e', 'n', 'i', 't', 'a', 'l', 'i', 'a']",[],9,10,True
+boastful,"['b', 'o', 'a', 's', 't', 'f', 'u', 'l']","['r', 'e']",8,8,True
+gestated,"['g', 'e', 's', 't', 'a', 't', 'e', 'd']","['r', 'l', 'n', 'i', 'p']",8,5,True
+chaises,"['c', 'h', 'a', 'i', 's', 'e', 's']","['t', 'r', 'd']",7,7,True
+misfires,"['m', 'i', 's', 'f', 'i', 'r', 'e', 's']","['p', 'b']",8,8,True
+wackos,"['w', 'a', 'c', 'k', 'o', 's']","['e', 't', 'r', 'b']",6,6,True
+internalising,"['i', 'n', 't', 'e', 'r', 'n', 'a', 'l', 'i', 's', 'i', 'n', 'g']","['c', 'p', 'm']",13,7,True
+scrods,"['s', 'c', 'r', 'o', 'd', 's']","['e', 'a']",6,8,True
+borrow,"['b', 'o', 'r', 'r', 'o', 'w']","['s', 'e', 'a', 'u']",6,6,True
+convalescing,"['c', 'o', 'n', 'v', 'a', 'l', 'e', 's', 'c', 'i', 'n', 'g']",[],12,10,True
+affliction,"['a', 'f', 'f', 'l', 'i', 'c', 't', 'i', 'o', 'n']","['r', 'e', 'u']",10,7,True
+preempts,"['p', 'r', 'e', 'e', 'm', 'p', 't', 's']",['c'],8,9,True
+daredevils,"['d', 'a', 'r', 'e', 'd', 'e', 'v', 'i', 'l', 's']","['o', 't', 'b']",10,7,True
+activates,"['a', 'c', 't', 'i', 'v', 'a', 't', 'e', 's']","['d', 'm']",9,8,True
+understood,"['u', 'n', 'd', 'e', 'r', 's', 't', 'o', 'o', 'd']","['i', 'l', 'h']",10,7,True
+masticating,"['m', 'a', 's', 't', 'i', 'c', 'a', 't', 'i', 'n', 'g']","['o', 'l', 'd', 'p', 'r']",11,5,True
+schema,"['s', 'c', 'h', 'e', 'm', 'a']",['r'],6,9,True
+tie,"['t', 'i', 'e']","['a', 'o', 'l', 'd', 'p', 'f', 'v', 'h']",3,2,True
+hawkers,"['h', 'a', 'w', 'k', 'e', 'r', 's']","['t', 'n', 'l', 'm', 'd', 'c']",7,4,True
+misprint,"['m', 'i', 's', 'p', 'r', 'i', 'n', 't']","['a', 'o', 'u', 'd']",8,6,True
+generosity,"['g', 'e', 'n', 'e', 'r', 'o', 's', 'i', 't', 'y']",['l'],10,9,True
+embalms,"['e', 'm', 'b', 'a', 'l', 'm', 's']","['r', 'i', 't']",7,7,True
+cafeteria,"['c', 'a', 'f', 'e', 't', 'e', 'r', 'i', 'a']","['n', 'l', 'o', 's', 'd']",9,5,True
+talkativeness,"['t', 'a', 'l', 'k', 'a', 't', 'i', 'v', 'e', 'n', 'e', 's', 's']","['c', 'm']",13,8,True
+wearying,"['w', 'e', 'a', 'r', 'y', 'i', 'n', 'g']","['s', 'l', 'd']",8,7,True
+menial,"['m', 'e', 'n', 'i', 'a', 'l']","['s', 'r', 'd']",6,7,True
+fiscally,"['f', 'i', 's', 'c', 'a', 'l', 'l', 'y']","['r', 'd']",8,8,True
+temptation,"['t', 'e', 'm', 'p', 't', 'a', 't', 'i', 'o', 'n']","['r', 'd', 'l', 's']",10,6,True
+titmice,"['t', 'i', 't', 'm', 'i', 'c', 'e']","['s', 'r', 'l', 'g', 'a', 'o']",7,4,True
+reconfiguration,"['r', 'e', 'c', 'o', 'n', 'f', 'i', 'g', 'u', 'r', 'a', 't', 'i', 'o', 'n']","['l', 's']",15,8,True
+grange,"['g', 'r', 'a', 'n', 'g', 'e']","['s', 'd']",6,8,True
+sunup,"['s', 'u', 'n', 'u', 'p']","['e', 'a', 'o', 'i']",5,6,True
+tear,"['_', 'e', 'a', 'r']","['s', 'd', 'b', 'p', 'y', 'f', 'h', 'w', 'g', 'n']",3,0,False
+statesman,"['s', 't', 'a', 't', 'e', 's', 'm', 'a', 'n']",['i'],9,9,True
+typewritten,"['t', 'y', 'p', 'e', 'w', 'r', 'i', 't', 't', 'e', 'n']","['o', 'l', 'd', 'c', 'g']",11,5,True
+acknowledges,"['a', 'c', 'k', 'n', 'o', 'w', 'l', 'e', 'd', 'g', 'e', 's']",[],12,10,True
+dryest,"['d', 'r', 'y', 'e', 's', 't']","['i', 'a', 'o']",6,7,True
+playthings,"['p', 'l', 'a', 'y', 't', 'h', 'i', 'n', 'g', 's']","['o', 'r']",10,8,True
+bookcases,"['b', 'o', 'o', 'k', 'c', 'a', 's', 'e', 's']","['t', 'l', 'd']",9,7,True
+crisis,"['c', 'r', 'i', 's', 'i', 's']","['t', 'a', 'p', 'k', 'e']",6,5,True
+thrived,"['t', 'h', 'r', 'i', 'v', 'e', 'd']",['s'],7,9,True
+absolving,"['a', 'b', 's', 'o', 'l', 'v', 'i', 'n', 'g']","['t', 'r']",9,8,True
+parsimonious,"['p', 'a', 'r', 's', 'i', 'm', 'o', 'n', 'i', 'o', 'u', 's']","['c', 'l']",12,8,True
+beholder,"['b', 'e', 'h', 'o', 'l', 'd', 'e', 'r']",['s'],8,9,True
+archivists,"['a', 'r', 'c', 'h', 'i', 'v', 'i', 's', 't', 's']","['o', 'l', 'm', 'y', 'e']",10,5,True
+togs,"['t', 'o', 'g', 's']","['e', 'a', 'r', 'p', 'y', 'm', 'w']",4,3,True
+unappreciated,"['u', 'n', 'a', 'p', 'p', 'r', 'e', 'c', 'i', 'a', 't', 'e', 'd']",['f'],13,9,True
+corset,"['c', 'o', 'r', 's', 'e', 't']","['h', 'l']",6,8,True
+ululating,"['u', 'l', 'u', 'l', 'a', 't', 'i', 'n', 'g']",['r'],9,9,True
+contrasting,"['c', 'o', 'n', 't', 'r', 'a', 's', 't', 'i', 'n', 'g']",[],11,10,True
+peevishly,"['p', 'e', 'e', 'v', 'i', 's', 'h', 'l', 'y']","['t', 'a', 'o', 'n', 'd', 'r']",9,4,True
+aviary,"['a', 'v', 'i', 'a', 'r', 'y']","['s', 'd', 'p']",6,7,True
+primes,"['p', 'r', 'i', 'm', 'e', 's']","['a', 'd', 'c']",6,7,True
+handcrafted,"['h', 'a', 'n', 'd', 'c', 'r', 'a', 'f', 't', 'e', 'd']","['o', 'l', 's', 'i']",11,6,True
+adoption,"['a', 'd', 'o', 'p', 't', 'i', 'o', 'n']","['r', 's', 'e', 'g']",8,6,True
+implausibility,"['i', 'm', 'p', 'l', 'a', 'u', 's', 'i', 'b', 'i', 'l', 'i', 't', 'y']",[],14,10,True
+fluffiest,"['f', 'l', 'u', 'f', 'f', 'i', 'e', 's', 't']","['n', 'r', 'o', 'c', 'a', 'm', 'h', 'p']",9,2,True
+tones,"['t', 'o', 'n', 'e', 's']","['a', 'i', 'l', 'p', 'k', 'm']",5,4,True
+blights,"['b', 'l', 'i', 'g', 'h', 't', 's']",['r'],7,9,True
+applesauce,"['a', 'p', 'p', 'l', 'e', 's', 'a', 'u', 'c', 'e']","['o', 'n']",10,8,True
+insetted,"['i', 'n', 's', 'e', 't', 't', 'e', 'd']","['r', 'a', 'l', 'b']",8,6,True
+gearbox,"['g', 'e', 'a', 'r', 'b', 'o', 'x']","['s', 'i']",7,8,True
+gullies,"['g', 'u', 'l', 'l', 'i', 'e', 's']","['r', 'o', 'a', 'p', 'b', 'm', 'n']",7,3,True
+formaldehyde,"['f', 'o', 'r', 'm', 'a', 'l', 'd', 'e', 'h', 'y', 'd', 'e']","['c', 's']",12,8,True
+cassettes,"['c', 'a', 's', 's', 'e', 't', 't', 'e', 's']",[],9,10,True
+slumps,"['s', 'l', 'u', 'm', 'p', 's']","['e', 'a', 'o', 't', 'i', 'r']",6,4,True
+hinted,"['h', 'i', 'n', 't', 'e', 'd']","['s', 'r', 'l', 'g', 'k', 'c', 'm']",6,3,True
+mealtimes,"['m', 'e', 'a', 'l', 't', 'i', 'm', 'e', 's']","['n', 'r']",9,8,True
+emblazoning,"['e', 'm', 'b', 'l', 'a', 'z', 'o', 'n', 'i', 'n', 'g']",[],11,10,True
+testily,"['t', 'e', 's', 't', 'i', 'l', 'y']",['r'],7,9,True
+enactment,"['e', 'n', 'a', 'c', 't', 'm', 'e', 'n', 't']","['r', 's']",9,8,True
+musicals,"['m', 'u', 's', 'i', 'c', 'a', 'l', 's']","['r', 'd', 'e']",8,7,True
+misspelled,"['m', 'i', 's', 's', 'p', 'e', 'l', 'l', 'e', 'd']",['o'],10,9,True
+scandalised,"['s', 'c', 'a', 'n', 'd', 'a', 'l', 'i', 's', 'e', 'd']","['o', 'r']",11,8,True
+dame,"['d', 'a', 'm', 'e']","['l', 'r', 's']",4,7,True
+gingham,"['g', 'i', 'n', 'g', 'h', 'a', 'm']","['s', 'r', 'l', 'y']",7,6,True
+yearning,"['y', 'e', 'a', 'r', 'n', 'i', 'n', 'g']","['s', 'l', 'd', 'w']",8,6,True
+semi,"['s', 'e', 'm', 'i']","['a', 'n', 'l', 'r', 'y', 'c']",4,4,True
+slenderised,"['s', 'l', 'e', 'n', 'd', 'e', 'r', 'i', 's', 'e', 'd']","['o', 'u']",11,8,True
+sorcerers,"['s', 'o', 'r', 'c', 'e', 'r', 'e', 'r', 's']","['t', 'a']",9,8,True
+preregister,"['p', 'r', 'e', 'r', 'e', 'g', 'i', 's', 't', 'e', 'r']","['o', 'l', 'd', 'c']",11,6,True
+romanticised,"['r', 'o', 'm', 'a', 'n', 't', 'i', 'c', 'i', 's', 'e', 'd']",[],12,10,True
+hoboes,"['h', 'o', 'b', 'o', 'e', 's']","['a', 'i', 'u', 'r', 'l']",6,5,True
+whittled,"['w', 'h', 'i', 't', 't', 'l', 'e', 'd']","['r', 'a', 's']",8,7,True
+yak,"['y', 'a', 'k']","['t', 'p', 'w', 'g', 'm', 'b']",3,4,True
+entangled,"['e', 'n', 't', 'a', 'n', 'g', 'l', 'e', 'd']","['s', 'u']",9,8,True
+antes,"['a', 'n', 't', 'e', 's']","['c', 'l', 'd']",5,7,True
+screeched,"['s', 'c', 'r', 'e', 'e', 'c', 'h', 'e', 'd']","['t', 'a', 'o', 'l', 'u', 'p']",9,4,True
+mires,"['m', 'i', 'r', 'e', 's']","['a', 't', 'v', 'l']",5,6,True
+totters,"['t', 'o', 't', 't', 'e', 'r', 's']","['a', 'l', 'c', 'd', 'b', 'g']",7,4,True
+hyper,"['h', 'y', 'p', 'e', 'r']","['s', 'd', 'a', 'o', 'i', 't', 'l', 'b']",5,2,True
+noon,"['n', 'o', 'o', 'n']","['e', 's', 'a', 'l', 'r', 'k', 'd', 't', 'p']",4,1,True
+moseyed,"['m', 'o', 's', 'e', 'y', 'e', 'd']","['t', 'n', 'r', 'a', 'l']",7,5,True
+infinitesimally,"['i', 'n', 'f', 'i', 'n', 'i', 't', 'e', 's', 'i', 'm', 'a', 'l', 'l', 'y']",[],15,10,True
+monikers,"['m', 'o', 'n', 'i', 'k', 'e', 'r', 's']","['a', 'l', 'u', 't', 'd', 'c']",8,4,True
+flippest,"['f', 'l', 'i', 'p', 'p', 'e', 's', 't']","['r', 'a', 'u', 'o', 'b']",8,5,True
+auk,"['a', 'u', 'k']","['e', 'd', 'r', 'l', 't', 's', 'm', 'n', 'g']",3,1,True
+centigramme,"['c', 'e', 'n', 't', 'i', 'g', 'r', 'a', 'm', 'm', 'e']","['o', 'l', 'd']",11,7,True
+message,"['m', 'e', 's', 's', 'a', 'g', 'e']",[],7,10,True
+anthropological,"['a', 'n', 't', 'h', 'r', 'o', 'p', 'o', 'l', 'o', 'g', 'i', 'c', 'a', 'l']",['b'],15,9,True
+succession,"['s', 'u', 'c', 'c', 'e', 's', 's', 'i', 'o', 'n']",['r'],10,9,True
+marches,"['m', 'a', 'r', 'c', 'h', 'e', 's']","['n', 'l', 't', 'p']",7,6,True
+unholiest,"['u', 'n', 'h', 'o', 'l', 'i', 'e', 's', 't']","['r', 'a', 'b']",9,7,True
+orchestrating,"['o', 'r', 'c', 'h', 'e', 's', 't', 'r', 'a', 't', 'i', 'n', 'g']","['l', 'd']",13,8,True
+weighting,"['_', '_', '_', '_', '_', 't', '_', '_', '_']","['a', 'o', 's', 'c', 'r', 'l', 'b', 'd', 'k', 'v']",1,0,False
+octopi,"['o', 'c', 't', 'o', 'p', 'i']","['s', 'r', 'd', 'n', 'a', 'l']",6,4,True
+admen,"['a', 'd', 'm', 'e', 'n']","['s', 'l']",5,8,True
+announced,"['a', 'n', 'n', 'o', 'u', 'n', 'c', 'e', 'd']","['t', 'r', 's']",9,7,True
+contrive,"['c', 'o', 'n', 't', 'r', 'i', 'v', 'e']",['a'],8,9,True
+innocuously,"['i', 'n', 'n', 'o', 'c', 'u', 'o', 'u', 's', 'l', 'y']","['r', 'd']",11,8,True
+illness,"['i', 'l', 'l', 'n', 'e', 's', 's']",['a'],7,9,True
+proper,"['p', 'r', 'o', 'p', 'e', 'r']","['s', 'a', 'k', 'g', 'd']",6,5,True
+smith,"['s', 'm', 'i', 't', 'h']","['e', 'a', 'o', 'l']",5,6,True
+bondsmen,"['b', 'o', 'n', 'd', 's', 'm', 'e', 'n']","['r', 'a', 't', 'l', 'c']",8,5,True
+burlesque,"['b', 'u', 'r', 'l', 'e', 's', 'q', 'u', 'e']","['t', 'a', 'o', 'c', 'd']",9,5,True
+swanked,"['s', 'w', 'a', 'n', 'k', 'e', 'd']","['r', 'i', 'l', 't', 'p', 'c', 'b']",7,3,True
+mementos,"['m', 'e', 'm', 'e', 'n', 't', 'o', 's']","['r', 'a', 'i', 'c', 'l', 'u', 'y']",8,3,True
+roadway,"['r', 'o', 'a', 'd', 'w', 'a', 'y']","['s', 'n']",7,8,True
+conclusively,"['c', 'o', 'n', 'c', 'l', 'u', 's', 'i', 'v', 'e', 'l', 'y']",[],12,10,True
+shills,"['s', 'h', 'i', 'l', 'l', 's']","['e', 'a', 'o', 't', 'p', 'k']",6,4,True
+squeezers,"['s', 'q', 'u', 'e', 'e', 'z', 'e', 'r', 's']","['t', 'a', 'o', 'l', 'd', 'g', 'n', 'm', 'h']",9,1,True
+thankfully,"['t', 'h', 'a', 'n', 'k', 'f', 'u', 'l', 'l', 'y']","['o', 'r', 'c', 's']",10,6,True
+maid,"['m', 'a', 'i', 'd']","['e', 's', 'r', 'l', 'n', 't']",4,4,True
+cabana,"['c', 'a', 'b', 'a', 'n', 'a']","['s', 'r', 'd']",6,7,True
+contemplating,"['c', 'o', 'n', 't', 'e', 'm', 'p', 'l', 'a', 't', 'i', 'n', 'g']",[],13,10,True
+prophesies,"['p', 'r', 'o', 'p', 'h', 'e', 's', 'i', 'e', 's']","['t', 'l', 'n', 'c', 'g', 'd', 'k', 'b']",10,2,True
+screening,"['s', 'c', 'r', 'e', 'e', 'n', 'i', 'n', 'g']","['t', 'a', 'o', 'l', 'd', 'u']",9,4,True
+mintiest,"['m', 'i', 'n', 't', 'i', 'e', 's', 't']","['r', 'a', 'l']",8,7,True
+huskiness,"['h', 'u', 's', 'k', 'i', 'n', 'e', 's', 's']","['t', 'a', 'o', 'l', 'd', 'g', 'r', 'p', 'm']",9,1,True
+bunker,"['b', 'u', 'n', 'k', 'e', 'r']","['s', 'a', 'i', 'o', 'l', 'm', 'f']",6,3,True
+piked,"['p', 'i', 'k', 'e', 'd']","['s', 'a', 'o', 'l', 'r']",5,5,True
+hemispheric,"['h', 'e', 'm', 'i', 's', 'p', 'h', 'e', 'r', 'i', 'c']","['o', 'l', 'd']",11,7,True
+origin,"['o', 'r', 'i', 'g', 'i', 'n']","['s', 'e', 'd']",6,7,True
+predetermining,"['p', 'r', 'e', 'd', 'e', 't', 'e', 'r', 'm', 'i', 'n', 'i', 'n', 'g']","['l', 'c', 'o', 's']",14,6,True
+anecdote,"['a', 'n', 'e', 'c', 'd', 'o', 't', 'e']","['r', 's']",8,8,True
+landholder,"['l', 'a', 'n', 'd', 'h', 'o', 'l', 'd', 'e', 'r']",[],10,10,True
+enthronement,"['e', 'n', 't', 'h', 'r', 'o', 'n', 'e', 'm', 'e', 'n', 't']","['c', 'l', 'a', 'd']",12,6,True
+bodice,"['b', 'o', 'd', 'i', 'c', 'e']","['s', 'r', 'n', 'm', 'l']",6,5,True
+convalescent,"['c', 'o', 'n', 'v', 'a', 'l', 'e', 's', 'c', 'e', 'n', 't']",['i'],12,9,True
+housecleans,"['h', 'o', 'u', 's', 'e', 'c', 'l', 'e', 'a', 'n', 's']",['r'],11,9,True
+mottos,"['_', '_', '_', '_', '_', 's']","['e', 'a', 'i', 'r', 'l', 'h', 'n', 'b', 'c', 'd']",1,0,False
+moralists,"['m', 'o', 'r', 'a', 'l', 'i', 's', 't', 's']",[],9,10,True
+convertors,"['c', 'o', 'n', 'v', 'e', 'r', 't', 'o', 'r', 's']","['u', 'p', 'l', 'f']",10,6,True
+pilloried,"['p', 'i', 'l', 'l', 'o', 'r', 'i', 'e', 'd']","['t', 'a', 'g', 's']",9,6,True
+weltered,"['w', 'e', 'l', 't', 'e', 'r', 'e', 'd']","['s', 'a', 'c', 'f']",8,6,True
+flan,"['f', 'l', 'a', 'n']","['e', 's', 'r', 'b', 'p', 'y', 'k', 'w', 'g']",4,1,True
+rind,"['r', 'i', 'n', 'd']","['e', 's', 'a', 'o', 'u']",4,5,True
+purifying,"['p', 'u', 'r', 'i', 'f', 'y', 'i', 'n', 'g']","['t', 'a', 'o', 'l', 'd', 's']",9,4,True
+beers,"['b', 'e', 'e', 'r', 's']","['d', 'l']",5,8,True
+pinto,"['p', 'i', 'n', 't', 'o']","['s', 'e', 'a', 'g']",5,6,True
+differing,"['d', 'i', 'f', 'f', 'e', 'r', 'i', 'n', 'g']","['t', 'a', 'o', 'l', 's', 'k']",9,4,True
+watchman,"['w', 'a', 't', 'c', 'h', 'm', 'a', 'n']","['r', 'l']",8,8,True
+dedicate,"['d', 'e', 'd', 'i', 'c', 'a', 't', 'e']","['r', 'l', 'm', 's', 'g']",8,5,True
+impressionism,"['i', 'm', 'p', 'r', 'e', 's', 's', 'i', 'o', 'n', 'i', 's', 'm']","['c', 'l', 'g']",13,7,True
+leaking,"['l', 'e', 'a', 'k', 'i', 'n', 'g']","['s', 'r', 'd', 'p', 'f']",7,5,True
+choke,"['c', 'h', 'o', 'k', 'e']","['s', 'a', 'i', 'u', 'r', 'l', 'n', 'y']",5,2,True
+roughest,"['r', 'o', 'u', 'g', 'h', 'e', 's', 't']","['d', 'l', 'k']",8,7,True
+accepts,"['a', 'c', 'c', 'e', 'p', 't', 's']","['r', 'i', 'u']",7,7,True
+interleave,"['i', 'n', 't', 'e', 'r', 'l', 'e', 'a', 'v', 'e']","['o', 's', 'c', 'd']",10,6,True
+asserts,"['a', 's', 's', 'e', 'r', 't', 's']",[],7,10,True
+meat,"['m', 'e', 'a', 't']","['s', 'r', 'l', 'b', 'p', 'f']",4,4,True
+reformed,"['r', 'e', 'f', 'o', 'r', 'm', 'e', 'd']","['t', 'v', 'a']",8,7,True
+quiescent,"['q', 'u', 'i', 'e', 's', 'c', 'e', 'n', 't']",[],9,10,True
+freckle,"['f', 'r', 'e', 'c', 'k', 'l', 'e']","['s', 'd', 'a', 'i', 'o']",7,5,True
+familiarly,"['f', 'a', 'm', 'i', 'l', 'i', 'a', 'r', 'l', 'y']","['o', 'p']",10,8,True
+racks,"['r', 'a', 'c', 'k', 's']","['e', 'i']",5,8,True
+threatened,"['t', 'h', 'r', 'e', 'a', 't', 'e', 'n', 'e', 'd']","['o', 'l', 'g', 'm', 'c', 's']",10,4,True
+procreation,"['p', 'r', 'o', 'c', 'r', 'e', 'a', 't', 'i', 'o', 'n']",['s'],11,9,True
+demobilises,"['d', 'e', 'm', 'o', 'b', 'i', 'l', 'i', 's', 'e', 's']",['r'],11,9,True
+circumscription,"['c', 'i', 'r', 'c', 'u', 'm', 's', 'c', 'r', 'i', 'p', 't', 'i', 'o', 'n']",['l'],15,9,True
+spinnakers,"['s', 'p', 'i', 'n', 'n', 'a', 'k', 'e', 'r', 's']","['o', 'l', 'g']",10,7,True
+limericks,"['l', 'i', 'm', 'e', 'r', 'i', 'c', 'k', 's']","['t', 'a', 'o', 'u']",9,6,True
+levitates,"['l', 'e', 'v', 'i', 't', 'a', 't', 'e', 's']","['d', 'p', 'm']",9,7,True
+picture,"['p', 'i', 'c', 't', 'u', 'r', 'e']","['s', 'a', 'o', 'b']",7,6,True
+franchise,"['f', 'r', 'a', 'n', 'c', 'h', 'i', 's', 'e']","['t', 'l']",9,8,True
+bisons,"['b', 'i', 's', 'o', 'n', 's']","['a', 'e', 'c', 'r']",6,6,True
+countess,"['c', 'o', 'u', 'n', 't', 'e', 's', 's']","['r', 'a']",8,8,True
+minims,"['m', 'i', 'n', 'i', 'm', 's']","['e', 'a', 'l', 'c', 'd', 'p']",6,4,True
+spored,"['s', 'p', 'o', 'r', 'e', 'd']",['a'],6,9,True
+suppurating,"['s', 'u', 'p', 'p', 'u', 'r', 'a', 't', 'i', 'n', 'g']","['o', 'l', 'd', 'c']",11,6,True
+russets,"['r', 'u', 's', 's', 'e', 't', 's']",['l'],7,9,True
+grout,"['g', 'r', 'o', 'u', 't']","['s', 'e', 'a', 'n']",5,6,True
+netted,"['n', 'e', 't', 't', 'e', 'd']","['s', 'r', 'l', 'a', 'k', 'u']",6,4,True
+jousted,"['j', 'o', 'u', 's', 't', 'e', 'd']","['i', 'a', 'l', 'r']",7,6,True
+queers,"['q', 'u', 'e', 'e', 'r', 's']",['a'],6,9,True
+sometime,"['s', 'o', 'm', 'e', 't', 'i', 'm', 'e']","['r', 'a', 'h', 'g', 'l', 'd', 'n']",8,3,True
+naturalise,"['n', 'a', 't', 'u', 'r', 'a', 'l', 'i', 's', 'e']","['o', 'm']",10,8,True
+upend,"['u', 'p', 'e', 'n', 'd']","['s', 'a', 'l', 't', 'r']",5,5,True
+indelibly,"['i', 'n', 'd', 'e', 'l', 'i', 'b', 'l', 'y']","['t', 'a', 'o']",9,7,True
+stiffing,"['s', 't', 'i', 'f', 'f', 'i', 'n', 'g']","['r', 'a', 'e', 'u', 'o', 'l', 'k', 'y']",8,2,True
+abjured,"['a', 'b', 'j', 'u', 'r', 'e', 'd']","['s', 'o', 'l']",7,7,True
+metropolis,"['m', 'e', 't', 'r', 'o', 'p', 'o', 'l', 'i', 's']","['n', 'c', 'd']",10,7,True
+mistyping,"['m', 'i', 's', 't', 'y', 'p', 'i', 'n', 'g']","['a', 'o', 'e', 'r', 'c']",9,5,True
+cubing,"['c', 'u', 'b', 'i', 'n', 'g']","['s', 'r', 'd', 'a', 'o', 'e', 'l']",6,3,True
+bluebottles,"['b', 'l', 'u', 'e', 'b', 'o', 't', 't', 'l', 'e', 's']",[],11,10,True
+destroy,"['d', 'e', 's', 't', 'r', 'o', 'y']","['n', 'l']",7,8,True
+jiggling,"['j', 'i', 'g', 'g', 'l', 'i', 'n', 'g']","['r', 'a', 't', 'e', 'u', 'o', 'd', 's', 'p']",8,1,True
+bilious,"['b', 'i', 'l', 'i', 'o', 'u', 's']","['r', 'g']",7,8,True
+biorhythm,"['b', 'i', 'o', 'r', 'h', 'y', 't', 'h', 'm']","['d', 'l']",9,8,True
+chicories,"['c', 'h', 'i', 'c', 'o', 'r', 'i', 'e', 's']","['t', 'a', 'l', 'g']",9,6,True
+guff,"['_', 'u', 'f', 'f']","['e', 's', 'a', 'o', 'r', 'l', 'n', 'd', 'b', 'p']",3,0,False
+behavioral,"['b', 'e', 'h', 'a', 'v', 'i', 'o', 'r', 'a', 'l']","['t', 'd']",10,8,True
+skills,"['s', 'k', 'i', 'l', 'l', 's']","['e', 'a', 'o', 't', 'p']",6,5,True
+solders,"['s', 'o', 'l', 'd', 'e', 'r', 's']","['i', 'a']",7,8,True
+salvos,"['s', 'a', 'l', 'v', 'o', 's']",['e'],6,9,True
+causative,"['c', 'a', 'u', 's', 'a', 't', 'i', 'v', 'e']","['r', 'l']",9,8,True
+clomp,"['c', 'l', 'o', 'm', 'p']","['s', 'e', 'a', 'r']",5,6,True
+shellacs,"['s', 'h', 'e', 'l', 'l', 'a', 'c', 's']","['r', 'i']",8,8,True
+exercise,"['e', 'x', 'e', 'r', 'c', 'i', 's', 'e']","['a', 'g', 't', 'o', 'l']",8,5,True
+infinite,"['i', 'n', 'f', 'i', 'n', 'i', 't', 'e']","['r', 'a', 'o', 'y']",8,6,True
+outstretching,"['o', 'u', 't', 's', 't', 'r', 'e', 't', 'c', 'h', 'i', 'n', 'g']",['b'],13,9,True
+executioner,"['e', 'x', 'e', 'c', 'u', 't', 'i', 'o', 'n', 'e', 'r']",['k'],11,9,True
+rasping,"['r', 'a', 's', 'p', 'i', 'n', 'g']","['t', 'h']",7,8,True
+shapeliest,"['s', 'h', 'a', 'p', 'e', 'l', 'i', 'e', 's', 't']","['o', 'n', 'r', 'c', 'u', 'b']",10,4,True
+risk,"['r', 'i', 's', 'k']","['e', 't', 'h', 'a', 'y', 'u']",4,4,True
+mar,"['m', 'a', 'r']","['t', 'p', 'w', 'g']",3,6,True
+surveillance,"['s', 'u', 'r', 'v', 'e', 'i', 'l', 'l', 'a', 'n', 'c', 'e']","['t', 'd']",12,8,True
+shopkeepers,"['s', 'h', 'o', 'p', 'k', 'e', 'e', 'p', 'e', 'r', 's']",['a'],11,9,True
+lyre,"['l', 'y', 'r', 'e']","['a', 'o', 'i']",4,7,True
+tears,"['t', 'e', 'a', 'r', 's']","['d', 'b', 'p', 'y', 'f', 'h', 'w', 'g', 'n']",5,1,True
+oxides,"['o', 'x', 'i', 'd', 'e', 's']","['a', 'r', 'c', 'n', 'l', 'g']",6,4,True
+annals,"['a', 'n', 'n', 'a', 'l', 's']","['e', 'y', 'r']",6,7,True
+naps,"['n', 'a', 'p', 's']","['e', 't', 'l', 'r', 'y', 'c', 'm', 'g']",4,2,True
+slots,"['s', 'l', 'o', 't', 's']","['a', 'i', 'b', 'p', 'e', 'w', 'g']",5,3,True
+herdsman,"['h', 'e', 'r', 'd', 's', 'm', 'a', 'n']","['i', 'o', 't']",8,7,True
+loped,"['l', 'o', 'p', 'e', 'd']","['s', 'a', 'r', 'w']",5,6,True
+varnishes,"['v', 'a', 'r', 'n', 'i', 's', 'h', 'e', 's']","['t', 'l', 'g', 'd', 'p', 'c']",9,4,True
+proverb,"['p', 'r', 'o', 'v', 'e', 'r', 'b']","['s', 'a']",7,8,True
+grade,"['g', 'r', 'a', 'd', 'e']","['s', 'c']",5,8,True
+hitters,"['h', 'i', 't', 't', 'e', 'r', 's']","['a', 'o', 'l', 'b', 'f']",7,5,True
+revalued,"['r', 'e', 'v', 'a', 'l', 'u', 'e', 'd']","['s', 'i', 'c']",8,7,True
+insignificant,"['i', 'n', 's', 'i', 'g', 'n', 'i', 'f', 'i', 'c', 'a', 'n', 't']","['d', 'l', 'r']",13,7,True
+transformations,"['t', 'r', 'a', 'n', 's', 'f', 'o', 'r', 'm', 'a', 't', 'i', 'o', 'n', 's']","['l', 'c', 'p', 'u', 'g', 'e', 'd']",15,3,True
+corrugated,"['c', 'o', 'r', 'r', 'u', 'g', 'a', 't', 'e', 'd']",['l'],10,9,True
+zoological,"['z', 'o', 'o', 'l', 'o', 'g', 'i', 'c', 'a', 'l']",['s'],10,9,True
+begonias,"['b', 'e', 'g', 'o', 'n', 'i', 'a', 's']","['r', 'l']",8,8,True
+vireo,"['v', 'i', 'r', 'e', 'o']","['s', 'd', 'a', 'h']",5,6,True
+spare,"['s', 'p', 'a', 'r', 'e']","['t', 'h']",5,8,True
+inconclusively,"['i', 'n', 'c', 'o', 'n', 'c', 'l', 'u', 's', 'i', 'v', 'e', 'l', 'y']",['d'],14,9,True
+fictions,"['f', 'i', 'c', 't', 'i', 'o', 'n', 's']","['r', 'a', 'u']",8,7,True
+commentated,"['c', 'o', 'm', 'm', 'e', 'n', 't', 'a', 't', 'e', 'd']","['r', 'l', 's']",11,7,True
+emblazon,"['e', 'm', 'b', 'l', 'a', 'z', 'o', 'n']","['r', 't']",8,8,True
+bemused,"['b', 'e', 'm', 'u', 's', 'e', 'd']","['r', 'a', 'i', 'l']",7,6,True
+trifles,"['t', 'r', 'i', 'f', 'l', 'e', 's']",['p'],7,9,True
+luminescence,"['l', 'u', 'm', 'i', 'n', 'e', 's', 'c', 'e', 'n', 'c', 'e']",['r'],12,9,True
+expectations,"['e', 'x', 'p', 'e', 'c', 't', 'a', 't', 'i', 'o', 'n', 's']","['l', 'r']",12,8,True
+intelligent,"['i', 'n', 't', 'e', 'l', 'l', 'i', 'g', 'e', 'n', 't']","['o', 'c', 's', 'a']",11,6,True
+awaked,"['a', 'w', 'a', 'k', 'e', 'd']","['s', 'r', 'l', 'n', 'o', 'b']",6,4,True
+cage,"['c', 'a', 'g', 'e']","['l', 'r', 'm', 'p', 's', 'd', 'k']",4,3,True
+fleshes,"['f', 'l', 'e', 's', 'h', 'e', 's']","['a', 'r', 'i', 'u']",7,6,True
+slimy,"['s', 'l', 'i', 'm', 'y']","['e', 'a', 'o', 'k']",5,6,True
+nimble,"['n', 'i', 'm', 'b', 'l', 'e']","['s', 'r', 'd', 'y']",6,6,True
+consigned,"['c', 'o', 'n', 's', 'i', 'g', 'n', 'e', 'd']","['t', 'a', 'r', 'l']",9,6,True
+reprove,"['r', 'e', 'p', 'r', 'o', 'v', 'e']","['s', 'i', 't', 'd', 'f', 'g']",7,4,True
+arguably,"['a', 'r', 'g', 'u', 'a', 'b', 'l', 'y']","['s', 'e']",8,8,True
+picked,"['p', 'i', 'c', 'k', 'e', 'd']","['s', 'r', 'l', 'n', 'o', 'a', 'u']",6,3,True
+prefers,"['p', 'r', 'e', 'f', 'e', 'r', 's']","['a', 'o']",7,8,True
+profligacy,"['p', 'r', 'o', 'f', 'l', 'i', 'g', 'a', 'c', 'y']","['t', 'd', 's']",10,7,True
+enervated,"['e', 'n', 'e', 'r', 'v', 'a', 't', 'e', 'd']",[],9,10,True
+impositions,"['i', 'm', 'p', 'o', 's', 'i', 't', 'i', 'o', 'n', 's']","['e', 'a', 'c']",11,7,True
+nauseates,"['n', 'a', 'u', 's', 'e', 'a', 't', 'e', 's']","['d', 'i', 'o', 'r']",9,6,True
+skunking,"['s', 'k', 'u', 'n', 'k', 'i', 'n', 'g']","['r', 'a', 't', 'l', 'o', 'p', 'c', 'b']",8,2,True
+contravention,"['c', 'o', 'n', 't', 'r', 'a', 'v', 'e', 'n', 't', 'i', 'o', 'n']","['m', 'l']",13,8,True
+turnip,"['t', 'u', 'r', 'n', 'i', 'p']","['s', 'a', 'd']",6,7,True
+teats,"['t', 'e', 'a', 't', 's']","['r', 'l']",5,8,True
+speckled,"['s', 'p', 'e', 'c', 'k', 'l', 'e', 'd']","['r', 'a', 't', 'i']",8,6,True
+packed,"['p', 'a', 'c', 'k', 'e', 'd']","['s', 'r', 'l', 'n', 'o', 't', 'b']",6,3,True
+regarding,"['r', 'e', 'g', 'a', 'r', 'd', 'i', 'n', 'g']","['t', 'l', 's', 'w']",9,6,True
+defiantly,"['d', 'e', 'f', 'i', 'a', 'n', 't', 'l', 'y']","['r', 's']",9,8,True
+aptly,"['a', 'p', 't', 'l', 'y']","['s', 'e', 'o', 'i']",5,6,True
+forfeit,"['f', 'o', 'r', 'f', 'e', 'i', 't']","['s', 'p']",7,8,True
+like,"['l', 'i', 'k', 'e']","['a', 'o', 'r', 'f']",4,6,True
+blacker,"['b', 'l', 'a', 'c', 'k', 'e', 'r']","['s', 'i']",7,8,True
+bearable,"['b', 'e', 'a', 'r', 'a', 'b', 'l', 'e']","['i', 't', 's', 'd', 'p', 'w']",8,4,True
+knew,"['k', 'n', 'e', 'w']","['s', 'd', 'r', 'l', 'h']",4,5,True
+grindstone,"['g', 'r', 'i', 'n', 'd', 's', 't', 'o', 'n', 'e']","['a', 'u', 'p']",10,7,True
+bankruptcies,"['b', 'a', 'n', 'k', 'r', 'u', 'p', 't', 'c', 'i', 'e', 's']",[],12,10,True
+smalls,"['s', 'm', 'a', 'l', 'l', 's']","['e', 't', 'k', 'w']",6,6,True
+limping,"['l', 'i', 'm', 'p', 'i', 'n', 'g']","['s', 'r', 'e', 'a', 'o', 'u', 'k']",7,3,True
+interfacing,"['i', 'n', 't', 'e', 'r', 'f', 'a', 'c', 'i', 'n', 'g']","['o', 'l', 'd', 's']",11,6,True
+mint,"['_', '_', 'n', 't']","['e', 's', 'a', 'o', 'u', 'd', 'k', 'l', 'p', 'h']",2,0,False
+romanticises,"['r', 'o', 'm', 'a', 'n', 't', 'i', 'c', 'i', 's', 'e', 's']",['d'],12,9,True
+cleavage,"['c', 'l', 'e', 'a', 'v', 'a', 'g', 'e']","['r', 's']",8,8,True
+revival,"['r', 'e', 'v', 'i', 'v', 'a', 'l']","['s', 'n', 'c', 'm']",7,6,True
+praying,"['p', 'r', 'a', 'y', 'i', 'n', 'g']","['s', 'd', 'c', 'b']",7,6,True
+troupe,"['t', 'r', 'o', 'u', 'p', 'e']","['s', 'g', 'a', 'l']",6,6,True
+public,"['p', 'u', 'b', 'l', 'i', 'c']","['s', 'r', 'd', 'n', 'a', 'e']",6,4,True
+generating,"['g', 'e', 'n', 'e', 'r', 'a', 't', 'i', 'n', 'g']","['o', 'l']",10,8,True
+sallies,"['s', 'a', 'l', 'l', 'i', 'e', 's']",['r'],7,9,True
+yacht,"['y', 'a', 'c', 'h', 't']","['s', 'e']",5,8,True
+armpits,"['a', 'r', 'm', 'p', 'i', 't', 's']",['o'],7,9,True
+oblongs,"['o', 'b', 'l', 'o', 'n', 'g', 's']","['r', 'i', 'a']",7,7,True
+developed,"['d', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'd']","['t', 'a', 'r', 'n', 'i']",9,5,True
+demolish,"['d', 'e', 'm', 'o', 'l', 'i', 's', 'h']","['r', 'a', 't']",8,7,True
+pincers,"['p', 'i', 'n', 'c', 'e', 'r', 's']","['a', 'o', 't', 'd', 'l']",7,5,True
+telecommunications,"['t', 'e', 'l', 'e', 'c', 'o', 'm', 'm', 'u', 'n', 'i', 'c', 'a', 't', 'i', 'o', 'n', 's']","['p', 'r']",18,8,True
+dabble,"['d', 'a', 'b', 'b', 'l', 'e']","['s', 'r', 'i', 'n', 'y']",6,5,True
+morticing,"['m', 'o', 'r', 't', 'i', 'c', 'i', 'n', 'g']","['a', 's', 'f', 'd']",9,6,True
+weals,"['w', 'e', 'a', 'l', 's']","['r', 'd', 'p', 'm', 'h']",5,5,True
+dryer,"['d', 'r', 'y', 'e', 'r']","['s', 'i']",5,8,True
+inconclusively,"['i', 'n', 'c', 'o', 'n', 'c', 'l', 'u', 's', 'i', 'v', 'e', 'l', 'y']",['d'],14,9,True
+bubbliest,"['_', '_', '_', '_', '_', '_', '_', '_', 't']","['n', 'r', 'o', 'c', 'a', 'm', 'h', 'p', 'f', 'g']",1,0,False
+graded,"['g', 'r', 'a', 'd', 'e', 'd']","['s', 'c', 'v', 'y', 't', 'z']",6,4,True
+carriage,"['c', 'a', 'r', 'r', 'i', 'a', 'g', 'e']","['s', 'l', 'd']",8,7,True
+datelining,"['d', 'a', 't', 'e', 'l', 'i', 'n', 'i', 'n', 'g']","['o', 's']",10,8,True

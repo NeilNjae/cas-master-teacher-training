@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJUsmceAAoJEJPB2e07PgbqA+UQAJ/0nqhYyF9IVNIQbO3vUV9Q
-XrtNiQ5OmCsDpzq1DQ8CL767tR6HLInHjDcJ6sr9ti3Nl5nPGwww9mDBD4kzGsYU
-wilJ4UUvgEO2+hzqH1v84gHeha2R0xWdQ+M3uQBNMD7XCgmrotLIlR8R0N+GDxEH
-BwaypN5BBAdHv/DhZRyqDAglgmC4mZBwqyMJxETnh8XSW7bZXgGD234JGo9X3iws
-bys42qyMch1oUiOasMwY1/UaT8pbSjhwSEwqU7XaPG+70gfPbWUfVuCj6pr5WVH2
-g82L14dMG079MQf8CTZdWulSXj9733oL8tBRS6NBuFmda8ip20R8CDfabHMgYdqg
-bBhGjVIftSjFd4dgCxiZ1kFlkD1B24hdLei5pbbOET44h/QZfvk59/hqRNL1DwYj
-gcUV/t8FhWJh1zjO8yddRAwna4cnge6C8zziaWTZ5UZIgkgnDnflFekcgaMmJ9yf
-I8b91H8hbGdiNxaZBxQPaadbG49gHmkPyhc1y8T68NViRgb32ryNcvRpY7PCXXBk
-rgTZXc0nHCikAJOb4MZrgDCUp2Y5IGhghG1Z6QwbY/g/JtlNeqtQlmdwUUDcOvbs
-ALbUQsR3bmbaaSThUHZ69WhtkYseLq9I6i3DNigVLDw2kDz+7tkRoiqR6paQp8Cs
-eCTbq7UZA4jo5t6kkUhG
-=0kaS
+iQIcBAABAgAGBQJUsmqUAAoJEJPB2e07Pgbq7roP/3c7WymRzq3CLhcdFURrX8yN
+lNf8ZktWzUkmJPee7T8Hjh44MPk7itt5RuRqltZA8COOJIRRFIRnV7eebG5LhBof
+ynDZqQKOBUshqWo67b8U7wQnSVZN1KmMqbEapks67xtOXkJqD8WSKM5mtnM123tU
+Z8pc1mwt8od3U26tjHP/aLSvXgxqv38ws6fMt1DzriPd5t2G/p5dCRngZRquAlXz
+y2uFtUFZ2e51Ji3D6ntNe2BRgdEOF4I6AH1YbM8C+Irv3BUv2ez7x3D8RH79Lk7b
+hmEnhqwcHTFPzn29K+2swzn1q+youfXmtVxhwQsBPYpamQdkn/7CBmPHa6SEeXOD
+0Dcs3/R1YBPpj81VAYA9ZZs2pUGWtoJDxtpabZ93zfReFOYNq6DbgzfA8SW+sB7U
+Bxf1DBQr6C8PnrQdp2lxsHKIXN/4cQNqwOP3NmuIAo38RpLtKiEfLls7zzIDbpAz
+RN2EfL6le85gUyAD/mp56guwvYgXImvDBVZ5RUDlw67AaKqeTfvr7kTLo1vICdUp
+kQwdG7fUcg4zSpNPZnYcVApPHxZI6nojWwfJDHSErkFmsJBK6YpNOpFM7nmxnR9T
+nrNehH6I67tjNU0thM8HXzG9cO/QBH0Ms8tXAeUQMvI1RgbeMOXNBzyh3FJrzQET
+kKgyU5dzDmAK1Bg4AQ05
+=7t35
 -----END PGP SIGNATURE-----
 
 ```
@@ -45,6 +45,7 @@ size    exec  file                                 contents
 78326             adaptive_included.csv            39e4947fc840ea9e7c7ee8c658c65deb196ffed86a1b2e5e3f6c3770259e6a3f|78597f1124040a884533f157b99d898c4cd1b372bb20432652a5376d9de5090d
 109806            adaptive_length.csv              296ddbe817525f33b15e7489cc0f0ff2e7852adcd5720673632673d3d6c04a2f|b151fc20e1399e517f03be172e22c115934af891b6f6509b94381b2e15b613dc
 77375             adaptive_pattern.csv             a16ab78ab6fa1ef0bc75d1d1eddbccdf6a001fcc5074de9e20227df339de81ca|c13729987ffbebc92dadd22770c49b53434c491c751237d6e3006e8a29cd71f7
+83393             adaptive_split.csv               c55c347011f0e01129c2d07d0547bd303cd96fdfc4db35d0ecfea572263378da|926364156056bcbb0dd2103ca6f9291a12307043b066381c05c67ce898e3a178
 117942            fixed_alphabetical.csv           86fb21baaa96143060f21b8769c33afa50b2c2ec41fb9f8ec1ba130d6a310fe8|26a4a02e78c746449de3b129fe20cf8e870ece7bb711bd14fad97ac79297d984
 118543            fixed_alphabetical_reversed.csv  1a5bc0d94947f4260bb2bb0f6bfd21434f2876e75907b49669bf49356fb59967|d62bb39d0a775abf63ba29e22decc208ff0810f70f0761729eb92a6cc809b9a4
 109497            fixed_dict_order.csv             c593bb2ff8eb353906d591d34a3d5b6dcf399a414424dbae1c245fa7588e829a|6c97d8cc9db5ba4a674c11e669527cfb8e39e8339b7b3aea1b12b107db249d7e
@@ -52,10 +53,10 @@ size    exec  file                                 contents
 53469             hangman-better.ipynb             04adeb21f6e3688123ea37f41135affb4b81e76e572e31da04fc1c94edc02045                                                                 
 27923             hangman-both.ipynb               279221758793f80048923b335037ba7639cd299814878142ba15746b627dbd63                                                                 
 9419              hangman-guesser.ipynb            d867d7f57b1b59b9cf74f4594fe4b6fd5761e93799292abfb65dcf35381f25e1                                                                 
-181279            hangman-logging.ipynb            fe153cdccb5fbdc5dfbd5bd828c17bfde8b479291410a817d6b73a80222acc17                                                                 
+258871            hangman-logging.ipynb            5f94f25200c6f0c01ff27e3392afd0ef172dab0df5557aebb4a76692052bd167                                                                 
 12247             hangman-setter.ipynb             bc8d8d7f0bddbe128d273ccd174bbf4ad338771c9159b5b07b262a3e5fede892                                                                 
 44670             hangman-split-player.ipynb       b72ff88817c6cce83d26a701e7e3b17d4332f10fa6cf97520dd7dd6ee6e00464                                                                 
-10061             hangman.py                       f800a3e421c73b4174a5127b709ffbc973d4cfc41216aee0718e67e72ca2470c                                                                 
+6437              hangman.py                       90895564bcf4c5b8b6f06c6e80209c749947ebbb38505ca2f441e338e59eb16a                                                                 
 10890             word_filter_comparison.ipynb     9b80fff718b9ff5620d9441123ebbf60073ea337d14e1e4825ef7860f4e1346b                                                                 
 5286            hangman.html                       b9a4e8d3f96c57d64dd678fecb1dbd453ee6b415a0bb5a1c232e4e224310eb88                                                                 
 4087            hangman2.html                      18e1678e58a1d89f5d2e9fd68de94152f9f34bb2ad93023b6fb69b970bf53a4a                                                                 
