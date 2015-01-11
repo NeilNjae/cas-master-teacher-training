@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJUj2cdAAoJEJPB2e07PgbqZdUP/R4/UJ4CU3o/my4s2frGUfjU
-txc034TrbVZsjEHj7NuNtRifzVaIDx4nbTAlA6gGKsh9P4Kk74UM4N7rcTVD65YP
-EcTKjwNgiUXBgVJ59f901zYR5QUA4yt7DHmxxuUrO7aFYXd5Du4op1ZcpMgmZwwG
-MpWqr5Db0+Tkz4Od43C1EhafiVAucsczNWhxCblkX00dQH8gZlZk3QvR7pRuzOup
-FyGHm531Or9gn1QhO9YTFE5el/X0XdDFFjKjtGFQ2+kBPk+W0dqlAnLPTc5K7FgP
-/6OnLRVAI/aefr1ZICIqMeJqSO7MnoKYfqf3UUvoeB7MFpOoNN9Qhu6LIiu9R3pN
-5Z9bkODE80u6+pycg4lS6kebIZz1K9VNA4Z7nV2ZaJBdPai13lR4JRsCb1iALncf
-l0OduJ7lNSkg7PSQ8YBW4olIBMuW1yAVMgQpKM8ecRC/OAPu15N9YW+eQLW3q0cE
-9n+1o2hKSwqEMVe4GcrUQYh3tQ+IPtNqgxH2+NlLkUkTX1qg0USgkv8AcVCWiRK0
-6Ek0vrNv+h9FA9SoIZVupiRP6G1yx6/aXW2dGJGEgxIbfotVdI+/XKoiZTqCmhez
-MLrtx+mpCGFbNYRePbfFxozoOOPrqcND6iWvEbAL2esWeYm+FJ/ksZ4GzgS3P9MO
-0WAw+3p/dXm/NCF5o74X
-=TAdh
+iQIcBAABAgAGBQJUsmceAAoJEJPB2e07PgbqA+UQAJ/0nqhYyF9IVNIQbO3vUV9Q
+XrtNiQ5OmCsDpzq1DQ8CL767tR6HLInHjDcJ6sr9ti3Nl5nPGwww9mDBD4kzGsYU
+wilJ4UUvgEO2+hzqH1v84gHeha2R0xWdQ+M3uQBNMD7XCgmrotLIlR8R0N+GDxEH
+BwaypN5BBAdHv/DhZRyqDAglgmC4mZBwqyMJxETnh8XSW7bZXgGD234JGo9X3iws
+bys42qyMch1oUiOasMwY1/UaT8pbSjhwSEwqU7XaPG+70gfPbWUfVuCj6pr5WVH2
+g82L14dMG079MQf8CTZdWulSXj9733oL8tBRS6NBuFmda8ip20R8CDfabHMgYdqg
+bBhGjVIftSjFd4dgCxiZ1kFlkD1B24hdLei5pbbOET44h/QZfvk59/hqRNL1DwYj
+gcUV/t8FhWJh1zjO8yddRAwna4cnge6C8zziaWTZ5UZIgkgnDnflFekcgaMmJ9yf
+I8b91H8hbGdiNxaZBxQPaadbG49gHmkPyhc1y8T68NViRgb32ryNcvRpY7PCXXBk
+rgTZXc0nHCikAJOb4MZrgDCUp2Y5IGhghG1Z6QwbY/g/JtlNeqtQlmdwUUDcOvbs
+ALbUQsR3bmbaaSThUHZ69WhtkYseLq9I6i3DNigVLDw2kDz+7tkRoiqR6paQp8Cs
+eCTbq7UZA4jo5t6kkUhG
+=0kaS
 -----END PGP SIGNATURE-----
 
 ```
@@ -38,17 +38,6 @@ size    exec  file                                 contents
 27510           big-o-chart-2.png                  a9f40d4499bd43d07bad2b9674b3055a9a3f319349a1256d88a9419f206287d7|56acfe8154f080f9d3186170980a44efd640d4c1748c37c7031f1f20d2f3342e
 11222           big-o-chart-smaller.png            5b453ac13c187ea797dbdcf03c2f1941c730a952e285d2afbfde83cf231f0bc3|ba81f54c5daae7c199d9eb66f58db952e52e6b15cf9c69ed34245c4400ffc318
 31971           big-o-chart.png                    82cea33b61f5af16f928d7037877b31526e532ea62a7cf99ca3761bc4313e4f1|0c43ead93dc010d2fee9724cfda23f2d922cf58931d6258f1da9977fd5bb8cd1
-                controlled-assessment/                                                                                                                                              
-21479             arithmetic-quiz-1.ipynb          e697dd456bed3eda09fdca4c6974842ac5caa2cabc395a5e8a915566dd1ffb00                                                                 
-27329             arithmetic-quiz-2.ipynb          f88667746026264a7cb7fe0c9160b0911ef8fd20b9a89dda220d5807671be26d                                                                 
-64858             arithmetic-quiz-3.ipynb          7659839bbac84d035d42bd017903898063148833fa79768d78b1b1902eb54b88                                                                 
-6713              arithmetic-quiz-analysis.py      54d3436f9c09a5a90af593475a049a06bc2ee12ea818b969b7a9699da6de5747                                                                 
-3995              arithmetic-quiz.py               433575176f8abbc189a269ffbab66ea103c5203fe594fd295d55032029b37b98                                                                 
-4064              class1.results                   cf32c1772a9b0252b946645c1a28fce0e1e1baae1214f318aa24974b58a7f045                                                                 
-4058              class2.results                   9bd729d73541984a846fda0f6151f6d413c6e45ca4d136ae22ba2144a3cbb82c                                                                 
-3989              class3.results                   1afdc258a0f93fb039cb1c7d0f8c4371a20c4db9bc6a8d8b8f78fc49becaaa9b                                                                 
-260               classes.ini                      87126cdcec2366f6f3dddd61869d6c1aff498ea23dca47849a45253439d41faa                                                                 
-23076             names.txt                        3731fb885e6eee63d19f0915b05ae9b5529a6bb201056f2f317a3216fafe6433                                                                 
 21947           euler-11.ipynb                     81780dca17496751894f582e8691935ee6f94949017fb3135087056489f8ad88                                                                 
 24903           euler-14.ipynb                     3652a2be86ec270420431814efa453f8679ad054ae28c015d34232c48dac16bd                                                                 
                 hangman/                                                                                                                                                            
@@ -65,6 +54,8 @@ size    exec  file                                 contents
 9419              hangman-guesser.ipynb            d867d7f57b1b59b9cf74f4594fe4b6fd5761e93799292abfb65dcf35381f25e1                                                                 
 181279            hangman-logging.ipynb            fe153cdccb5fbdc5dfbd5bd828c17bfde8b479291410a817d6b73a80222acc17                                                                 
 12247             hangman-setter.ipynb             bc8d8d7f0bddbe128d273ccd174bbf4ad338771c9159b5b07b262a3e5fede892                                                                 
+44670             hangman-split-player.ipynb       b72ff88817c6cce83d26a701e7e3b17d4332f10fa6cf97520dd7dd6ee6e00464                                                                 
+10061             hangman.py                       f800a3e421c73b4174a5127b709ffbc973d4cfc41216aee0718e67e72ca2470c                                                                 
 10890             word_filter_comparison.ipynb     9b80fff718b9ff5620d9441123ebbf60073ea337d14e1e4825ef7860f4e1346b                                                                 
 5286            hangman.html                       b9a4e8d3f96c57d64dd678fecb1dbd453ee6b415a0bb5a1c232e4e224310eb88                                                                 
 4087            hangman2.html                      18e1678e58a1d89f5d2e9fd68de94152f9f34bb2ad93023b6fb69b970bf53a4a                                                                 
