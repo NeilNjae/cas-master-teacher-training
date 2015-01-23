@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJUsmqUAAoJEJPB2e07Pgbq7roP/3c7WymRzq3CLhcdFURrX8yN
-lNf8ZktWzUkmJPee7T8Hjh44MPk7itt5RuRqltZA8COOJIRRFIRnV7eebG5LhBof
-ynDZqQKOBUshqWo67b8U7wQnSVZN1KmMqbEapks67xtOXkJqD8WSKM5mtnM123tU
-Z8pc1mwt8od3U26tjHP/aLSvXgxqv38ws6fMt1DzriPd5t2G/p5dCRngZRquAlXz
-y2uFtUFZ2e51Ji3D6ntNe2BRgdEOF4I6AH1YbM8C+Irv3BUv2ez7x3D8RH79Lk7b
-hmEnhqwcHTFPzn29K+2swzn1q+youfXmtVxhwQsBPYpamQdkn/7CBmPHa6SEeXOD
-0Dcs3/R1YBPpj81VAYA9ZZs2pUGWtoJDxtpabZ93zfReFOYNq6DbgzfA8SW+sB7U
-Bxf1DBQr6C8PnrQdp2lxsHKIXN/4cQNqwOP3NmuIAo38RpLtKiEfLls7zzIDbpAz
-RN2EfL6le85gUyAD/mp56guwvYgXImvDBVZ5RUDlw67AaKqeTfvr7kTLo1vICdUp
-kQwdG7fUcg4zSpNPZnYcVApPHxZI6nojWwfJDHSErkFmsJBK6YpNOpFM7nmxnR9T
-nrNehH6I67tjNU0thM8HXzG9cO/QBH0Ms8tXAeUQMvI1RgbeMOXNBzyh3FJrzQET
-kKgyU5dzDmAK1Bg4AQ05
-=7t35
+iQIcBAABAgAGBQJUwfg1AAoJEJPB2e07PgbqpYEP/3HVphHcvq977tiPTB854NAY
+YDM2QPnKQ7kQetphTX9Y/U0qwGeYph+Rd00lqdJgBJLhJr15UZHEHd8SLF+yB58x
+m39e6YBwdzsyilpHl/GHKKtDjcXuMsnNvCVGdpeCP/319i0FTSzT/kBpkyBQAXK0
+TCBocPo5GaeSAgxdZ1DJA73wMlCiQzJsv9Vjf7rg3APwetuFwY8ZpVwfcslglnsX
+vGu1lfbdIvVpbhyjGxyI0zaXzehVuCIyBb6Hu0lw0FGU060ntN75Pz++Rf3LrE+U
+0XnCeYjbbWLTzVE436mWB45MJnc48dTzdsLMDMEE5z0dGifJf1nbtNgqsVRi1vZQ
+i9yGCCwKPP6rhZ1ezfNfpmzjQ6riF26RXYq9V4w6oCDTbIN9vjPFNC0+5YYYDjM1
+ROcccxFvUKTkb91NECcAbZGqPFWovRvaFX7KzGyizEWCGMoD7/5rpRw3YrY/x14C
+lhZ6n5AwEAqL9RBZk+Mrubz+YgNSDbTM/+QcL5PHGb8mRC41PD4xSo4PCPU6AB+y
+vDSW523YNkhHB3IC3uAijZppimyk484IYsuw1WY9uVdClgCsUcs2VT8E3GOQOemQ
+34ZaPgeZR/JLKVpLo3lCuxbgI2JsNvGYmFw8moTcW4mTlO3dmPSi6s3bns3/GNA8
+OTu2ZMrmO+Lff9JwTr5L
+=SFX3
 -----END PGP SIGNATURE-----
 
 ```
@@ -41,6 +41,11 @@ size    exec  file                                 contents
 21947           euler-11.ipynb                     81780dca17496751894f582e8691935ee6f94949017fb3135087056489f8ad88                                                                 
 24903           euler-14.ipynb                     3652a2be86ec270420431814efa453f8679ad054ae28c015d34232c48dac16bd                                                                 
                 hangman/                                                                                                                                                            
+18717             01-hangman-setter.ipynb          72cebe4f36ddcd4c856c4520d4566e5e6f4793ad3d9f716a7f9ab1e52a7b9f71                                                                 
+9100              02-hangman-guesser.ipynb         1a74d6cc7065cb756d8d0ecfd58b41da6d75f79c76def20aab0b23725ac47fbf                                                                 
+34900             03-hangman-both.ipynb            f75a5c2934f9385dc02db3efaf71fca8ed91cee86173730a3f99445b8841a223                                                                 
+55675             04-hangman-better.ipynb          d123307c6004a2b34433904ca541edb9e4ceba54877e27b1e65a428d68f284e3                                                                 
+258871            05-hangman-logging.ipynb         5f94f25200c6f0c01ff27e3392afd0ef172dab0df5557aebb4a76692052bd167                                                                 
 106328            adaptive_excluded.csv            72ea6bb3f6f0301d7f5592766b7854c1a4c46ab01ca0677357aa367e1f2b6783|92e30fc15f783e701721a38039b2cd54d96bccd5cfdc37e92f70e174d6e941eb
 78326             adaptive_included.csv            39e4947fc840ea9e7c7ee8c658c65deb196ffed86a1b2e5e3f6c3770259e6a3f|78597f1124040a884533f157b99d898c4cd1b372bb20432652a5376d9de5090d
 109806            adaptive_length.csv              296ddbe817525f33b15e7489cc0f0ff2e7852adcd5720673632673d3d6c04a2f|b151fc20e1399e517f03be172e22c115934af891b6f6509b94381b2e15b613dc
@@ -50,13 +55,8 @@ size    exec  file                                 contents
 118543            fixed_alphabetical_reversed.csv  1a5bc0d94947f4260bb2bb0f6bfd21434f2876e75907b49669bf49356fb59967|d62bb39d0a775abf63ba29e22decc208ff0810f70f0761729eb92a6cc809b9a4
 109497            fixed_dict_order.csv             c593bb2ff8eb353906d591d34a3d5b6dcf399a414424dbae1c245fa7588e829a|6c97d8cc9db5ba4a674c11e669527cfb8e39e8339b7b3aea1b12b107db249d7e
 112991            fixed_order.csv                  61c803950fb824ea20f91c328450d80ce69a65e0d5cfa24e961019f795a75feb|3a2d6099afe1785434d314d2eefc1249cacb15afb2751e75fa448887a8f22b41
-53469             hangman-better.ipynb             04adeb21f6e3688123ea37f41135affb4b81e76e572e31da04fc1c94edc02045                                                                 
-27923             hangman-both.ipynb               279221758793f80048923b335037ba7639cd299814878142ba15746b627dbd63                                                                 
-9419              hangman-guesser.ipynb            d867d7f57b1b59b9cf74f4594fe4b6fd5761e93799292abfb65dcf35381f25e1                                                                 
-258871            hangman-logging.ipynb            5f94f25200c6f0c01ff27e3392afd0ef172dab0df5557aebb4a76692052bd167                                                                 
-12247             hangman-setter.ipynb             bc8d8d7f0bddbe128d273ccd174bbf4ad338771c9159b5b07b262a3e5fede892                                                                 
 44670             hangman-split-player.ipynb       b72ff88817c6cce83d26a701e7e3b17d4332f10fa6cf97520dd7dd6ee6e00464                                                                 
-6437              hangman.py                       90895564bcf4c5b8b6f06c6e80209c749947ebbb38505ca2f441e338e59eb16a                                                                 
+6173              hangman.py                       ba4ac6cbeb4691433b304e1301190c67674f82ce9ba7b62637bf342c4504cabd                                                                 
 10890             word_filter_comparison.ipynb     9b80fff718b9ff5620d9441123ebbf60073ea337d14e1e4825ef7860f4e1346b                                                                 
 5286            hangman.html                       b9a4e8d3f96c57d64dd678fecb1dbd453ee6b415a0bb5a1c232e4e224310eb88                                                                 
 4087            hangman2.html                      18e1678e58a1d89f5d2e9fd68de94152f9f34bb2ad93023b6fb69b970bf53a4a                                                                 

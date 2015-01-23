@@ -9,7 +9,7 @@ WORDS = [w.strip() for w in open('/usr/share/dict/british-english').readlines()
 LETTER_COUNTS = collections.Counter(l.lower() for l in open('../sherlock-holmes.txt').read() if l in string.ascii_letters)
 LETTERS_IN_ORDER = [p[0] for p in LETTER_COUNTS.most_common()]
 
-DICT_COUNTS = collections.Counter(l.lower() for l in open('/usr/share/dict/british-english').read() if l in string.ascii_letters)
+DICT_COUNTS = collections.Counter(''.join(WORDS))
 DICT_LETTERS_IN_ORDER = [p[0] for p in DICT_COUNTS.most_common()]
 
 STARTING_LIVES = 10
@@ -79,8 +79,7 @@ class PlayerFixedOrder:
         self.ordered_letters = ordered_letters
         
     def guess(self, discovered, missed, lives):
-        guessed_letters = [l.lower() for l in discovered + missed if l in string.ascii_letters]
-        return [l for l in self.ordered_letters if l not in guessed_letters][0]
+        return [l for l in self.ordered_letters if l not in discovered + missed][0]
 
 class PlayerAlphabetical(PlayerFixedOrder):
     def __init__(self):
@@ -106,8 +105,7 @@ class PlayerAdaptive:
     def guess(self, discovered, missed, lives):
         self.filter_candidate_words(discovered, missed)
         self.set_ordered_letters()
-        guessed_letters = [l.lower() for l in discovered + missed if l in string.ascii_letters]
-        return [l for l in self.ordered_letters if l not in guessed_letters][0]
+        return [l for l in self.ordered_letters if l not in discovered + missed][0]
     
     def filter_candidate_words(self, discovered, missed):
         pass
