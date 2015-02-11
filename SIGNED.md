@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJU17JdAAoJEJPB2e07PgbqqdAP/A0wHqJCvYJ1FhrfqBZlMm0w
-d6rIBnNCIxCOLhZqdHlKNYJc3BQd+p82L+OXouV6c0pXdxd57jNCPZxPUWRE5g8t
-+jyO93zJ7MNoQJKGrVwHtlqbmzrMWfEzuc6yFsbmX3Vj64NFtc1XykTCnn+z+cq8
-ARAkW31nf0a2BVylX+RdEdHf0o2eSukfNolCAKNSj5EJXoEKmPiHnl++2O+E3esS
-Lg/NIy1RREWT18GNWJyM6mp/54RmLi4UDEczp7M4QVPAy0KtbhtalVktgcE0OYDd
-+92FsmUcr5Eh49FC1CADmviIzcAoGB3rm178zOnK7UiFZOCF8stGNObD+FrzOudi
-ZUQmt+/88iKP0Y+KUqbktC8LukNFKAOwKP+acByt9J7EJ82d0WOg0r+muFxidld+
-Y308Ka6avk4FcjG7Z6wnO8gqHBV8dkAaMl4fA9r9lQmOJrWCGiRv4KtOY0BeVYXT
-17Izc5j87R75N3QpjsG16Z1IqUWKXCd5XRtfWfKHRi7tWPw7O8B6OPQYYeZAz51T
-jqcXAENAy+1X7eIm9i9dbvFQ60zy19kt18eeNQMDpvLWMzvG0Xm6c5R8zPGvRq7H
-G579la7H/pNGXqYWughjnzldgKDbrNIhlBEg8uELL2WPBOakRxISzf8yhSuHyA4J
-EozFRjYaEH4P3q3RU5WE
-=fjvz
+iQIcBAABAgAGBQJU2zx6AAoJEJPB2e07Pgbq9yMP/Rd1Hi+/ssIKfd2QjrhCOMf4
+HE4bF7uJqm+HiyLYzrdZAmCuoSBCAYqKM1IktIPSLS8KK4Vc3c/8S2H+gQ9mCQ10
+FC6aQFbgmGBdgEVvo/kF5UGaGZ1J7wowWK980Wd0+tfg5qWOUPn/AsPsVgeOoPVz
+ChjEfewRF5DHY81wszSRY4CWadQkOn85qbTYLZwuCjIXtE7zYpi4VIVL1+g/u/dl
+qNzqC5+mOX0XF2GE5ZNT3FwLRGvYb5aO6O/zgkkIHp5PAcCYIV2NAorpI5OaSE/S
+zsv7ETwxUdn+QKvEtjZxVPk2sWPJL42Kqh1locvUJlQJLO/TrcW0yXKKCsoiXhHX
+lNtUTBNhiHjqNO7HkVxIwD9qwiDuZY+uW2sf2NBRaSPApRvGYb594/bwgb5b5iPt
+hnVqPHXftjoYFxTk0zrd2Uo9REtRPfwfR/B8VpyeIZ4PeTDlI0+JdoLXPP2JmLBL
+TbHpEaTKhpUEihgXMZSMVAUSFPclz4EcjOktMA3y7TgHdLQkffwwuZyjMjTg6h5a
+QWGYC5UAGUIe1qMAdqQtCJ6WIBm3FxU3j2DiVDQrnACeOPxWuYpM5Dp7gDgwMhtM
+46tF2jm+knQs2C3hNCYDnpQ2vMtNi3f3DdYpL4CyQNipm9RdN+PFYvyqACYR9xAs
+c+JhrEO8NkEw1axJHFDC
+=m4rZ
 -----END PGP SIGNATURE-----
 
 ```
@@ -38,7 +38,7 @@ size    exec  file                                 contents
 27510           big-o-chart-2.png                  a9f40d4499bd43d07bad2b9674b3055a9a3f319349a1256d88a9419f206287d7|56acfe8154f080f9d3186170980a44efd640d4c1748c37c7031f1f20d2f3342e
 11222           big-o-chart-smaller.png            5b453ac13c187ea797dbdcf03c2f1941c730a952e285d2afbfde83cf231f0bc3|ba81f54c5daae7c199d9eb66f58db952e52e6b15cf9c69ed34245c4400ffc318
 31971           big-o-chart.png                    82cea33b61f5af16f928d7037877b31526e532ea62a7cf99ca3761bc4313e4f1|0c43ead93dc010d2fee9724cfda23f2d922cf58931d6258f1da9977fd5bb8cd1
-23974           duplicate-letters.ipynb            dae47262661abc6bca7526b10cd9928905b94eb6b4c04577a8491be10bad3a4d                                                                 
+26138           duplicate-letters.ipynb            cf873a1d288a94e9ed365a903ca0039a4664e1306fda83d56fab43d93084d13d                                                                 
 21947           euler-11.ipynb                     81780dca17496751894f582e8691935ee6f94949017fb3135087056489f8ad88                                                                 
 24903           euler-14.ipynb                     3652a2be86ec270420431814efa453f8679ad054ae28c015d34232c48dac16bd                                                                 
                 hangman/                                                                                                                                                            
