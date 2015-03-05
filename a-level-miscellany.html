@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A Level Miscellany</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+      /* Slideshow styles */
+      body {
+        font-size: 20px;
+      }
+      h1, h2, h3 {
+        font-weight: 400;
+        margin-bottom: 0;
+      }
+      h1 { font-size: 3em; }
+      h2 { font-size: 2em; }
+      h3 { font-size: 1.6em; }
+      a, a > code {
+        text-decoration: none;
+      }
+      code {
+        -moz-border-radius: 5px;
+        -web-border-radius: 5px;
+        background: #e7e8e2;
+        border-radius: 5px;
+        font-size: 16px;
+      }
+      .plaintext {
+        background: #272822;
+        color: #80ff80;
+        text-shadow: 0 0 20px #333;
+        padding: 2px 5px;
+      }
+      .ciphertext {
+        background: #272822;
+        color: #ff6666;
+        text-shadow: 0 0 20px #333;
+        padding: 2px 5px;
+      }
+      .indexlink {
+        position: absolute;
+        bottom: 1em;
+        left: 1em;
+      }
+       .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+# A-level Miscellany ![Open University logo](oulogo_hor.png)
+
+* Hashing
+* Boolean algebra
+* Karnaugh maps
+* Python file handling
+
+---
+
+layout: true
+
+.indexlink[![Open University logo](oulogo_hor.png) [Index](index.html)]
+
+---
+
+# Hashing
+
+Convert any of a large range of value to a small range of values
+
+Two purposes:
+
+1. Putting many things in few buckets
+2. Cryptographic signing
+
+---
+
+# Hashing many things into a few buckets
+Useful for dividing items into files, or balancing items across any data structure. 
+
+Some examples (from [Geoff Kuenning's old course notes](http://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html))
+.float-right[![Chaining hash table collisions: from https://commons.wikimedia.org/wiki/File:Hash_table_5_0_1_1_1_1_1_LL.svg#mediaviewer/File:Hash_table_5_0_1_1_1_1_1_LL.svg](Hash_table_5_0_1_1_1_1_1_LL.svg)]
+
+* **Division method** (Cormen) Choose a prime that isn't close to a power of 2. h(k) = k mod m. Works badly for many types of patterns in the input data.
+
+* **Knuth Variant on Division** h(k) = k(k+3) mod m. Supposedly works much better than the raw division method.
+
+* **Multiplication Method** (Cormen). Choose m to be a power of 2. Let A be some random-looking real number. Knuth suggests M = 0.5*(sqrt(5) - 1). Then do the following:
+    1. s = k × A
+    2. x = fractional part of s
+    3. h(k) = floor(m × x)
+
+Problem of hash collisions, where multiple items provide the same hash value. In a data structure, do something like chain multiple values together.
+
+---
+
+# Cryptographic hash functions
+
+Maps a large file into a smaller space of values, e.g. SHA-256 maps any file to a 256-bit digest
+
+Cryptographic hashes have additional features:
+
+* Easy to compute
+* One way: can't derive a source from a hash
+* Sensitive: modifying a source changes the hash
+* Few collisions: different souces have different hashes
+
+MD5, SHA-1 in common use, but broken. SHA-2 developed by NSA, but seems secure...
+
+Useful for validating messages, downloaded files, etc.
+
+* Alice posts message and hash
+* Bob downloads message and hash
+* Bob computes hash for message and compares to what Alice posted
+* If they're equal, Bob's happy that the download was successful
+* If Eve changed the message in transit, the hashes won't be the same
+
+---
+
+# Signing messages: authentication
+
+Assume a public key encryption scheme.
+
+* Alice finds a message's hash, encrypts it with her private key
+* Alice sends the message plus encrypted hash to Bob
+* Bob decrypts the hash with Alice's public key
+* Bob hashes message and compares it what Alice sent
+* If they're the same, Bob knows
+    1. The message wasn't changed in transit
+    2. Alice must have sent the message, as only she had the private key
+
+See also TU100 Block 5 Part 3 on cryptography and security.
+
+---
+
+# Bitcoin
+Hashes used as proof of work for 'mining' bitcoins.
+
+* Block is transaction history + nonce word
+* Challenge is to find a nonce word that gives a hash in the correct range
+* No shortcut: must try many, many nonces and see what works
+
+---
+
+ # Boolean algegra identities
+
+|Rule | Left | Right | 
+|------|----:|:----|
+|`\(\text{Associativity of } \vee                             \)`|`\( x \vee (y \vee z)     \)`|`\( = (x \vee y) \vee z \)`|
+|`\(\text{Associativity of } \wedge                           \)`|`\( x \wedge (y \wedge z) \)`|`\( = (x \wedge y) \wedge z \)`|
+|`\(\text{Commutativity of } \vee                             \)`|`\( x \vee y              \)`|`\( = y \vee x \)`|
+|`\(\text{Commutativity of } \wedge                           \)`|`\( x \wedge y            \)`|`\( = y \wedge x \)`|
+|`\(\text{Distributivity of } \wedge \text{ over } \vee \quad \)`|`\( x \wedge (y \vee z)   \)`|`\( = (x \wedge y) \vee (x \wedge z) \)`|
+|`\(\text{Identity for } \vee                                 \)`|`\( x \vee 0              \)`|`\( = x \)`|
+|`\(\text{Identity for } \wedge                               \)`|`\( x \wedge 1            \)`|`\( = x \)`|
+|`\(\text{Annihilator for } \wedge                            \)`|`\( x \wedge 0            \)`|`\( = 0 \)`|
+|`\(\text{Double negation }                                   \)`|`\( \neg \neg x           \)`|`\( = x \)`|
+|`\(\text{De Morgan's Law }                                   \)`|`\( \neg ( x \wedge y )   \)`|`\( = \neg x \vee \neg y \)`|
+|`\(\text{De Morgan's Law }                                   \)`|`\( \neg ( x \vee y )     \)`|`\( = \neg x \wedge \neg y \)`|
+
+You can prove all these by truth tables.
+
+---
+
+# Boolean Notation
+
+`\( \wedge = \& = × = \cdot  = \text{and}\)` ; `\( \vee = | = + = \text{or}\)` ; `\( \neg x = \: \sim x = x' = \overline x = \text{not}\)`
+
+## implies
+
+`implies` is a connective: `\(a \text{ implies } b = a \rightarrow b = a \supset b = \neg a \vee b \)`
+
+`\( A \)` | `\( B \)` | `\( \neg A \)` | `\( \neg A \vee B \)` | `\( A \rightarrow B \)`
+:--------:|:---------:|:--------------:|:---------------------:|:-----------------------:
+    F     |     F     |       T        |           T           |          T
+    F     |     T     |       T        |           T           |          T
+    T     |     F     |       F        |           F           |          F
+    T     |     T     |       T        |           T           |          T
+
+If A is true, B must be true. If A is false, B can be anything.
+
+Use other notation for derivations and proofs: see your friendly mathematicians.
+
+---
+
+#Karnaugh maps
+
+.float-right[![Karnaugh maps](Karnaugh_map2.png)]
+
+A way of visually simplifying Boolean expressions. 
+
+Draw the biggest loops you can, don't worry if the overlap.
+
+---
+
+# File handling in Python
+
+* Reading, writing appending
+* `read()` and `readlines()`
+* Text and binary
+* Text encodings
+
+
+
+
+    </textarea>
+    <script src="http://gnab.github.io/remark/downloads/remark-0.6.0.min.js" type="text/javascript">
+    </script>
+
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntil=configured"></script>
+
+    <script type="text/javascript">
+      var slideshow = remark.create({ ratio: "16:9" });
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+        tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        }
+      });
+      MathJax.Hub.Queue(function() {
+        $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+            return(elem.SourceElement());
+        }).parent().addClass('has-jax');
+      });
+      MathJax.Hub.Configured();
+    </script>
+  </body>
+</html>

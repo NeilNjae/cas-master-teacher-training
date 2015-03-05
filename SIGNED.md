@@ -3,19 +3,19 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAABAgAGBQJU53KIAAoJEJPB2e07PgbqI38P/j/eQEa78/O/0rw7Gvnnglut
-pHkghfKnyX0NSTif8OpK7MtxikwC8h8BMu7+KOX+BZu31RAZxeXVdxHkyKXT7/jD
-YLXPeK/803362bsJiL9yebVf5C1it8opIzCGe/nx6O+bLHqO8eEuaB9xmE5CnS+T
-etEijh889LP3dwKPjYia+kJci55mHLoVgWQzXbQQnvc8Pi3TNRbHOehdSRgGOa5k
-g5HAJdggPGgnTrzItsA86yZzAdjgSBbJvs/aGn4Qjx5w+wiiN0BANI3/H3cgP7Hc
-Yeby1VfFo3Kqpp48EggTw54+Tgvco17QB3PQj4Nux/FbdKeSS+eT/2m/4uOVblXT
-w8tcmZS9DHctD/g3e+9C0eAcVZgSygzdFhK7zJ1o3x0z0Ic9/qcHxaWvijcExjeB
-E0gr2matR9zZshRJKLlKs975xoQL9OlcpZHcvVijAkp9aCr8/zgGWlrFmNHnMqKx
-bg2LxV3SgKpoTvpqAWEugUD4OgSZ2iuqCVhqMnCt5hesqmHJSJ7wH5t1XyEml8mx
-z1VDeMWtVAf/xjU9tN/++JWVFH9YxvL/2FFuREWYch35dc9LuUUrwkUk+dR+sdW9
-D8y51adNR1cfzVefzyInBku3tu+lE3JRGKizT9rdWl8V+kq9Ma9BiGrn1W8LYHI3
-+M56lSm5HEJK+lQ0W7TP
-=ywOf
+iQIcBAABAgAGBQJU+O2fAAoJEJPB2e07PgbqUS8P/RXy5zccLlaXhVVSjC2bwBk9
+87Ibf1DoiJVIfZ3iPKLiqv66L3KyDjBTlpNvH8XvvRkQ1i4M5tdWEWeqWkKJXAAd
+yo+k5dAX7if4jvzpt9d88CituRBhn9AtXnlhwx0vVfYU2f7amhlWN5TEhPUbzrKG
+V5JWXQv1So4ZIU5bHSj2Qd3exQAVxWpm/OY239E7WlahgkbUzqzzd9KdLvyeSjE9
+JSQ+8yotXBu12wMNhrwmd/spa1UTFhD602h6Vcur7QmFAftm/eFID+IY+wFfsjou
+WXSM7SgL3PXkKCzSCHYhO41y3XFalBMfFqeri0iV7J1y8rLPfchmm10NZZOZTz3Q
+M+lPFa9BTRLZ5HlwC9w0hmnFaqBHQetEnscu3V+7qst0QPUvGM9QWvfn87HRwB1i
+8fahdrVBrwrJceEOfcnLov4zMeoR5x61J1VNPBuWtVZ9BVczjlkJBs+NflbM0uFu
+lE2jwcqgrMBpPATNs7L4GfNbWJdRhd3d3meZhSxnxe0O7fubX8mm3gXGB96+r/58
+ppfb5axeeU/DC+B0og/xUmqSAjwP9YYUqjSv7zu6YMVj3UDLJZVdb/RoRkA4AlCI
+BJUEtMKvCe7wRoMbS91oA8UvOFqxkC05qBpPnwBmOJs5hbGbeg8fu7j8WK1K3DBs
+cPHT6YsBiIb8dR1F7RFS
+=yzXB
 -----END PGP SIGNATURE-----
 
 ```
@@ -30,9 +30,12 @@ D8y51adNR1cfzVefzyInBku3tu+lE3JRGKizT9rdWl8V+kq9Ma9BiGrn1W8LYHI3
 size    exec  file                                 contents                                                                                                                         
               ./                                                                                                                                                                    
 384             .gitignore                         a93de2ae5c2a47a38599751d1f914566569dfa09dd1778e207117db6c71421dd                                                                 
+11547           Hash_table_5_0_1_1_1_1_1_LL.svg    e95ff61c4b3a5e202fdea793673e5288321aade8eaac1e9bc61229ee0a27c7ba                                                                 
+2643            Karnaugh_map2.png                  fffe1982ec61fea8cc6488c7bf7206572297962419f3ee71d95867e27f7c9d87|30ce6e3887da5efb4068383508a86bc6e38153c53c307a23c29632795b166bd3
 339             README.md                          b6a32e10a4a36e2de32385dedef3e88bad767c41a92caeb93086d5065ac0a188                                                                 
 78868           Untitled0.ipynb                    8ac2a76fb3b6f29f2b3a35c4db46c35ec81d053c9a86bec8a1dee48905d5953a                                                                 
 1363            Untitled1.ipynb                    ef878c0d63f138a496713f862ef177f4346942944b690ad48589e7adb929b62d                                                                 
+7656            a-level-miscellany.html            d0df27fdaeeebfb886193b8b2f68204e625093d363021e8dee5adfd8b1cfbd1d                                                                 
 81789           alan-turing.jpg                    52fc427b7eee09b10682cf36594ff9038f497c856c284d912f44c7603561969b|300c9f022062d629ec4f4bcb7192d732ca850d0ab92f9f39b2b90981979abdf7
 13180           algorithms.html                    5d983371c7ba55108c68d19a8dfe419dfa387587b764415bce09c59e55d1c5da                                                                 
 20722           big-o-chart-2-smaller.png          e57e10b28aa20f09b308fee493a996cea11a374160edd36a82170730130b7446|d0f348376c076c50c429756da7ee020e545aa5ff781fe4b983662cf23f503d0b
@@ -63,7 +66,7 @@ size    exec  file                                 contents
 5366            hangman.html                       64a75e50559c236118e2cc91651f5ac7091d14f3d27b7038a3d4770beb3dee08                                                                 
 4167            hangman2.html                      84014a67033d320605b3ae2eacc6a2f622560a2694487624c39d9fd66a9278f4                                                                 
 41276           human-computer-worksheet.png       354fa591f28e7b979f8efa9ed6423ce76e019601628945ac61b173bf6107ce60|11073eea5462dd9fbd056cc6694dbab62408e251c64001dc7090060d7fbf96ff
-2191            index.html                         4b8e1de469018e557ce42955c3ede679f08d8a5421a9b1c5cb91ae03ed681a75                                                                 
+2265            index.html                         a104a11703f9ca8b58711265a6d60c6f105c9061e7d8aeab898d1f344f0368be                                                                 
 650             make-change.dot                    cc56b42a08ee78b0ec2afa8c96ce4574ae546f959e535e68605beb66394247c1                                                                 
 54549           make-change.dot.png                7c46cdaac91b084a95903de65685906d2c61cd1c55d740936ec6f1bb9050ee22|bd52720ce8c4b7350caed16cc72954757550f4e62e8a030f151922ac9a11dffe
 2216            oulogo_hor.png                     93dae19a7dde063927ca9a3ec7d468cc20f0bc4da9091fdf4819273ab4cf524a|f73072930ecf211ce23d4559b9fbdd11c1be4a0451fa6a8f74ad803d4f5f71ee
